@@ -15,3 +15,11 @@ Hit musical numbers from the blockbuster movies ‘Dilwale Dulhania Le Jayenge�
 
 <iframe src="assets/plot/lang_piechart_CMU.html" width="750px" height="530px" frameborder="0" position="relative">Top 10 Languages</iframe>
 
+## Movie Metadata Analysis and Findings
+First, let's take a look at box-office revenues. Since our aim is to study the links between the music soundtrack and the film, we first need to understand the internal dynamics of movies. Box-office revenue is a good indication of a film's success. Let's see how it relates to certain features and find out why.
+
+From our analysis, we find out that there is a little positive correlation between revenue and year of production (pearson correlation coeff of 0.18 and p-value <0.05). “Younger" films seem to earn more! However, this could be due to inflation. By adjusting revenue with the Consumer Price Index (CPI) for USD, using the formula : 
+$$
+  Adjusted revenue = \frac{Movie Box Office Revenue}{CPI of movie released date}*CPI of baseyear
+$$
+
