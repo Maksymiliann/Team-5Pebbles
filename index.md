@@ -54,26 +54,22 @@ Overall the observations could be made that music in films produced in India dif
 #######BOXPLOT WHERE WE CAN CLIC ON THE DIFFERENT COUNTRIES########
 #######LINEGRAPH WHERE WE CAN CLIC ON THE DIFFERENT LANGUAGES#######
 
-Let’s dance! [Dance monkey](https://open.spotify.com/intl-fr/track/2XU0oxnq2qxCpomAAuJY8K?si=27dff2c069fa4379): The outcomes of our graphs show an elevated danceability in films produced in India, as well as for films produced in the languages Tamil and Malayalam. Only looking at the top three countries/languages, this is true throughout the years (only spanish music varies a lot). 
+Let’s dance! [(Dance monkey)](https://open.spotify.com/intl-fr/track/2XU0oxnq2qxCpomAAuJY8K?si=27dff2c069fa4379): 
+The outcomes of our graphs show an elevated danceability in films produced in India, as well as for films produced in the languages Tamil and Malayalam. Only looking at the top three countries/languages, this is true throughout the years (only spanish music varies a lot). 
 
-Its all about energy: 
-https://open.spotify.com/intl-fr/track/0YxKKO272sacGBJKjf6FnB?si=73fd450f952c400c
+Its all about energy [(Saari Duniya Jalaa Denge)](https://open.spotify.com/intl-fr/track/0YxKKO272sacGBJKjf6FnB?si=73fd450f952c400c):
 Music in films produced in India seem to have a higher track energy than music in films produced in countries such as Argentina, Italy, France and UK. This is true especially for the period after 1950. 
 
-Instrumentalness
-https://open.spotify.com/intl-fr/track/0XkcuWNLacWDwEDmvq4CCy?si=2815774615b541bb
+Instrumentalness [(Die Zauberflöte)](https://open.spotify.com/intl-fr/track/3aHCqW7Usbfg4jdxkrX1rV?si=32fbdf9718fb4d3e):
 In the film music of India, the instrumentalness is significantly lower than the one of the other countries. This can be applied as well to music of films in the languages Tamil and Hindi. Again, it is especially true for movies produced after 1950. 
 
-Turn it up!
-https://open.spotify.com/intl-fr/track/1RcWWgnw5fVm3wcNq11zBu?si=4b8cc16e75e74156
+Turn it up![(Mama Laudaa)](https://open.spotify.com/intl-fr/track/1RcWWgnw5fVm3wcNq11zBu?si=4b8cc16e75e74156):
 Regarding the Loudness of the music in movies, the one in films from India is generally louder than the one in the films from Italy, France, Germany and UK. This applies as well to the music in films in the languages Malayalam, Hindi, Tamil. This differences are especially significant after 1950. 
 
-Think positive!
-https://open.spotify.com/intl-fr/track/5VleylW0kyuf4VBDACeUSa?si=62f316c90f82441a
+Think positive![(Bien-être)](https://open.spotify.com/intl-fr/track/5VleylW0kyuf4VBDACeUSa?si=62f316c90f82441a):
 As well regarding positivity, music in Indian movies has a higher track valence than movies produced in other countries. Same can be applied to films produced in the languages Malayalam, Hindi and Tamil. This is true throughout our timeline. 
 
-Thats taking sooo long…
-https://open.spotify.com/intl-fr/track/2KHOwjO9oqYK3zfx7YuuLg?si=59dfe875500c4969
+Thats taking sooo long… [(Symphony of the Crown, Pt.1)](https://open.spotify.com/intl-fr/track/2KHOwjO9oqYK3zfx7YuuLg?si=59dfe875500c4969):
 As a last feature where we found differences, the track duration of indian movies is normally higher compared to films produced elsewhere. Again, this can be applied as well for Tamil, Hindi, Malayalam languages. This is especially the case for the years after 1960.
 
 But there are also indifferent music features… 
