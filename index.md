@@ -56,9 +56,6 @@ As expected, the English language is again the major one followed by Hindi. The 
 
 Let's now understand how the music features differ across the movies of the various genres, countries and languages!
 
-<iframe src="assets/plot/boxtry1.webarchive" width="750px" height="530px" frameborder="0" position="relative">WA1</iframe>
-<iframe src="assets/plot/boxtry2.webarchive" width="750px" height="530px" frameborder="0" position="relative">WA2</iframe>
-
 When we imagine films, depending on their genre, a different kind of music plays in our heads. Thinking about romantic movies leads our mind to a calm, slow, romantic waltz, while we maybe associating more heavy metal playing while thinking about action movies. We therefore identified movie genre as a possible confounder and thus, created box plots and line plots for music features across movie genres. But although different melodies come to our mind about what music belongs to a certain genre of music, surprisingly, in all our plots, none of this is clearly visible. Films of different genres present quite similar characteristics regarding the music played in them. This can possibly be due to the fact that emotions in these different genres of movies are quite overlapping and so, the distribution of music features could be similar among them. We will look at this association more closely in our next section where we analyse the long term relationships between emotions and music but for now, we can clearly therefore exclude the movie genre as a possible confounders.
 
 <iframe src="assets/plot/duration_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">DCSp</iframe>
@@ -75,7 +72,7 @@ When we imagine films, depending on their genre, a different kind of music plays
 
 From all the above plots, we can clearly discern that the music in films produced in India often differs from the films produced in other countries and/or continents (US, Europe). This is also evident for the music in the films in Hindi, Tamil and Malayalam languages which is expected since these films are produced in India. We will now state the music features (and our findings corresponding to them) where we discovered a significant difference:
 
-**Let’s dance! [(Dance monkey)](https://open.spotify.com/intl-fr/track/2XU0oxnq2qxCpomAAuJY8K?si=27dff2c069fa4379)**: The outcomes of our graphs show an elevated danceability in films produced in India, as well as for films produced in the languages Telugu, Tamil and Malayalam which is expected since these are Indian languages. 
+**Let’s dance! [(Dance Monkey)](https://open.spotify.com/intl-fr/track/2XU0oxnq2qxCpomAAuJY8K?si=27dff2c069fa4379)**: The outcomes of our graphs show an elevated danceability in films produced in India, as well as for films produced in the languages Telugu, Tamil and Malayalam which is expected since these are Indian languages. 
 
 **Its all about energy [(Jai Ho)](https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4)**: Music in films produced in India seem to have a higher energy than music in films produced in countries such as Italy, France and UK. This is again evident from the plots of films in the Indian language. 
 
@@ -83,9 +80,9 @@ From all the above plots, we can clearly discern that the music in films produce
 
 **Speechiness[(Kabhi Kabhi Mere Dil Mein Khayal Aata Hai)](https://open.spotify.com/track/2LQQwhjAAO9fY7Qys29OTM)**: The outcomes of our graphs show an elevated speechiness in films produced in India, as well as for films produced in the languages Telugu and Tamil which is expected since these are Indian languages. Only looking at the top 3 countries/languages, this is true throughout the years.
 
-**Turn it up![(Mama Laudaa)](https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu)**: Music in films from India is generally louder than the one in the films from Italy, France, Germany and UK. This again applies (as expected) to the music in films in the languages Malayalam, Hindi, Tamil. 
+**Turn it up![(Footloose)](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw)**: Music in films from India is generally louder than the one in the films from Italy, France, Germany and UK. This again applies (as expected) to the music in films in the languages Malayalam, Hindi, Tamil. 
 
-**Think positive![(Bien-être)](https://open.spotify.com/track/4gpjTvrSADGgcxBhgLkzOE)**: Regarding positivity, music in Indian movies has a higher track valence than movies produced in other countries. Same can be said for the films produced in the languages Malayalam, Hindi and Tamil (as expected). 
+**Think positive![(Another Day of Sun)](https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ)**: Regarding positivity, music in Indian movies has a higher track valence than movies produced in other countries. Same can be said for the films produced in the languages Malayalam, Hindi and Tamil (as expected). 
 
 **Thats taking sooo long…[(Symphony of the Crown, Pt.1)](https://open.spotify.com/intl-fr/track/2KHOwjO9oqYK3zfx7YuuLg?si=59dfe875500c4969)**: As a last feature where we found differences, the track duration of Indian movies is normally higher compared to that in the films produced elsewhere. Again, this can be seen (as expected) for Tamil, Hindi and Malayalam languages. 
 
