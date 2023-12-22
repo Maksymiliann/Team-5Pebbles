@@ -76,15 +76,15 @@ From all the above plots, we can clearly discern that the music in films produce
 
 **Its all about energy [(Jai Ho)](https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4)**: Music in films produced in India seem to have a higher energy than music in films produced in countries such as Italy, France and UK. This is again evident from the plots of films in the Indian language. 
 
-**Instrumentalness[(Die Zauberflöte)](https://open.spotify.com/intl-fr/track/3aHCqW7Usbfg4jdxkrX1rV?si=32fbdf9718fb4d3e)**: In the film music of India, the instrumentalness is significantly lower than that of the other countries. Again, the same trend is seen in the music of films in the languages Tamil and Hindi. 
+**Instrumentalness [(Die Zauberflöte)](https://open.spotify.com/intl-fr/track/3aHCqW7Usbfg4jdxkrX1rV?si=32fbdf9718fb4d3e)**: In the film music of India, the instrumentalness is significantly lower than that of the other countries. Again, the same trend is seen in the music of films in the languages Tamil and Hindi. 
 
-**Speechiness[(Kabhi Kabhi Mere Dil Mein Khayal Aata Hai)](https://open.spotify.com/track/2LQQwhjAAO9fY7Qys29OTM)**: The outcomes of our graphs show an elevated speechiness in films produced in India, as well as for films produced in the languages Telugu and Tamil which is expected since these are Indian languages. Only looking at the top 3 countries/languages, this is true throughout the years.
+**Speechiness [(Kabhi Kabhi Mere Dil Mein Khayal Aata Hai)](https://open.spotify.com/track/2LQQwhjAAO9fY7Qys29OTM)**: The outcomes of our graphs show an elevated speechiness in films produced in India, as well as for films produced in the languages Telugu and Tamil which is expected since these are Indian languages. Only looking at the top 3 countries/languages, this is true throughout the years.
 
-**Turn it up![(Mama Laudaa)](https://open.spotify.com/intl-fr/track/1RcWWgnw5fVm3wcNq11zBu?si=ee95fc84215f4b93)**: Music in films from India is generally louder than the one in the films from Italy, France, Germany and UK. This again applies (as expected) to the music in films in the languages Malayalam, Hindi, Tamil. 
+**Turn it up! [(Mama Laudaa)](https://open.spotify.com/intl-fr/track/1RcWWgnw5fVm3wcNq11zBu?si=ee95fc84215f4b93)**: Music in films from India is generally louder than the one in the films from Italy, France, Germany and UK. This again applies (as expected) to the music in films in the languages Malayalam, Hindi, Tamil. 
 
-**Think positive![(Bien etre)](https://open.spotify.com/intl-fr/track/5VleylW0kyuf4VBDACeUSa?si=ed83d8825f2b4bb3)**: Regarding positivity, music in Indian movies has a higher track valence than movies produced in other countries. Same can be said for the films produced in the languages Malayalam, Hindi and Tamil (as expected). 
+**Think positive! [(Bien etre)](https://open.spotify.com/intl-fr/track/5VleylW0kyuf4VBDACeUSa?si=ed83d8825f2b4bb3)**: Regarding positivity, music in Indian movies has a higher track valence than movies produced in other countries. Same can be said for the films produced in the languages Malayalam, Hindi and Tamil (as expected). 
 
-**Thats taking sooo long…[(Symphony of the Crown, Pt.1)](https://open.spotify.com/intl-fr/track/2KHOwjO9oqYK3zfx7YuuLg?si=59dfe875500c4969)**: As a last feature where we found differences, the track duration of Indian movies is normally higher compared to that in the films produced elsewhere. Again, this can be seen (as expected) for Tamil, Hindi and Malayalam languages. 
+**Thats taking sooo long… [(Symphony of the Crown, Pt.1)](https://open.spotify.com/intl-fr/track/2KHOwjO9oqYK3zfx7YuuLg?si=59dfe875500c4969)**: As a last feature where we found differences, the track duration of Indian movies is normally higher compared to that in the films produced elsewhere. Again, this can be seen (as expected) for Tamil, Hindi and Malayalam languages. 
 
 But there are also indifferent music features…for the features album popularity, acousticness, liveness and tempo, no clear distinctions could be seen in the boxplots. Keeping these variations in mind, let us now turn over to analysing the country-specific music styles.
 
