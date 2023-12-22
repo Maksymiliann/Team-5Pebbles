@@ -31,8 +31,6 @@ Hit musical numbers from the blockbuster movies â€˜Dilwale Dulhania Le Jayengeâ€
 
 <iframe src="assets/plot/lang_pie_spotify.html" width="750px" height="530px" frameborder="0" position="relative">LPieSp</iframe>
 
-<iframe src="assets/plot/lang_pie_spotify.html" width="750px" height="530px" frameborder="0" position="relative">LPieSp</iframe>
-
 <iframe src="assets/plot/duration_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">DCSp</iframe>
 
 <iframe src="assets/plot/energy_lang_spotify.html" width="750px" height="530px" frameborder="0" position="relative">ELSp</iframe>
