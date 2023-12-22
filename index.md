@@ -23,7 +23,7 @@ Hit musical numbers from the blockbuster movies â€˜Dilwale Dulhania Le Jayengeâ€
 
 <iframe src="assets/plot/runtime_lineplot_top10languages_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RLTL</iframe>
 
-assets/plot/scatterplotmatrix_spotify_final.png
+![scatterplotmatrix](assets/plot/scatterplotmatrix_spotify_final.png)
 
 <iframe src="assets/plot/genre_pie_spotify.html" width="750px" height="530px" frameborder="0" position="relative">GPieSp</iframe>
 
