@@ -14,15 +14,13 @@ Hit musical numbers from the blockbuster movies â€˜Dilwale Dulhania Le Jayengeâ€
 
 ## Movie Metadata Dataset (CMU Movie Summary Corpus) 
 
-After some pre-processing, we found out that this dataset contains a total of 81734 unique movies. Let's us now see how these movies are distributed across different genres, countries and languages! 
+After some pre-processing, we found out that this dataset contains a total of 81734 unique movies. Let's now see how these movies are distributed across different genres, countries and languages! 
 
 <iframe src="assets/plot/country_piechart_CMU.html" width="750px" height="530px" frameborder="0" position="relative">Top 10 Countries</iframe>
 
 <iframe src="assets/plot/lang_piechart_CMU.html" width="750px" height="530px" frameborder="0" position="relative">Top 10 Languages</iframe>
 
 <iframe src="assets/plot/genre_piechart_CMU.html" width="750px" height="530px" frameborder="0" position="relative">Top 10 Genres</iframe>
-
-The top 10 in the country and language categories includes 80% of films, 50% in the genre category. To measure the link between these categories and the revenue, we'll take into account only these top 10 to make the results easier to read. (Or even the top 3 when the results graphs are too disordered, representing 62% of films for language, 70% for country, 27% for genre).
 
 We can clearly see that the United States of America is producing the most films, followed by India and the United Kingdom. The top 10 countries represent ~ 79.3% of the movies in the dataset (~ 58.6% for the top 3). As we then expected, the English language is the one with the most movies in the dataset and makes for more than half of the the data. The rest of the languages: 'Hindi', 'Spanish', 'French', etc. are far more similar in abundance. The top 10 languages represent ~ 80.4% of the movies (~ 59.4% for the top 3). Additionally, the top 3 genres of films are Drama, Comedy and Romance and are more equally represented than the languages and countries. The top 10 genres represent ~ 47.8% of the films (~ 24.9% for the top 3 genres). We can therefore continue our analysis using the top 10, or top 3, countries and/or languages and/or genres when the plots are too overlapping.
 
@@ -116,10 +114,10 @@ All the various attributes of music and their potential combinations can capture
 
 With this background in mind, let us now embark on a journey into the heart of the dynamic interplay between the nuanced language of emotions embedded within movie plot summaries and the features of music present in the movies. In this exploration, we leveraged the power of DistilBERT, a cutting-edge transformer model, pre-trained specifically for emotion classification. DistilBERT allows us to decode the sentiment scores of love, sadness, joy, anger, fear and also surprise that lie beneath the movie plot summaries.
 
-## Preliminary Analysis:
+## Preliminary Analysis
 To begin with, after affecting the emotion classification of movie plot summaries using DistilBERT, we were able to visualise the distributions and pairwise correlations of emotions across movies using a scatter plot matrix. Since all the correlation coefficients were less than 0.75, we can conclude that none of the emotions are strongly correlated with one another. 
 
-## Analysis of the Emotions and the Relationships between the Time Series of Emotions and Music:
+## Analysis of the Emotions and the Relationships between the Time Series of Emotions and Music
 We now strategically zoom in on the 2 cinematic powerhouses where music and movies gel together: India and the United States of America (USA). These nations, which are the top 2 countries in our dataset, serve as the focal points for our in-depth time series analysis. As we could see previously, USA and India had 2 different music styles and it will now be interesting to see if these differences would also be present in then interlinkages between music emotions. We will further examine whether the music in these countries' movies over the years shares a long-term relationship with the emotions portrayed by the in these countries' movies over the years for the top 5 genres.
 
 ### India
