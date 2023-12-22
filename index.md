@@ -31,8 +31,67 @@ Hit musical numbers from the blockbuster movies â€˜Dilwale Dulhania Le Jayengeâ€
 
 <iframe src="assets/plot/lang_pie_spotify.html" width="750px" height="530px" frameborder="0" position="relative">LPieSp</iframe>
 
+<iframe src="assets/plot/lang_pie_spotify.html" width="750px" height="530px" frameborder="0" position="relative">LPieSp</iframe>
 
+<iframe src="assets/plot/duration_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">DCSp</iframe>
 
+<iframe src="assets/plot/energy_lang_spotify.html" width="750px" height="530px" frameborder="0" position="relative">ELSp</iframe>
+
+<iframe src="assets/plot/instrumentalness_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">ICSp</iframe>
+
+<iframe src="assets/plot/loudness_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">LCSp</iframe>
+
+<iframe src="assets/plot/speechiness_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">SCSp</iframe>
+
+<iframe src="assets/plot/valence_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">VCSp</iframe>
+
+<iframe src="assets/plot/india_joy.html" width="750px" height="530px" frameborder="0" position="relative">INj</iframe>
+
+<iframe src="assets/plot/india_love.html" width="750px" height="530px" frameborder="0" position="relative">INl</iframe>
+
+<iframe src="assets/plot/india_sadness.html" width="750px" height="530px" frameborder="0" position="relative">INs</iframe>
+
+<iframe src="assets/plot/india_anger.html" width="750px" height="530px" frameborder="0" position="relative">INa</iframe>
+
+<iframe src="assets/plot/india_fear.html" width="750px" height="530px" frameborder="0" position="relative">INf</iframe>
+
+<iframe src="assets/plot/india_surprise.html" width="750px" height="530px" frameborder="0" position="relative">INsr</iframe>
+
+<iframe src="assets/plot/india_danceability.html" width="750px" height="530px" frameborder="0" position="relative">INd</iframe>
+
+<iframe src="assets/plot/india_liveness.html" width="750px" height="530px" frameborder="0" position="relative">INlv</iframe>
+
+<iframe src="assets/plot/india_energy.html" width="750px" height="530px" frameborder="0" position="relative">INe</iframe>
+
+<iframe src="assets/plot/india_instrumentalness.html" width="750px" height="530px" frameborder="0" position="relative">INi</iframe>
+
+<iframe src="assets/plot/india_acousticness.html" width="750px" height="530px" frameborder="0" position="relative">INac</iframe>
+
+<iframe src="assets/plot/usa_joy.html" width="750px" height="530px" frameborder="0" position="relative">USj</iframe>
+
+<iframe src="assets/plot/usa_love.html" width="750px" height="530px" frameborder="0" position="relative">USl</iframe>
+
+<iframe src="assets/plot/usa_sadness.html" width="750px" height="530px" frameborder="0" position="relative">USs</iframe>
+
+<iframe src="assets/plot/usa_anger.html" width="750px" height="530px" frameborder="0" position="relative">USa</iframe>
+
+<iframe src="assets/plot/usa_fear.html" width="750px" height="530px" frameborder="0" position="relative">USf</iframe>
+
+<iframe src="assets/plot/usa_surprise.html" width="750px" height="530px" frameborder="0" position="relative">USsr</iframe>
+
+<iframe src="assets/plot/usa_danceability.html" width="750px" height="530px" frameborder="0" position="relative">USd</iframe>
+
+<iframe src="assets/plot/usa_liveness.html" width="750px" height="530px" frameborder="0" position="relative">USlv</iframe>
+
+<iframe src="assets/plot/usa_energy.html" width="750px" height="530px" frameborder="0" position="relative">USe</iframe>
+
+<iframe src="assets/plot/usa_instrumentalness.html" width="750px" height="530px" frameborder="0" position="relative">USi</iframe>
+
+<iframe src="assets/plot/usa_acousticness.html" width="750px" height="530px" frameborder="0" position="relative">USac</iframe>
+
+<iframe src="assets/plot/success_Album_Popularity.html" width="750px" height="530px" frameborder="0" position="relative">SsAP</iframe>
+
+<iframe src="assets/plot/success_Track_Liveness.html" width="750px" height="530px" frameborder="0" position="relative">SsTL</iframe>
 
 
 ## Movie Metadata Analysis and Findings
