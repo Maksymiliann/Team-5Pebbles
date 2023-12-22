@@ -70,7 +70,9 @@ When we imagine films, depending on their genre, a different kind of music plays
 
 <iframe src="assets/plot/valence_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">VCSp</iframe>
 
-From all the above plots, we can clearly discern that the music in films produced in India often differs from the films produced in other countries and/or continents (US, Europe). This is also evident for the music in the films in Hindi, Tamil and Malayalam languages which is expected since these films are produced in India. We will now state the music features (and our findings corresponding to them) where we discovered a significant difference:
+So as not overcrowd this space, we have only presented 5 of our box plots. However, we invite you to download the .webarchive files: [(BoxPlots1)](https://drive.google.com/file/d/1Zb6K7DvfQ8KsSg5qOPfdzileVpjd5RCC/view?usp=share_link) and [(BoxPlots2)](https://drive.google.com/file/d/1WQoUsfTDIQMP7QJx5gVbyPOruQQxKrsw/view?usp=share_link) locally and open them to interactively switch between boxplots of music features across movies of different genres, countries and languages!
+
+From all our plots, we can clearly discern that the music in films produced in India often differs from the films produced in other countries and/or continents (US, Europe). This is also evident for the music in the films in Hindi, Tamil and Malayalam languages which is expected since these films are produced in India. We will now state the music features (and our findings corresponding to them) where we discovered a significant difference:
 
 **Let’s dance! [(Dance Monkey)](https://open.spotify.com/intl-fr/track/2XU0oxnq2qxCpomAAuJY8K?si=27dff2c069fa4379)**: The outcomes of our graphs show an elevated danceability in films produced in India, as well as for films produced in the languages Telugu, Tamil and Malayalam which is expected since these are Indian languages. 
 
@@ -90,7 +92,7 @@ But there are also indifferent music features…for the features album popularit
 
 ## Country-Specific Music Styles
 
-After performing t-tests, we perform t-tests comparing all the music features between movies of a particular country and movies from the rest of the world. We did this for the top 3 countries and as expected this revealed significant differences in music styles:
+After performing t-tests, we compared all the music features between movies of a particular country and movies from the rest of the world. We did this for the top 3 countries and as expected, this revealed significant differences in music styles:
 
 **US**: The remarkably low p-values across all features, such as album popularity, album averaged track duration, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo, and valence, strongly reject the null hypothesis that there is no distinction between the two groups. These findings suggest that not only do geographical differences exist in terms of album popularity, but specific musical attributes vary significantly between the United States and the rest of the world. American movie albums are significantly more popular than the rest of the world, which is not surprising since the US music market is the largest music market in the world, particularly on spotify (70% of the songs on Spotify’s Global Top-50 playlist were recorded by US-based artists). However, while they are much more instrumental than other countries’ music, American movie music is shorter and has a lower score in all the other music traits.
 
