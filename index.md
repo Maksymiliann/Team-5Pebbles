@@ -1,9 +1,9 @@
 ---
 layout: page
 title: How Music Moves Movies
-cover-img: /assets/img/image0.png
-thumbnail-img: /assets/img/image0.png
-share-img: /assets/img/image0.png
+cover-img: /assets/img/charisma_datastory_cover.JPG
+thumbnail-img: /assets/img/charisma_datastory_cover.JPG
+share-img: /assets/img/charisma_datastory_cover.JPG
 ---
 
 # Introduction
