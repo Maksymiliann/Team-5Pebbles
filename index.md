@@ -15,6 +15,14 @@ Hit musical numbers from the blockbuster movies â€˜Dilwale Dulhania Le Jayengeâ€
 
 <iframe src="assets/plot/lang_piechart_CMU.html" width="750px" height="530px" frameborder="0" position="relative">Top 10 Languages</iframe>
 
+<iframe src="assets/plot/runtime_boxplot_top10countries_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RBTC</iframe>
+
+<iframe src="assets/plot/runtime_boxplot_top10languages_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RBTL</iframe>
+
+<iframe src="assets/plot/runtime_lineplot_top10countries_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RLTC</iframe>
+
+<iframe src="assets/plot/runtime_lineplot_top10languages_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RLTL</iframe>
+
 ## Movie Metadata Analysis and Findings
 First, let's take a look at box-office revenues. Since our aim is to study the links between the music soundtrack and the film, we first need to understand the internal dynamics of movies. Box-office revenue is a good indication of a film's success. Let's see how it relates to certain features and find out why.
 
