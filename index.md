@@ -40,7 +40,7 @@ For clarity, we only show the boxplots from which we could discern interesting i
 
 ## Spotify Dataset (Combined with the Movie Metadata Dataset)
 
-We were able to scrape music data for 14055 movies (~ 17.2%) of the movie metadata dataset from Spotify. This is a sufficiently high number since not all movies have music in the first place! Our music album data for every movie includes the music album's popularity and music album averaged (with values between 0 and 1)danceability, acousticness, instrumentalness, liveness, valence, duration, loudness, energy and tempo. Let's now have a look at the scatter plot matrix of all these music attributes across different movies!
+We were able to scrape music data for 14055 movies (~ 17.2%) of the movie metadata dataset from Spotify. This is a sufficiently high number since not all movies have music in the first place! Our music album data for every movie includes the music album's popularity and music album averaged (with values between 0 and 1) danceability, acousticness, instrumentalness, liveness, valence, duration, loudness, energy and tempo. Let's now have a look at the scatter plot matrix of all these music attributes across different movies!
 
 ![scatterplotmatrix](assets/plot/scatterplotmatrix_spotify_final.png)
 
@@ -70,7 +70,7 @@ When we imagine films, depending on their genre, a different kind of music plays
 
 <iframe src="assets/plot/valence_country_spotify.html" width="750px" height="530px" frameborder="0" position="relative">VCSp</iframe>
 
-So as not overcrowd this space, we have only presented 5 of our box plots. However, we invite you to download the .webarchive files: [(BoxPlots1)](https://drive.google.com/file/d/1Zb6K7DvfQ8KsSg5qOPfdzileVpjd5RCC/view?usp=share_link) and [(BoxPlots2)](https://drive.google.com/file/d/1WQoUsfTDIQMP7QJx5gVbyPOruQQxKrsw/view?usp=share_link) locally and open them to interactively switch between boxplots of music features across movies of different genres, countries and languages!
+So as not overcrowd this space, we have only presented 5 of our box plots. However, we invite you to download the .webarchive files: [BoxPlots1](https://drive.google.com/file/d/1Zb6K7DvfQ8KsSg5qOPfdzileVpjd5RCC/view?usp=share_link) and [BoxPlots2](https://drive.google.com/file/d/1WQoUsfTDIQMP7QJx5gVbyPOruQQxKrsw/view?usp=share_link) locally and open them to interactively switch between boxplots of music features across movies of different genres, countries and languages!
 
 From all our plots, we can clearly discern that the music in films produced in India often differs from the films produced in other countries and/or continents (US, Europe). This is also evident for the music in the films in Hindi, Tamil and Malayalam languages which is expected since these films are produced in India. We will now state the music features (and our findings corresponding to them) where we discovered a significant difference:
 
