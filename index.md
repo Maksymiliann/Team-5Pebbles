@@ -30,6 +30,10 @@ Let's now understand how runtime and box office revenue differs across the movie
 
 <iframe src="assets/plot/runtime_boxplot_top10languages_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RBTL</iframe>
 
+<iframe src="assets/plot/revenue_boxplot_top10countries_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RVBTC</iframe>
+
+<iframe src="assets/plot/revenue_boxplot_top10languages_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RVBTL</iframe>
+
 <iframe src="assets/plot/runtime_lineplot_top10countries_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RLTC</iframe>
 
 <iframe src="assets/plot/runtime_lineplot_top10languages_CMU.html" width="750px" height="530px" frameborder="0" position="relative">RLTL</iframe>
@@ -192,15 +196,15 @@ Let's now analyse the time series of emotions and music features in Indian movie
 
 #### Time Series Analysis
 
-<iframe src="assets/plot/usa_danceability.html" width="750px" height="530px" frameborder="0" position="relative">USd</iframe>
+<iframe src="assets/plot/usa_acousticness.html" width="750px" height="530px" frameborder="0" position="relative">USac</iframe>
 
-<iframe src="assets/plot/usa_liveness.html" width="750px" height="530px" frameborder="0" position="relative">USlv</iframe>
-
-<iframe src="assets/plot/usa_energy.html" width="750px" height="530px" frameborder="0" position="relative">USe</iframe>
+<iframe src="assets/plot/usa_speechiness.html" width="750px" height="530px" frameborder="0" position="relative">USspec</iframe>
 
 <iframe src="assets/plot/usa_instrumentalness.html" width="750px" height="530px" frameborder="0" position="relative">USi</iframe>
 
-<iframe src="assets/plot/usa_acousticness.html" width="750px" height="530px" frameborder="0" position="relative">USac</iframe>
+<iframe src="assets/plot/usa_energy.html" width="750px" height="530px" frameborder="0" position="relative">USe</iframe>
+
+<iframe src="assets/plot/usa_tempo.html" width="750px" height="530px" frameborder="0" position="relative">USt</iframe>
 
 The time series for US movies exhibit distinctive trends in musical attributes across genres, yet notably, these remain less pronounced than the trends which we could observe in Indian movies. The most perceptible trend is the decay of acousticness across genres since 1970 which could have arisen due to the new era of digital and electronic movie production methods. Furthermore, since 1980, converging speechiness trends suggest a shared emphasis on intelligible and explicit lyrics across movies of different genres. Also, since the 90s an increase in instrumentalness scores is notably higher for thriller and action genres indicating the presence and the will to heighten the suspense and intensity as compared to that in movies of other genres. The trends for energy and tempo attributes show a slight increase in their scores suggesting the American movie industry is now favouring more dynamic compositions!
 
