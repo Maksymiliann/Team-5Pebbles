@@ -24,3 +24,7 @@
 ## Oscar Analysis
 8.⁠ ⁠(8) *Oscar Analysis*:
 
+
+## Miscellaneous
+
+![insert a picture](img/template.jpeg "women looking at man")
