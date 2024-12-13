@@ -4,7 +4,7 @@
 1.⁠ ⁠(1) *Distribution Analysis*: After group the actors into different zodiac signs, we will calculate the distribution. Then we will utilise chi-square to determine if the differences between the zodiac signs are significant or not.
 
 ## Number of Movies
-2.⁠ ⁠(4) *Number of Movies* : After group the actors into different zodiac signs, we will calculate the average number of movie the actor perform for each zodiac sign and use use statstical method to test if the differences between the zodiac signs are significant or not.
+2.⁠ ⁠(4) *Number of Movies* : After group the actors into different zodiac signs, we will calculate the average number of movie the actor perform for each zodiac sign and use use statstical method to test if the differences between the zodiac signs are significant or not. (Ren Yi)
 
 ## Career Logevity
 3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?
@@ -13,7 +13,7 @@
 4.⁠ ⁠(2) *Genre Analysis* Preferences for movie genres among actors of different zodiac signs: ① Calculate the distribution of different genre ② Calculate the genre distribution of each sign ③ Divide the two proportion ④ use statstical method to test if the trends are significant.
 
 ## Casting Preferences
-5.⁠ ⁠(3) *Casting preferences* :① Calculate the distribution of different genre ② Calculate the genre distribution of each sign③ Divide the two proportion ④ use statstical method to test if the trends are significant.
+5.⁠ ⁠(3) *Casting preferences* :① Calculate the distribution of different genre ② Calculate the genre distribution of each sign③ Divide the two proportion ④ use statstical method to test if the trends are significant. (Ren Yi, need normalization, could refer to maskymiliann)
 
 ## Type Diversity Index
 6.⁠ ⁠(7) *Type Diversity Index*: Which zodiac signs demonstrate greater versatility in genre-switching, and how successful are they in different genres throughout their careers?
