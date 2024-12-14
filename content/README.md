@@ -140,7 +140,28 @@ In these 20 genres
 7.⁠ ⁠(5) *Power Role Analysis*: ① Map each actor’s zodiac sign to their respective role ② Use statistical methods (e.g., chi-square tests, logistic regression) to determine if there is a significant association between zodiac signs and the likelihood of being cast in specific roles. Analyze trends and compare how often actors of certain signs are cast as heroes versus villains or sidekicks.
 
 ## Oscar Analysis
-8.⁠ ⁠(8) *Oscar Analysis*:
+8.⁠ ⁠(8) *Oscar Analysis*: Are actors of different zodiac signs equally likely to win an Oscar? Which zodiac sign has the highest probability of winning an Oscar?
+
+The Academy Awards, commonly known as the Oscars, are annual awards presented by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding achievements in the film industry. First held in 1929, the Oscars have become one of the most prestigious and widely recognized accolades in cinema. In this analysis, we gathered the data of the winner of best actor and best actress from 1929-2023 and analyzed the awarding rate of different zodaic signs.  
+
+Methology:  
+1. Calculate the zodiac distribution of Oscar winners
+2. Calculate the awarding rate of different zodiac signs
+3. Use z-score and Chi-square Test to test if the differences of awarding rate among different zodiac signs are significant
+
+![insert oscar picture](img/OscarAwardingRate.png)  
+
+Capricorn, Aries, and Taurus are the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three zodiac signs with the lowest winning rates.  
+
+We applied a z-score test to assess the statistical significance of these differences. Among the 12 zodiac signs, actors born under Capricorn have a significantly higher awarding rate than the average (z-score = 2.985, p-value < 0.05), while those born under Aquarius have a significantly lower awarding rate than the average (z-score = -2.949, p-value < 0.01). For other zodiac signs, the differences in awarding rates compared to the average are not statistically significant. Additionally, we conducted a Chi-Square test to examine whether awarding rates are significantly correlated with zodiac signs. The results (chi-square statistic = 14.177, p-value=0.223) indicates that although the awarding rates of some zodiac sign are significant different from the avarage, Overall, there is no significant correlation between zodiac signs and awarding rates.
+
+**result of z-score**
+
+| Zodiac Sign | Awarding Rate | Z-Score | P-Value | Significant? |  
+|-------------|---------------|---------|---------|--------------|   
+| Capricorn   | 6.43‰         | 2.985   | 0.003   | True         |    
+| Aquarius    | 0.76‰         | -2.949  | 0.003   | True         |  
+
 
 
 ## Miscellaneous
