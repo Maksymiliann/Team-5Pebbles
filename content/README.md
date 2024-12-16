@@ -52,7 +52,7 @@ We use ANOVA Analysis to check if actors with different zodiac signs have a sign
 
 The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
 
-![insert image of actor's career](img/Career_Logivity.png)
+![insert image of actor's career](img/Career_Longivity.png)
 
 Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the difference is significant.
 
