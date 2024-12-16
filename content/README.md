@@ -48,7 +48,19 @@ We use ANOVA Analysis to check if actors with different zodiac signs have a sign
 
 
 ## Career Logevity
-3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?
+3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?  
+
+The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
+
+![insert image of actor's career](img/Career_Logivity.png)
+
+Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the difference is significant.
+
+|                  | F-Statistic | P-Value |
+|------------------|-------------|---------|
+| Entry AGE        | 0.634       | 0.800   |
+| Retire Age       | 0.366       | 0.969   |
+| Career Longevity | 0.815       | 0.625   |
 
 ## Genre Analysis
 4.⁠ ⁠(2) *Genre Analysis* Preferences for movie genres among actors of different zodiac signs: ① Calculate the distribution of different genre ② Calculate the genre distribution of each sign ③ Divide the two proportion ④ use statstical method to test if the trends are significant.
