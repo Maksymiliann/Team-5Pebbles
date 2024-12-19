@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Actors & Astrology; Zodiac Trends in Movie Field
-cover-img: /assets/img/Test4.jpg
-thumbnail-img: /assets/img/Test4.jpg
-share-img: /assets/img/Test4.jpg
+cover-img: /assets/img/Alors_peut_etre.png
+thumbnail-img: /assets/img/Alors_peut_etre.png
+share-img: /assets/img/Alors_peut_etre.png
 ---
 
 # Introduction
