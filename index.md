@@ -192,5 +192,5 @@ We applied a z-score test to assess the statistical significance of these differ
 
 ## Miscellaneous
 
-![insert a picture](/assets/img/template.jpeg "women looking at man")
+![insert a picture](/assets/img/template.jpg "women looking at man")
 
