@@ -32,7 +32,7 @@ Methodology:
 
 
 Here's the distribution of movie counts across actors with different zodiac signs:
-![zodiac-#movie](img/role_number-zodiac.png)
+![zodiac-#movie](/assets/img/role_number-zodiac.png)
 
 
 We use ANOVA Analysis to check if actors with different zodiac signs have a significant difference in the number of movies they participate. Here are the procedures of the ANOVA analysis:
@@ -66,7 +66,7 @@ We use ANOVA Analysis to check if actors with different zodiac signs have a sign
 
 The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
 
-![insert image of actor's career](img/Career_Longivity.png)
+![insert image of actor's career](/assets/img/Career_Longivity.png)
 
 Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the difference is significant.
 
@@ -175,7 +175,7 @@ Methology:
 2. Calculate the awarding rate of different zodiac signs
 3. Use z-score and Chi-square Test to test if the differences of awarding rate among different zodiac signs are significant
 
-![insert oscar picture](img/OscarAwardingRate.png)  
+![insert oscar picture](/assets/img/OscarAwardingRate.png)  
 
 Capricorn, Aries, and Taurus are the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three zodiac signs with the lowest winning rates.  
 
@@ -192,5 +192,5 @@ We applied a z-score test to assess the statistical significance of these differ
 
 ## Miscellaneous
 
-![insert a picture](img/template.jpeg "women looking at man")
+![insert a picture](/assets/img/template.jpeg "women looking at man")
 
