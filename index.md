@@ -372,6 +372,13 @@ As shown in the graph above, Capricorn, Aries, and Taurus rank as the top three 
  
 
 # 11. Conclusion
+The analysis of the zodiac signs in the context of cinema reveals a real interest in the influence of these astrological archetypes on characters, storylines, and even casting choices. The zodiac signs often present a reference point for shaping the personality and the traits of characters, allowing to enchance their integrity and depth.
+
+For the actors themselves, some traits, associated with their astrological signs, sometimes seem to align with the role they play. Even though this correspondence is somewhat due to chance or subjective interpretation, it still reinforce the idea of a subtle link between an actor's personality and the energy they project on screen. Moreover, in a world where storytelling relies heavily on archetypes, the zodiac signs bring an intuitive and universal framework that can captivate the audience's imagination.
+
+However, it is cruicial to recognize that the impact of astrological signs in films remains subjective and highly depends on the belief of viewers and creators. Some people see these correspondences as mere coincidence, while others see them as a powerful creative tool for shaping narratives and building deep connections with the audience.
+
+In conclusion, the zodiac signs offer a fascinating perspective for exploring the connection between human traits and fictional characters. Although they neither dictate the fate of actors nor determine the success of films, they enrich the cinematic experience by introducing a mythological and universal dimension.
 
 ## Miscellaneous
 
