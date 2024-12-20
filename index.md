@@ -111,68 +111,67 @@ Actors of all zodiac signs generally have their first film role around the age o
 
 
 
-## 3.4 Genre Preferences by Zodiac Sign  
 
-### Key Statistics
-There are 81,740 films in the film dataset. The top 11 genres with the highest percentages are:  
-- **Drama**: 41.6%  
-- **Comedy**: 25.34%  
-- **Action/Adventure**: 22.41%  
-- **Romance Film**: 16.65%  
-- **Thriller**: 10.7%  
-- **Documentary**: 6.89%  
-- **Animation**: 4.32%  
+## 3.4 A Journey Through Cinema's Genre Galaxy: Genre Preferences by Zodiac Sign  
 
-### Findings
-The distribution of movie genres shows a dominance of Drama, Comedy, and Action/Adventure. Genres like Animation and Musical, while less common, offer insights into niche preferences.  
+After exploring how zodiac signs might influence actors' careers in Section 3.3, a new question arises: could the stars also play a role in the types of movies actors are drawn to—or perhaps excel in? To answer this, we turn our gaze toward the genres of over 81,740 films, analyzing how celestial patterns align with Hollywood's diverse storytelling landscape.  
 
-### Analysis Techniques
-- **Normality Tests**: Most genres showed normal distribution, except Comedy (p = 0.041).  
-- **ANOVA and Kruskal-Wallis**: Significant variations in genre preferences across zodiac signs were identified (ANOVA F = 8068.49, P < 0.001; Kruskal-Wallis H = 129.10, P < 0.001).  
-- **Normalization**: Genre preferences were normalized against base rates to highlight deviations from expected trends.  
+From heart-pounding Action to tear-jerking Dramas, every genre holds its own allure. But do certain zodiac signs naturally gravitate toward specific genres? And if so, how might their astrological traits shape their preferences? In this section, we dive deep into the cosmic currents to uncover these stellar connections.  
 
-### Normalized Preference
-For example, Aquarius's +0.74 in Action/Adventure means 74% higher preference than expected given the genre's base rate of 22.4%.
+Let’s find out which signs thrive in Thrillers, who rules Romance, and why Fire signs might dominate Action while Water signs find their home in emotional storytelling.
 
-#### Specificity Test
-Specificity measures how unique a zodiac sign's preference is compared to other signs:
-- **Positive values**: preference stronger than other signs  
-- **Negative values**: preference weaker than other signs  
-- **Magnitude**: degree of preference uniqueness  
+> ### Hollywood's Genre Landscape  
+> Before diving into the zodiac-specific insights, let’s take a step back and look at the bigger picture. Hollywood's genre distribution is as diverse as it is fascinating: 
+> Drama reigns supreme, claiming 41.6% of all films, followed by Comedy (25.3%) and Action/Adventure (22.4%). Romance captures hearts with 16.7%, and Thrillers keep us on the edge at 10.7%.  
+> But raw numbers alone don’t paint the full picture. It’s not just about which genres dominate; it’s about how specific zodiac signs connect to these genres in unexpected ways.
 
-### Key Insights
-- **Sagittarius**: Strong preference for Thrillers (+0.125 specificity).  
-- **Aquarius**: Notable affinity for Action/Adventure (+0.097 specificity).  
-- **Scorpio**: Unique preferences for Animation (+0.175) and Family Films (+0.167).  
-- **Capricorn**: Preference for Musicals (+0.170) contrasts with aversion to Family Films (-0.154).  
+### How We Read the Stars: Our Methodology  
 
-### Pattern Analysis
-- **Fire signs** (Aries, Leo, Sagittarius): Varied preferences across genres.  
-- **Earth signs** (Taurus, Virgo, Capricorn): Strong contrasts.  
-- **Air signs** (Gemini, Libra, Aquarius): Moderate specificity patterns.  
-- **Water signs** (Cancer, Scorpio, Pisces): Tend toward creative/emotional genres.  
+Imagine a party with snacks: if most people eat 40% chocolate and you eat 80%, it’s clear you have a sweet spot for it. Similarly, we calculated a **Base Rate** for how common each genre is, and a **Zodiac-Specific Rate** for how often actors of each sign appear in them. Dividing these gave us a **Preference Index**, where scores above 1 reveal stronger preferences and below 1, less interest—highlighting the cosmic link between zodiac traits and Hollywood genres.  
 
-### Variability Analysis
-The coefficient of variation (CV) quantifies the relative dispersion of genre preferences among zodiac signs:  
-- Highest variability: Taurus, Gemini, and Aries (~0.85).  
-- Lowest variability: Scorpio (~0.82).  
+![Gender Analysis](/assets/img/genre_movie.png)  
 
-### Statistical Significance
-Three statistically significant preferences emerged:  
-1. **Sagittarius → Thriller** (Z=2.369)  
-2. **Aquarius → Action/Adventure** (Z=1.972)  
-3. **Taurus → Drama** (Z=2.242)  
+#### :sagittarius: Sagittarius: The Thrill Seekers  
+Sagittarius shines in Thrillers, favoring suspenseful storytelling with a +12.5% preference. Their adventurous, daring nature makes them natural fits for edge-of-your-seat tales.  
 
-While zodiac signs display distinct genre preferences, the effect sizes remain moderate. The patterns observed suggest subtle influences rather than deterministic relationships.
+#### ♒ Aquarius: Action Heroes  
+Aquarians dominate Action/Adventure films, with a staggering +74% preference index. Their rebellious and innovative streak fits perfectly in high-energy, adrenaline-packed stories.  
 
+#### ♏ Scorpio: The Genre Chameleon  
+Scorpios’ versatility shows in Animation (+17.5%) and Family Films (+16.7%), where their emotional depth brings characters to life.  
+<br>
 
-## Distribution Analysis
-1.⁠ ⁠(1) *Distribution Analysis*: After group the actors into different zodiac signs, we will calculate the distribution. Then we will utilise chi-square to determine if the differences between the zodiac signs are significant or not.
+### The Elements at Play  
+
+The patterns became even clearer when we grouped signs by their elements:  
+
+🔥 **Fire Signs** (Aries, Leo, Sagittarius) excel in high-energy genres like Action (+15%) and Thrillers (+12%), thriving on passion and intensity.  
+
+💨 **Air Signs** (Gemini, Libra, Aquarius) gravitate toward experimental and intellectual genres, showing strong preferences for Science Fiction and boundary-pushing stories (+14%). 
+
+🌊 **Water Signs** (Cancer, Scorpio, Pisces) bring unmatched emotional depth to Drama (+8%), Animation (+17.5%), and Family Films (+16.7%).
+
+🌍 **Earth Signs** (Taurus, Virgo, Capricorn) ground themselves in structured genres, excelling in Drama (+22.4%) and Musicals (+17%), showcasing realism and discipline.
+
+### What It All Means?  
+
+Backed by solid statistics, these patterns reveal how zodiac traits align with cinematic storytelling:  
+
+- **Sagittarius** thrives in **Thrillers** (+12.5%, Z=2.369).  
+- **Aquarius** dominates **Action/Adventure** (+74%, Z=1.972).  
+- **Taurus** excels in **Drama** (+22.4%, Z=2.242).  
+
+Each sign brings unique strengths to the silver screen:  
+**Fire signs** energize action, **Air signs** innovate, **Water signs** channel emotion, and **Earth signs** anchor realism. While not absolute, these patterns offer a fresh lens on the cosmic influence in art.  
 
 
+As we delve deeper into how zodiac signs influence casting choices and genre alignment, the question lingers:  
+**Could the stars also shape the roles actors play in these genres?**  
+Let’s explore this in the next section.  
 
-## Genre Analysis
-4.⁠ ⁠(2) *Genre Analysis* Preferences for movie genres among actors of different zodiac signs: ① Calculate the distribution of different genre ② Calculate the genre distribution of each sign ③ Divide the two proportion ④ use statstical method to test if the trends are significant.
+
+
+
 
 ## 3.5  Do Zodiac Signs Shape Their Starring Roles in Movie Genres?
 
