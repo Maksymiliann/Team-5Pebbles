@@ -133,12 +133,11 @@ Finally, we normalize the Preference Index to z-scores, and plot the following h
 
 Here we have some significant star-genre alignments:
 
-**♑ Capricorn: The Musical Virtuoso**: 
-Our data reveals Capricorns as the surprising champions of musicals, showing a remarkable +17.0% specificity for the genre. Yet in a fascinating twist, these same stage-loving Capricorns strongly shy away from family films (-15.4%), painting a picture of a sign that prefers Broadway sophistication to Disney animation.
+**Capricorn:** Our data reveals Capricorns as the surprising champions of musicals, showing a remarkable +17.0% specificity for the genre. Yet in a fascinating twist, these same stage-loving Capricorns strongly shy away from family films (-15.4%), painting a picture of a sign that prefers Broadway sophistication to Disney animation.
 
-**🦂 Scorpio: Masters of Imagination**: While some might expect Scorpios to gravitate toward darker themes, our analysis reveals an unexpected truth: they show the strongest affinity for animation (+17.5%) and family films (+16.7%) among all signs. Perhaps these mysterious water signs channel their legendary intensity into appreciating the boundless creativity of animated storytelling.
+**Scorpio:** While some might expect Scorpios to gravitate toward darker themes, our analysis reveals an unexpected truth: they show the strongest affinity for animation (+17.5%) and family films (+16.7%) among all signs. Perhaps these mysterious water signs channel their legendary intensity into appreciating the boundless creativity of animated storytelling.
 
-**♐ Sagittarius: Thriller Enthusiast**: True to their adventurous nature, Sagittarians show a distinct preference for keeping audiences on the edge of their seats, with a +12.5% specificity for thrillers and +8.3% for crime fiction. These celestial archers seem to aim their arrows straight at the heart of suspenseful storytelling.
+**Sagittarius:** True to their adventurous nature, Sagittarians show a distinct preference for keeping audiences on the edge of their seats, with a +12.5% specificity for thrillers and +8.3% for crime fiction. These celestial archers seem to aim their arrows straight at the heart of suspenseful storytelling.
 
 Other zodiac signs also reveal some positive tendencies: 
 - Virgos bring their analytical nature to family films (+11.8%)
