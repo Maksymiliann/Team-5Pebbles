@@ -66,13 +66,9 @@ Interestingly, an online search for “zodiac signs best suited to acting” fre
 
 Further research is needed to explore potential cultural or psychological factors contributing to these trends.  
 
-# 4. Movie Count
+# 4. Do actors with different zodiac signs significantly differ in the number of movies they participate in?
 
 > code at: https://github.com/epfl-ada/ada-2024-project-5pebbles/blob/Zhichen/results.ipynb
-
-
-Research question: Do actors with different zodiac signs have a a significant difference in the number of movies they participate.
-
 
 
 Methodology: 
