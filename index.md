@@ -162,8 +162,8 @@ If we group the zodiac signs by their type, we could have further perspectives:
 
 **🌍 Earth Signs (Taurus, Virgo, Capricorn)**: Earth signs display perhaps the most fascinating contrasts in our analysis. Capricorn scales the heights of musical theater (+17.0%), Virgo nurtures a connection with family films (+11.8%), while Taurus shows their steadfast nature by maintaining consistent, if moderate, preferences across most genres. Their grounded nature apparently doesn't prevent them from reaching for the stars.
 
-As we delve deeper into how zodiac signs influence casting choices and genre alignment, the question lingers:  
-**Could the stars also shape the roles actors play in these genres?**  
+As we delve deeper into how zodiac signs influence casting choices and genre alignment, the question lingers:  **Could the stars also shape the roles actors play in these genres?**  
+
 Let’s explore this in the next section.  
 
 
