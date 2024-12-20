@@ -45,7 +45,7 @@ Among all zodiac signs, **Cancerians** take the crown with 8.71% of actors, foll
 
 On the other end, **Sagittarius** and **Capricorn** find themselves underrepresented, comprising only 7.92% and 7.89% of actors, respectively. We try to explain the inactiveness of these two zodiac signs as this: Sagittarians, known for their adventurous spirit, might be more drawn to pursuits outside the movie industry. Capricorns, with their practical and disciplined nature, could lean toward structured careers rather than the unpredictable world of acting.
 
-**However, wait a minute, is it possible that all the differences are just a coincidence?**
+**However, is it possible that all the differences are just a coincidence?**
 
 To test the myth of coincidence, we have hypothesis test as the most handy tool! Our chi-square test, with **p-value (< 0.0001)**, evidently demonstrates that **actors are not uniformly distributed across zodiac signs**. This finding suggests that some astrological factors might subtly influence who ends up on the silver screen—or perhaps it reflects societal perceptions of certain traits linked to zodiac signs.
 
