@@ -12,6 +12,16 @@ Astrology has fascinated humanity for centuries, weaving stories of destiny, per
 
 In the scope of film and celebrity culture, astrology has carved out its own position. Fans eagerly connect their favorite actors to zodiac traits, wondering if a Leo’s natural flair contributes to their screen presence or if a Scorpio’s intensity brings depth to their characters. Even filmmakers have drawn inspiration from astrology, creating characters whose personalities align with the stars. Could the cosmos play a role in what makes a star shine on and off the screen? Whether you’re a skeptic or a believer, the intersection of astrology and creativity is hard to ignore.
 
+> Hey, before we get into the specifics, how well do you know the **twelve zodiac signs**? It’s helpful to provide a bit of context on the zodiac itself.  
+> **⭐ Zodiac Basics ⭐**  
+> To understand the traits linked to different signs, let’s first look at the basic elemental groups of the zodiac:  
+> - **Water** (Cancer, Pisces, Scorpio)  
+> - **Earth** (Taurus, Virgo, Capricorn)  
+> - **Fire** (Aries, Leo, Sagittarius)  
+> - **Air** (Gemini, Libra, Aquarius)  
+>  
+> Each element is associated with specific characteristics: Water signs like Cancer and Pisces are often seen as emotional and intuitive, Earth signs are practical and grounded, Fire signs are passionate and dynamic, and Air signs are intellectual and communicative. These elemental qualities often serve as the foundation for astrological interpretations.  
+
 # 2. Dataset
 
 
@@ -26,15 +36,6 @@ The analysis highlights interesting patterns in zodiac representation and genre 
 ![zodiac distribution](/assets/img/DistributionZodiacSigns.png)
 Among all zodiac signs, Cancer takes the crown with 8.71% of actors, significantly higher than expected.
 
-> Hey, before we get into the specifics, how well do you know the **twelve zodiac signs**? It’s helpful to provide a bit of context on the zodiac itself.  
-> **⭐ Zodiac Basics ⭐**  
-> To understand the traits linked to different signs, let’s first look at the basic elemental groups of the zodiac:  
-> - **Water** (Cancer, Pisces, Scorpio)  
-> - **Earth** (Taurus, Virgo, Capricorn)  
-> - **Fire** (Aries, Leo, Sagittarius)  
-> - **Air** (Gemini, Libra, Aquarius)  
->  
-> Each element is associated with specific characteristics: Water signs like Cancer and Pisces are often seen as emotional and intuitive, Earth signs are practical and grounded, Fire signs are passionate and dynamic, and Air signs are intellectual and communicative. These elemental qualities often serve as the foundation for astrological interpretations.  
 
 Now, back to the data. Among all zodiac signs, **Cancerians** take the crown with 8.71% of actors, significantly higher than expected. Known for their emotional depth and intuition, Cancerians might have a natural flair for embodying complex characters on screen. Following closely are **Pisces** (8.69%) and **Leo** (8.66%). Pisces, another Water sign, are often described as dreamy and empathetic—traits that align well with acting. Meanwhile, fiery Leo, the "performer" of the zodiac, lives up to its reputation, bringing creativity and charisma to the industry.
 
