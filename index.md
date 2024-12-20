@@ -93,15 +93,15 @@ With a p-value below the threshold of 0.05, we found that **the differences in m
 
 While this analysis does not imply causation—astrological signs may not directly influence an actor’s success, it opens the door to fascinating discussions about underlying factors, whether cultural, psychological, or simply coincidental, that could align with zodiac sign traits. The stars, it seems, may have more sway over Hollywood than we once thought :)
 
-## 3.3 Are there any differences in the careers of actors with different zodiac signs
+## 3.3 Are there any differences in the career longevity of actors with different zodiac signs
 
-The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
+The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze **the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs**. The results are showned in the following pictures.  
 
 ![insert image of actor's career](/assets/img/EntryAge.png)
 ![insert image of actor's career](/assets/img/RetireAge.png)
 ![insert image of actor's career](/assets/img/CareerSpan.png)
 
-Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the difference is significant.
+Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the differences is significant.
 
 |                  | F-Statistic | P-Value |
 |------------------|-------------|---------|
