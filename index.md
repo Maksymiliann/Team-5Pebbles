@@ -198,28 +198,26 @@ While the results are compelling, they invite both curiosity and caution. The da
 
 ### 3.6. Dancing Through Genres - The Art of Versatility
 
-In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But does the cosmic alignment at one's birth influence this artistic flexibility? Our Genre Diversity Index (GDI) study set out to explore this intriguing question.
+In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But **does zodiac sign influence this artistic flexibility**? Our versatility study set out to explore this intriguing question.
 
-<!-- ### The Celestial Dance of Versatility -->
 
-Imagine measuring an actor's versatility like evaluating a master chef's repertoire - it's not just about how many dishes they can cook, but how well they balance their menu and execute each cuisine. Our GDI combines three essential elements in a carefully weighted formula:
+Imagine measuring an actor's versatility like evaluating a master chef's repertoire - it's not just about how many dishes they can cook, but how well they balance their menu and execute each cuisine. Our versatility combines three essential elements in a carefully weighted formula:
 
-**GDI = 0.3 × Raw Diversity + 0.4 × Shannon Diversity + 0.3 × Genre Balance**
+**versatility = 0.3 × Raw Diversity + 0.4 × Shannon Diversity + 0.3 × Genre Balance**
 
 Where:
-- **Raw Diversity** measures the variety of genres an actor has explored
-- **Shannon Diversity** evaluates how evenly performances are distributed across genres
-- **Genre Balance** assesses the balance between most and least frequent genres
+- **Raw Diversity** = Number of unique genres / Total possible genres measures the variety of genres an actor has explored
+- **Shannon Diversity** = -Σ(p_i * ln(p_i)), where p_i is the proportion of movies in genre i, evaluates how evenly performances are distributed across genres
+- **Genre Balance** = 1 - (max_genre_proportion - min_genre_proportion), assesses the balance between most and least frequent genres
 
-After analyzing over 12,000 actors' careers, we discovered a fascinating pattern. Sagittarius, the adventurous explorer of the zodiac, leads with the highest versatility score (0.733), closely followed by the adaptable Gemini (0.733) and the balanced Libra (0.732). This cosmic alignment seems to mirror these signs' traditional characteristics - Sagittarius's love for exploration, Gemini's natural duality, and Libra's inherent balance.
+After analyzing over 12,000 actors' careers, we discovered a fascinating pattern. Sagittarius, the adventurous explorer of the zodiac, leads with the highest versatility score (0.733379), closely followed by the adaptable Gemini (0.733362) and the balanced Libra (0.732). This cosmic alignment seems to mirror these signs' traditional characteristics - Sagittarius's love for exploration, Gemini's natural duality, and Libra's inherent balance.
 
-<!-- ### Beyond the Stars -->
 
 However, the most revealing insight wasn't in the differences between signs, but in their similarities. All zodiac signs maintained remarkably high versatility scores (above 0.72), with minimal variation between them. This suggests that successful actors, regardless of their zodiac sign, tend to develop significant versatility throughout their careers.
 
-Even the statistical analysis (Kruskal-Wallis test, p-value: 0.213) confirms that while the stars might whisper suggestions about an actor's path, they don't dictate it. The true story appears to be one of human adaptability and professional growth rather than celestial influence.
+Even the statistical analysis (Kruskal-Wallis test, p-value: 0.213) confirms that while zodiac signs might whisper suggestions about an actor's path, they don't dictate it. The true story appears to be the human adaptability rather than celestial influence.
 
-Perhaps the most compelling conclusion is that versatility in acting transcends astrological boundaries. Whether born under the adventurous stars of Sagittarius or the grounded sign of Taurus, successful actors find ways to expand their dramatic range and explore diverse theatrical territories.
+Perhaps the most compelling conclusion is that versatility in acting transcends zodiac signs boundaries. Whether born under the adventurous stars of Sagittarius or the grounded sign of Taurus, successful actors find ways to expand their dramatic range and explore diverse theatrical territories.
 
 ### 3.7 Dancing with Destiny: How Zodiac Signs Light Up Leading Roles
 
