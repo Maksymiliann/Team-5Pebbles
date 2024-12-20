@@ -49,9 +49,11 @@ To test the myth of coincidence, we have hypothesis test as the most handy tool!
 
 As we move forward, we’ll explore whether these zodiac differences translate to specific genre preferences or casting decisions. For now, it’s clear that the stars don’t just light up the night sky—they may also shine a subtle light on the silver screen 🌟.
 
-**"Will the gender of the actor affect this distribution?**  
+**Wait a minute, is there other confounders in this distribution analysis?** For example, maybe all the the zodiac distribution of female actors are not uniform, but for male actors, the distribution is uniform? This leads to our coming question: **Are the zodiac distributions of male and female actors different from each other?**
 
-The graph below shows the zodiac sign distribution of actors by gender. In this dataset, the number of male actors is higher than the number of female actors. Among male actors, Cancer is the most common zodiac sign, while Capricorn is the least common. Among female actors, Leo is the most common zodiac sign, and Sagittarius is the least common. The zodiac signs Virgo, Pisces, and Cancer are relatively common across both genders, while Sagittarius and Aries are less common. However, despite slight differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
+
+The graph below shows the zodiac sign distribution of actors by gender. In this dataset, the number of male actors is higher than the number of female actors. Among male actors, Cancer is the most common zodiac sign, while Capricorn is the least common. Among female actors, Leo is the most common zodiac sign, and Sagittarius is the least common. However, despite the differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
+
 ![Gender Analysis](/assets/img/GenderAnalysis.png)
 
 # 4. Do Zodiac Signs Influence the Number of Movies Actors Star In?
