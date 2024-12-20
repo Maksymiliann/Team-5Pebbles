@@ -136,7 +136,7 @@ Imagine your daily food: if meat takes up 40% of most people's diet, and you eat
 ![Gender Analysis](/assets/img/genre_movie.png)  
 
 <!-- #### :sagittarius: The Thrill Seekers -->
-We can see that Sagittarius shines in Thrillers, that Aquarius dominate Action/Adventure films, or even that Scorpios’ versatility shows in Animation and Family Films. But the patterns become even clearer when we grouped signs by their elements:  
+We can see that Sagittarius shines in Thrillers, that Aquarius dominate Action/Adventure films, and Scorpios prefer Animation and Family Films. And the patterns become even clearer when we grouped signs by their elements:  
 
 🔥 **Fire Signs** (Aries, Leo, Sagittarius) excel in high-energy genres like Action (+15%) and Thrillers (+12%), thriving on passion and intensity.  
 
