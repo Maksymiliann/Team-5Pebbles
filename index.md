@@ -204,7 +204,6 @@ While the results are compelling, they invite both curiosity and caution. The da
 
 
 # 8. Dancing Through Genres - The Art of Versatility
-6.⁠ ⁠(7) *Type Diversity Index*: Which zodiac signs demonstrate greater versatility in genre-switching, and how successful are they in different genres throughout their careers?
 
 In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But does the cosmic alignment at one's birth influence this artistic flexibility? Our Genre Diversity Index (GDI) study set out to explore this intriguing question.
 
