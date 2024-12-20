@@ -206,88 +206,28 @@ While the results are compelling, they invite both curiosity and caution. The da
 # 8. Dancing Through Genres - The Art of Versatility
 6.⁠ ⁠(7) *Type Diversity Index*: Which zodiac signs demonstrate greater versatility in genre-switching, and how successful are they in different genres throughout their careers?
 
-### The Question of Versatility
+In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But does the cosmic alignment at one's birth influence this artistic flexibility? Our Genre Diversity Index (GDI) study set out to explore this intriguing question.
 
-In our continuing exploration of zodiac signs' influence on acting careers, we arrive at an intriguing question: Does an actor's zodiac sign influence their ability to navigate different film genres? To answer this, we developed a sophisticated metric called the Genre Diversity Index (GDI) to measure actors' versatility across different film genres.
+### The Celestial Dance of Versatility
 
-Think of actors as painters with films as their canvas - some work with a broad palette of genres, while others perfect their craft within a specific style. Just as a masterful artist might move between watercolors and oils, versatile actors transition between comedy and drama, action and romance. But does the cosmic alignment at the time of their birth influence this artistic flexibility?
+Imagine measuring an actor's versatility like evaluating a master chef's repertoire - it's not just about how many dishes they can cook, but how well they balance their menu and execute each cuisine. Our GDI combines three essential elements in a carefully weighted formula:
 
-### Measuring Genre Diversity
+**GDI = 0.3 × Raw Diversity + 0.4 × Shannon Diversity + 0.3 × Genre Balance**
 
-To capture this artistic versatility in numerical terms, we crafted the Genre Diversity Index (GDI) - a sophisticated measure that acts like a theatrical report card. Imagine evaluating a chef's versatility not just by the number of dishes they can cook, but also by how well they balance their menu and how confidently they execute each cuisine type. Similarly, our GDI looks at three crucial aspects of an actor's genre performance:
+Where:
+- **Raw Diversity** measures the variety of genres an actor has explored
+- **Shannon Diversity** evaluates how evenly performances are distributed across genres
+- **Genre Balance** assesses the balance between most and least frequent genres
 
-1. **Raw Diversity Score (30% weight)**
-   - Measures how many different genres an actor has explored
-   - Like counting the colors in an artist's palette
+After analyzing over 12,000 actors' careers, we discovered a fascinating pattern. Sagittarius, the adventurous explorer of the zodiac, leads with the highest versatility score (0.733), closely followed by the adaptable Gemini (0.733) and the balanced Libra (0.732). This cosmic alignment seems to mirror these signs' traditional characteristics - Sagittarius's love for exploration, Gemini's natural duality, and Libra's inherent balance.
 
-2. **Shannon Diversity Index (40% weight)**
-   - Measures how evenly an actor distributes their performances
-   - Similar to evaluating how well an artist uses all their colors
+### Beyond the Stars
 
-3. **Genre Balance Score (30% weight)**
-   - Measures the balance between most and least frequent genres
-   - Like assessing if an artist favors certain colors too heavily
+However, the most revealing insight wasn't in the differences between signs, but in their similarities. All zodiac signs maintained remarkably high versatility scores (above 0.72), with minimal variation between them. This suggests that successful actors, regardless of their zodiac sign, tend to develop significant versatility throughout their careers.
 
-![Insert Box Plot: GDI Distribution Across Zodiac Signs](/assets/img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign.png)
+Even the statistical analysis (Kruskal-Wallis test, p-value: 0.213) confirms that while the stars might whisper suggestions about an actor's path, they don't dictate it. The true story appears to be one of human adaptability and professional growth rather than celestial influence.
 
-*Our box plot reveals the distribution of Genre Diversity Index across zodiac signs, showing median values and outliers.*
-
-### What the Numbers Tell Us
-
-Analyzing over 12,000 actors' careers revealed fascinating patterns:
-
-1. **Top Performers**
-   - Sagittarius leads with a GDI of 0.733379
-   - Gemini follows extremely closely at 0.733362
-   - Libra ranks third with 0.732426
-
-2. **Lower Range**
-   - Taurus (0.722559)
-   - Aries (0.726952)
-   - Capricorn (0.727069)
-
-These numbers tell a story of subtle cosmic influence. Consider how Sagittarius, known for its adventurous spirit, shows the highest versatility - perhaps reflecting their astrological reputation for exploring new territories. Meanwhile, Gemini's close second place aligns with their dual nature, suggesting an innate ability to adapt to different theatrical demands.
-
-The clustering of scores within such a tight range (0.722-0.733) tells us something remarkable about professional acting - regardless of zodiac sign, successful actors tend to develop significant versatility. It's as if the demands of the craft itself shape performers more than their astrological predispositions.
-
-![Insert Violin Plot: GDI Distribution Density](/assets/img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign_Violin_Plot.png)
-
-*The violin plot shows the full distribution shape of GDI scores across zodiac signs.*
-
-### Statistical Insights
-
-Our statistical analysis using the Kruskal-Wallis test revealed:
-- H-statistic: 14.364
-- p-value: 0.213
-- Effect size (η²): 0.000
-
-These results suggest that while we observe small differences in genre diversity across zodiac signs, these differences aren't statistically significant. In other words, while the stars might whisper suggestions about an actor's path, they don't shout commands. The small differences we observe are like subtle brushstrokes in a larger masterpiece - interesting to note but not defining the overall picture.
-
-![Insert Bar Chart](/assets/img/Mean_Genre_Diversity_Index_by_Zodiac_Sign.png)
-
-*The bar chart displays mean GDI values with standard deviation for each zodiac sign.*
-
-### Key Findings
-
-1. **Minimal Variation**
-   - GDI scores cluster tightly between 0.722 and 0.733
-   - Very small variance between highest and lowest scores (difference of ~0.01)
-
-2. **Consistency Across Signs**
-   - High mean GDI scores (>0.72) across all signs
-   - Suggests that successful actors generally maintain diverse portfolios regardless of zodiac sign
-
-3. **Variance Patterns**
-   - Aquarius shows highest variability (SD: 0.115085)
-   - Libra shows most consistency (SD: 0.098141)
-
-### Conclusion
-
-Just as the night sky presents a complex tapestry of stars, our analysis reveals an intricate pattern of artistic versatility among actors. While zodiac signs might add a touch of celestial flavor to an actor's career journey, the true story appears to be one of human adaptability and professional growth.
-
-Our Genre Diversity Index analysis reveals that while subtle patterns exist in how different zodiac signs approach genre diversity, these differences are minimal and not statistically significant. The consistently high GDI scores across all signs suggest that versatility in acting may be more related to career opportunities and professional choices than astrological influences.
-
-This analysis provides a quantitative foundation for understanding how actors navigate different genres throughout their careers, while maintaining scientific rigor in our examination of potential zodiac influences.
+Perhaps the most compelling conclusion is that versatility in acting transcends astrological boundaries. Whether born under the adventurous stars of Sagittarius or the grounded sign of Taurus, successful actors find ways to expand their dramatic range and explore diverse theatrical territories.
 
 # 9. The Stars Align: A Deep Dive into Zodiac Signs and Lead Roles in Cinema
 7.⁠ ⁠(5) *Power Role Analysis*: ① Map each actor’s zodiac sign to their respective role ② Use statistical methods (e.g., chi-square tests, logistic regression) to determine if there is a significant association between zodiac signs and the likelihood of being cast in specific roles. Analyze trends and compare how often actors of certain signs are cast as heroes versus villains or sidekicks.
