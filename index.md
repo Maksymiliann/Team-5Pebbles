@@ -7,7 +7,7 @@ share-img: /assets/img/Finally_a_good_dimension_image.png
 ---
 
 
-# 1. Introduction
+## 1. Introduction
 Astrology has fascinated humanity for centuries, weaving stories of destiny, personality, and cosmic influence. In its core lies the zodiac, twelve signs, each tied to celestial alignments and thought to shape our traits and behaviors. From Aries to Pisces, these signs are often seen as a way to better understand ourselves and the world around us. But astrology isn't just an ancient curiosity, it’s alive and thriving, stirring interest in everything from relationships to careers.
 
 In the scope of film and celebrity culture, astrology has carved out its own position. Fans eagerly connect their favorite actors to zodiac traits, wondering if a Leo’s natural flair contributes to their screen presence or if a Scorpio’s intensity brings depth to their characters. Even filmmakers have drawn inspiration from astrology, creating characters whose personalities align with the stars. Could the cosmos play a role in what makes a star shine on and off the screen? Whether you’re a skeptic or a believer, the intersection of astrology and creativity is hard to ignore.
@@ -22,17 +22,17 @@ In the scope of film and celebrity culture, astrology has carved out its own pos
 >  
 > Each element is associated with specific characteristics: Water signs like Cancer and Pisces are often seen as emotional and intuitive, Earth signs are practical and grounded, Fire signs are passionate and dynamic, and Air signs are intellectual and communicative. These elemental qualities often serve as the foundation for astrological interpretations.  
 
-# 2. Dataset
+## 2. Dataset
 Our dataset is an extensive collection comprising the CMU Movies Summary Corpus, an Oscar dataset, and an additional dataset created with ChatGPT about PLEASE WRITE HERE. The features from the CMU Movies Summary Corpus are segregated into two important parts: the movie metadata and the character metadata. The movie metadata encompasses a total of 81,741 different movies across more than 100 different genres. It also provides data such as the movie's name, release date, box office revenue, runtime, language, and genres. For each of these films, characters from the character metadata appearing in the film are listed. After processing the data, a total of 242,096 individual actors were documented with features including their real name, character's name, age at the movie's release, gender, ethnicity, height, and date of birth. Additionally, a plot summary is sometimes included to complete the data. Finally, we collected Oscar data from Data World, which includes the birthdates of all the winners of the Best Actor and Best Actress awards from 1928 to 2023.
 
-## don't know what it is
+### don't know what it is
 5pebbles Project Analysis
 Summary
 
 The analysis highlights interesting patterns in zodiac representation and genre preferences among actors. Cancer and Pisces are notably overrepresented, while Sagittarius and Capricorn are underrepresented. In terms of genre, Sagittarius prefers Thrillers, Aquarius gravitates toward Action/Adventure, and Scorpio leans toward Animation and Family Films. However, the modest effect sizes suggest these patterns are indicative rather than definitive.
 
-# 3. Research Questions
-## 3.1 Are actors uniformly distributed across zodiac signs
+## 3. Research Questions
+### 3.1 Are actors uniformly distributed across zodiac signs
 
 <!-- Is the distribution of actors across zodiac signs uniform, or are certain signs more represented than others? Which zodiac sign has the highest representation among actors? What is the distribution of some domographic factors like gender? Our project calculates the distribution and uses the Chi-Square test and Z-Score to determine whether the differences are statistically significant. -->
 
@@ -60,7 +60,7 @@ The graph below shows the zodiac sign distribution of actors by gender. In this 
 However, despite the differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
 
 
-## 3.2 Do Zodiac Signs Influence the Number of Movies Actors Appear In?
+### 3.2 Do Zodiac Signs Influence the Number of Movies Actors Appear In?
 
 In the fancy world of cinema, a curious question emerged: **Do actors with different zodiac signs significantly differ in the number of movies they participate in?**
 
@@ -90,7 +90,7 @@ With a p-value below the threshold of 0.05, we found that **the differences in m
 
 While this analysis does not imply causation—astrological signs may not directly influence an actor’s success, it opens the door to fascinating discussions about underlying factors, whether cultural, psychological, or simply coincidental, that could align with zodiac sign traits. The stars, it seems, may have more sway over Hollywood than we once thought :)
 
-## 3.3 Are there any differences in the career longevity of actors with different zodiac signs
+### 3.3 Are there any differences in the career longevity of actors with different zodiac signs
 
 The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze **the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs**. The results are showned in the following pictures.  
 
@@ -109,7 +109,7 @@ Actors of all zodiac signs generally have their first film role around the age o
 
 
 
-## 3.4 Do Genre Distributions Differ Across Zodiac Signs?
+### 3.4 Do Genre Distributions Differ Across Zodiac Signs?
 
 After exploring how zodiac signs might influence actors' careers in Section 3.3, a new question arises: could the stars also play a role in the types of movies actors are drawn to—or perhaps excel in? To answer this, we turn our gaze toward the genres of over 81,740 films, analyzing how celestial patterns align with Hollywood's diverse storytelling landscape.  
 
@@ -117,7 +117,7 @@ From heart-pounding Action to tear-jerking Dramas, every genre holds its own all
 
 Let’s find out which signs thrive in Thrillers, who rules Romance, and why Fire signs might dominate Action while Water signs find their home in emotional storytelling.
 
-> ### Hollywood's Genre Landscape  
+> #### Hollywood's Genre Landscape  
 > Before diving into the zodiac-specific insights, let’s take a step back and look at the bigger picture. Hollywood's genre distribution is as diverse as it is fascinating: 
 > Drama reigns supreme, claiming 41.6% of all films, followed by Comedy (25.3%) and Action/Adventure (22.4%). Romance captures hearts with 16.7%, and Thrillers keep us on the edge at 10.7%.  
 > But raw numbers alone don’t paint the full picture. It’s not just about which genres dominate; it’s about how specific zodiac signs connect to these genres in unexpected ways.
@@ -159,7 +159,7 @@ Let’s explore this in the next section.
 
 
 
-## 3.5  Do Zodiac Sign Distributions Differ Across Movie Genres?
+### 3.5  Do Zodiac Sign Distributions Differ Across Movie Genres?
 
 Are certain zodiac signs more likely to shine in specific movie genres? By delving into the intersection of astrology and cinema, we sought to uncover **whether the distribution of zodiac signs within a given genre deviates significantly from the overall zodiac distribution across all films**.
 
@@ -194,7 +194,7 @@ The findings suggest a complex relationship between zodiac traits and genre pref
 While the results are compelling, they invite both curiosity and caution. The data reveals significant zodiac-genre dependencies in many cases, but the reasons behind these patterns remain open to interpretation. Could cultural stereotypes, casting tendencies, or even intrinsic zodiac traits play a role? The cinematic zodiac story is one of intrigue, leaving room for both statistical and creative exploration.
 
 
-## 3.6. Dancing Through Genres - The Art of Versatility
+### 3.6. Dancing Through Genres - The Art of Versatility
 
 In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But does the cosmic alignment at one's birth influence this artistic flexibility? Our Genre Diversity Index (GDI) study set out to explore this intriguing question.
 
@@ -219,7 +219,7 @@ Even the statistical analysis (Kruskal-Wallis test, p-value: 0.213) confirms tha
 
 Perhaps the most compelling conclusion is that versatility in acting transcends astrological boundaries. Whether born under the adventurous stars of Sagittarius or the grounded sign of Taurus, successful actors find ways to expand their dramatic range and explore diverse theatrical territories.
 
-## 3.7 Dancing with Destiny: How Zodiac Signs Light Up Leading Roles
+### 3.7 Dancing with Destiny: How Zodiac Signs Light Up Leading Roles
 
 In the dazzling constellation of Hollywood, we discovered an intriguing pattern: the stars under which actors were born might just influence their journey to center stage. Our analysis revealed some fascinating cosmic connections that would make even skeptics raise an eyebrow.
 
@@ -259,7 +259,7 @@ Our findings aren't just astrological musings - they're backed by robust statist
 
 While we're not suggesting casting directors should start consulting astrology charts, our analysis reveals intriguing patterns in how different zodiac signs tend to shine in various roles. It's a reminder that in the magical world of cinema, sometimes the stars above align with the stars on screen in unexpected ways.
 
-## 3.8 Are actors of different zodiac signs equally likely to win an Oscar?
+### 3.8 Are actors of different zodiac signs equally likely to win an Oscar?
 
 The Academy Awards, commonly known as the Oscars, are annual awards presented by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding achievements in the film industry. First held in 1929, the Oscars have become one of the most prestigious and widely recognized accolades in cinema. 
 
@@ -279,7 +279,7 @@ Additionally, we performed a Chi-Square test to assess whether awarding rates ar
 | Aquarius    | 0.76‰         | -2.949  | 0.003   | True         |  
  
 
-# 4. Conclusion
+## 4. Conclusion
 The analysis of zodiac signs in the context of cinema reveals a real interest in the influence of these astrological archetypes on characters, storylines, and even casting choices. The zodiac signs often present a reference point for shaping the personality and the traits of characters, allowing to add depth and integrity to their portrayal. This subtle connection between astrological signs and characters’ personalities encourages the audience to engage with the story on a deeper level.
 
 For the actors themselves, some traits, associated with their astrological signs, sometimes seem to align with the roles they play. Even though this alignment might be somewhat coincidental or open to subjective interpretation, it still reinforce the idea of a hidden link between an actor’s personality and the energy they project on screen. In a world where storytelling relies heavily on archetypes, the zodiac signs bring an intuitive and universal framework that can captivate the audience's imagination and enhances the overall cinematic experience.
@@ -288,7 +288,7 @@ At the same time, it is crucial to recognize that the impact of astrology in fil
 
 In conclusion, Although the zodiac signs do not dictate the fate of actors nor determine the success of films, they offer an fascinating perspective for exploring the connection between human traits and fictional characters. They introduce a mythological and universal dimension to cinema, broadening our understanding of the art and offering new ways to engage with the stories. Thank you for joining us in this exploration of the cosmic influences on the cinematic world. May the stars continue to inspire and illuminate both our films and our collective imagination.
 
-## Miscellaneous
+### Miscellaneous
 
 ![insert a picture](/assets/img/template.jpg)
 
