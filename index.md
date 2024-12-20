@@ -46,12 +46,10 @@ On the other end, **Sagittarius** and **Capricorn** find themselves underreprese
 **Is It All a Coincidence?**  
 Our chi-square test confirms that the distribution **isn’t random**. With **p-value (< 0.0001)**, it's evident that **actors are not uniformly distributed across zodiac signs**. This finding suggests that some astrological factors might subtly influence who ends up on the silver screen—or perhaps it reflects societal perceptions of certain traits linked to zodiac signs.
 
-Astrology enthusiasts might point out that Water signs (Cancer and Pisces) excel in emotional expression, a key skill for actors. Leo, a Fire sign, thrives in the spotlight. However, Air and Earth signs, often associated with intellectual and practical traits, seem more evenly distributed.
-
-Curiously, while online stereotypes highlight Leo and Pisces as "ideal actor signs," our findings elevate Cancer to the top—a result that might surprise even the most ardent astrology believers.
+Astrology enthusiasts might point out that Water signs (Cancer and Pisces) excel in emotional expression, a key skill for actors. Leo, a Fire sign, thrives in the spotlight. Curiously, while online stereotypes highlight Leo and Pisces as "ideal actor signs," our findings elevate Cancer to the top—a result that might surprise even the most ardent astrology believers.
 <br><br>
 
-As we move forward, we’ll explore whether these zodiac differences translate to specific genre preferences or casting decisions. For now, it’s clear that the stars don’t just light up the night sky—they may also shine a subtle light on the silver screen.
+As we move forward, we’ll explore whether these zodiac differences translate to specific genre preferences or casting decisions. For now, it’s clear that the stars don’t just light up the night sky—they may also shine a subtle light on the silver screen 🌟.
 
 **"Will the gender of the actor affect this distribution?**  
 
