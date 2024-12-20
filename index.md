@@ -63,7 +63,7 @@ The graph below shows the zodiac sign distribution of actors by gender. In this 
 However, despite the differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
 
 
-## 3.2 Do Zodiac Signs Influence the Number of Movies Actors Star In?
+## 3.2 Do Zodiac Signs Influence the Number of Movies Actors Appear In?
 
 In the glitzy world of cinema, where stars of the celestial and celebrity kind align, a curious question emerged: Could an actor’s zodiac sign influence their career’s trajectory? To unravel this cosmic mystery, we embarked on an exploration of data and statistics, asking: Do actors with different zodiac signs significantly differ in the number of movies they participate in?
 
