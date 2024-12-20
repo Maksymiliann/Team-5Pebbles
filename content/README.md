@@ -145,11 +145,130 @@ In these 20 genres
 - 15 genres (Drama, Comedy, Romance Film, Thriller, Action, Crime Fiction, Action/Adventure, World cinema, Black-and-white, Indie, Family Film, Horror, Musical, Romantic comedy, Mystery) illustrate **dependency** with zodiac signs.
 
 
-## Type Diversity Index
+## Dancing Through Genres - The Art of Versatility
 6.⁠ ⁠(7) *Type Diversity Index*: Which zodiac signs demonstrate greater versatility in genre-switching, and how successful are they in different genres throughout their careers?
 
-## Power Role Analysis
+### The Question of Versatility
+
+In our continuing exploration of zodiac signs' influence on acting careers, we arrive at an intriguing question: Does an actor's zodiac sign influence their ability to navigate different film genres? To answer this, we developed a sophisticated metric called the Genre Diversity Index (GDI) to measure actors' versatility across different film genres.
+
+### Measuring Genre Diversity
+
+Our GDI combines three key components, each capturing a different aspect of genre diversity:
+
+1. **Raw Diversity Score (30% weight)**
+   - Measures how many different genres an actor has explored
+   - Like counting the colors in an artist's palette
+
+2. **Shannon Diversity Index (40% weight)**
+   - Measures how evenly an actor distributes their performances
+   - Similar to evaluating how well an artist uses all their colors
+
+3. **Genre Balance Score (30% weight)**
+   - Measures the balance between most and least frequent genres
+   - Like assessing if an artist favors certain colors too heavily
+
+![Insert Box Plot: GDI Distribution Across Zodiac Signs](img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign.png)
+*Our box plot reveals the distribution of Genre Diversity Index across zodiac signs, showing median values and outliers.*
+
+### What the Numbers Tell Us
+
+Analyzing over 12,000 actors' careers revealed fascinating patterns:
+
+1. **Top Performers**
+   - Sagittarius leads with a GDI of 0.733379
+   - Gemini follows extremely closely at 0.733362
+   - Libra ranks third with 0.732426
+
+2. **Lower Range**
+   - Taurus (0.722559)
+   - Aries (0.726952)
+   - Capricorn (0.727069)
+
+![Insert Violin Plot: GDI Distribution Density](img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign(Violin Plot).png)
+*The violin plot shows the full distribution shape of GDI scores across zodiac signs.*
+
+### Statistical Insights
+
+Our statistical analysis using the Kruskal-Wallis test revealed:
+- H-statistic: 14.364
+- p-value: 0.213
+- Effect size (η²): 0.000
+
+These results suggest that while we observe small differences in genre diversity across zodiac signs, these differences aren't statistically significant.
+
+![Insert Bar Chart](img/Mean_Genre_Diversity_Index_by_Zodiac_Sign.png)
+*The bar chart displays mean GDI values with standard deviation for each zodiac sign.*
+
+### Key Findings
+
+1. **Minimal Variation**
+   - GDI scores cluster tightly between 0.722 and 0.733
+   - Very small variance between highest and lowest scores (difference of ~0.01)
+
+2. **Consistency Across Signs**
+   - High mean GDI scores (>0.72) across all signs
+   - Suggests that successful actors generally maintain diverse portfolios regardless of zodiac sign
+
+3. **Variance Patterns**
+   - Aquarius shows highest variability (SD: 0.115085)
+   - Libra shows most consistency (SD: 0.098141)
+
+### Conclusion
+
+Our Genre Diversity Index analysis reveals that while subtle patterns exist in how different zodiac signs approach genre diversity, these differences are minimal and not statistically significant. The consistently high GDI scores across all signs suggest that versatility in acting may be more related to career opportunities and professional choices than astrological influences.
+
+This analysis provides a quantitative foundation for understanding how actors navigate different genres throughout their careers, while maintaining scientific rigor in our examination of potential zodiac influences.
+
+## The Stars Align: A Deep Dive into Zodiac Signs and Lead Roles in Cinema
 7.⁠ ⁠(5) *Power Role Analysis*: ① Map each actor’s zodiac sign to their respective role ② Use statistical methods (e.g., chi-square tests, logistic regression) to determine if there is a significant association between zodiac signs and the likelihood of being cast in specific roles. Analyze trends and compare how often actors of certain signs are cast as heroes versus villains or sidekicks.
+
+
+In the vast constellation of Hollywood, we've often wondered: do the stars that guided an actor's birth influence their path to stardom? As part of our comprehensive study exploring the relationship between zodiac signs and acting careers, we delved into one of the most intriguing questions - does an actor's zodiac sign correlate with their likelihood of landing lead roles?
+
+### The Celestial Distribution
+
+![Insert Lead Role Ratio Bar Chart visualization](img/Lead_Role_Ratio_by_Zodiac_Sign.png)
+*Lead Role Ratio Across the Zodiac*
+
+At first glance, our data reveals a fascinating pattern. Like the bright stars of Aries dominating the spring sky, actors born under this sign shine brightest in our analysis, securing lead roles in 33.34% of their appearances. This isn't just celestial coincidence - our statistical analysis confirms these differences are significant, with both chi-square and Kruskal-Wallis tests yielding p-values below 0.001.
+
+The zodiac wheel seems to favor fire and air signs, with Gemini (32.75%) and Leo (32.57%) following closely behind Aries. Perhaps there's something to the ancient wisdom about fire signs' natural leadership qualities and air signs' adaptability. Meanwhile, Capricorn, traditionally associated with steady climbing, surprisingly shows the lowest lead role ratio at 28.36%.
+
+### When Stars Meet Genre
+
+![Insert Zodiac-Genre Interaction Heatmap](img/Zodiac-Genre_Interaction_Effect_on_Lead_Roles.png)
+*Heat Map of Zodiac-Genre Interaction Effects in Lead Roles*
+
+But the story gets even more interesting when we look at how different signs perform across various film genres. Our heatmap reveals some truly stellar connections:
+
+Imagine a Sagittarius documentary filmmaker, capturing truth through their lens - our data shows they're 70.49% more likely to lead in documentaries! Though with a small sample size, it's like spotting a rare celestial event - fascinating but requiring careful interpretation.
+
+The romance genre tells an equally compelling tale. Aries actors, with their passionate nature, show a remarkable 35.46% higher likelihood of leading romantic films. With over 1,400 cases in our sample, this is no shooting star - it's a consistent pattern worth noting.
+
+![Insert Lead Role Distribution by Genre and Zodiac Sign Plot](img/Lead_Role_Distribution_by_Genre_and_Zodiac_Sign.png)
+*Lead Role Distribution Patterns Across Movie Genres by Zodiac Sign*
+
+
+Horror films reveal their own cosmic connections, with Gemini actors showing a 27.50% higher chance of leading these spine-chilling tales. Perhaps their dual nature makes them particularly adept at portraying complex, horror-worthy characters?
+
+### The Dark Side of the Moon
+
+Not every celestial alignment is favorable. Our data reveals some interesting voids - particularly in animation voice acting, where every zodiac sign shows negative correlations. It's like a cosmic eclipse affecting all signs equally, suggesting this might be more about industry practices than astrological influence.
+
+The documentary genre also shows some interesting shadows, with certain signs showing strong negative correlations. However, like trying to spot a distant planet, our small sample sizes in this category require us to view these findings through a properly calibrated telescope.
+
+### Statistical Constellations
+
+Our ANOVA results add another layer to this cosmic story. With an F-statistic of 10.095 (p < 0.001) for zodiac signs and even stronger results for genre effects (F = 92.514, p < 4.50e-192), we're seeing clear evidence that these patterns aren't just random stellar noise.
+
+The effect sizes might be subtle - like distant stars whose light is faint but measurable - with our Cramer's V of 0.033 suggesting a small but meaningful influence. It's a reminder that in both astronomy and cinema, significant patterns don't always need to be obvious to be important.
+
+### Charting the Future
+
+What does this celestial map mean for the film industry? While we're not suggesting casting directors should consult their ephemeris, our findings provide an interesting lens through which to view talent distribution in cinema. Like ancient astronomers finding patterns in the night sky, we've uncovered correlations that, while not definitively causal, offer fascinating insights into the relationship between birth dates and career trajectories.
+
+Our analysis continues as part of a larger exploration of zodiac influences in cinema, but this chapter reveals that perhaps, in some small way, the stars of our birth might indeed influence our path to the stars of Hollywood.
 
 ## Oscar Analysis
 8.⁠ ⁠(8) *Oscar Analysis*: Are actors of different zodiac signs equally likely to win an Oscar? Which zodiac sign has the highest probability of winning an Oscar?
