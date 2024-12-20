@@ -83,7 +83,6 @@ The ANOVA test provided these key statistics (rounded to three decimal places):
 
 At a 95% confidence level, these results are illuminating. With a p-value below the threshold of 0.05, we found that the differences in movie counts across zodiac signs are indeed significant. In other words, the data supports the hypothesis that zodiac signs are associated with variation in the number of movies actors participate in.
 
-## Conclusion
 
 While this analysis does not imply causation—astrological signs may not directly influence an actor’s success—it opens the door to fascinating discussions about underlying factors, whether cultural, psychological, or simply coincidental, that could align with zodiac sign traits. The stars, it seems, may have more sway over Hollywood than we once thought.
 
