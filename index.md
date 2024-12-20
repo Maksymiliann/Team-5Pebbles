@@ -227,7 +227,7 @@ In the dazzling constellation of Hollywood, we discovered an intriguing pattern:
 
 Like their elemental nature, Fire signs dominate the spotlight. Aries leads the charge, claiming lead roles in 33.34% of their appearances - significantly higher than any other sign. Following closely are their fellow fire sign Leo (32.57%) and the adaptable air sign Gemini (32.75%). This isn't just celestial coincidence; our statistical analysis confirms these differences are significant (p < 0.001).
 
-More specifically, we have the heatmap of leading role ratios on the dimensions of zodiac signs and genres.
+More specifically, we have the heatmap of leading role ratios (normalized to z-scores) on the dimensions of zodiac signs and genres.
 
 <!-- ## When Stars Align with Genre -->
 ![Insert Zodiac-Genre Interaction Heatmap](/assets/img/Zodiac-Genre_Interaction_Effect_on_Lead_Roles.png)
