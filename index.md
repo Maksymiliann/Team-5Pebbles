@@ -310,7 +310,7 @@ To capture this artistic versatility in numerical terms, we crafted the Genre Di
    - Measures the balance between most and least frequent genres
    - Like assessing if an artist favors certain colors too heavily
 
-![Insert Box Plot: GDI Distribution Across Zodiac Signs](img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign.png)
+![Insert Box Plot: GDI Distribution Across Zodiac Signs](/assets/img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign.png)
 *Our box plot reveals the distribution of Genre Diversity Index across zodiac signs, showing median values and outliers.*
 
 ### What the Numbers Tell Us
@@ -331,7 +331,7 @@ These numbers tell a story of subtle cosmic influence. Consider how Sagittarius,
 
 The clustering of scores within such a tight range (0.722-0.733) tells us something remarkable about professional acting - regardless of zodiac sign, successful actors tend to develop significant versatility. It's as if the demands of the craft itself shape performers more than their astrological predispositions.
 
-![Insert Violin Plot: GDI Distribution Density](img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign_Violin_Plot.png)
+![Insert Violin Plot: GDI Distribution Density](/assets/img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign_Violin_Plot.png)
 *The violin plot shows the full distribution shape of GDI scores across zodiac signs.*
 
 ### Statistical Insights
@@ -343,7 +343,7 @@ Our statistical analysis using the Kruskal-Wallis test revealed:
 
 These results suggest that while we observe small differences in genre diversity across zodiac signs, these differences aren't statistically significant. In other words, while the stars might whisper suggestions about an actor's path, they don't shout commands. The small differences we observe are like subtle brushstrokes in a larger masterpiece - interesting to note but not defining the overall picture.
 
-![Insert Bar Chart](img/Mean_Genre_Diversity_Index_by_Zodiac_Sign.png)
+![Insert Bar Chart](/assets/img/Mean_Genre_Diversity_Index_by_Zodiac_Sign.png)
 *The bar chart displays mean GDI values with standard deviation for each zodiac sign.*
 
 ### Key Findings
@@ -376,7 +376,7 @@ In the vast constellation of Hollywood, we've often wondered: do the stars that 
 
 ### The Celestial Distribution
 
-![Insert Lead Role Ratio Bar Chart visualization](img/Lead_Role_Ratio_by_Zodiac_Sign.png)
+![Insert Lead Role Ratio Bar Chart visualization](/assets/img/Lead_Role_Ratio_by_Zodiac_Sign.png)
 *Lead Role Ratio Across the Zodiac*
 
 At first glance, our data reveals a fascinating pattern. Like the bright stars of Aries dominating the spring sky, actors born under this sign shine brightest in our analysis, securing lead roles in 33.34% of their appearances. This isn't just celestial coincidence - our statistical analysis confirms these differences are significant, with both chi-square and Kruskal-Wallis tests yielding p-values below 0.001.
@@ -385,7 +385,7 @@ The zodiac wheel seems to favor fire and air signs, with Gemini (32.75%) and Leo
 
 ### When Stars Meet Genre
 
-![Insert Zodiac-Genre Interaction Heatmap](img/Zodiac-Genre_Interaction_Effect_on_Lead_Roles.png)
+![Insert Zodiac-Genre Interaction Heatmap](/assets/img/Zodiac-Genre_Interaction_Effect_on_Lead_Roles.png)
 *Heat Map of Zodiac-Genre Interaction Effects in Lead Roles*
 
 But the story gets even more interesting when we look at how different signs perform across various film genres. Our heatmap reveals some truly stellar connections:
@@ -394,7 +394,7 @@ Imagine a Sagittarius documentary filmmaker, capturing truth through their lens 
 
 The romance genre tells an equally compelling tale. Aries actors, with their passionate nature, show a remarkable 35.46% higher likelihood of leading romantic films. With over 1,400 cases in our sample, this is no shooting star - it's a consistent pattern worth noting.
 
-![Insert Lead Role Distribution by Genre and Zodiac Sign Plot](img/Lead_Role_Distribution_by_Genre_and_Zodiac_Sign.png)
+![Insert Lead Role Distribution by Genre and Zodiac Sign Plot](/assets/img/Lead_Role_Distribution_by_Genre_and_Zodiac_Sign.png)
 *Lead Role Distribution Patterns Across Movie Genres by Zodiac Sign*
 
 
