@@ -195,7 +195,7 @@ Then we looked into  which zodiac signs contribute most to the observed differen
 
    which indicates that the distributions of Taurus, Virgo, and Scorpio are the most significantly different between all films and Action films.
 
-Chi-square tests for top 20 popular movie genres are conducted. You could find the result in [genre-zodaic-chi-square.md](./genre-zodiac-chi-square.md).
+Chi-square tests for top 20 popular movie genres are conducted. You could find the result in [genre-zodaic-chi-square.md](./assets/genre-zodiac-chi-square.md).
 
 In these 20 genres 
 - 5 genres (Adventure, Romantic drama, Fantasy, Science Fiction, Crime Thriller) are **independent** with zodiac signs.
