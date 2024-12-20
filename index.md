@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Actors & Astrology; Zodiac Trends in Movie Field
+title: "Actors & Astrology: Zodiac Trends in Movie Field"
 cover-img: /assets/img/Finally_a_good_dimension_image.png
 thumbnail-img: /assets/img/Finally_a_good_dimension_image.png
 share-img: /assets/img/Finally_a_good_dimension_image.png
@@ -13,6 +13,110 @@ In the realm of film and celebrity culture, astrology has carved out its own nic
 (The reformulation was done by chatgpt)
 
 # 5pebbles Project Analysis
+
+# Summary
+
+The analysis highlights interesting patterns in zodiac representation and genre preferences among actors. Cancer and Pisces are notably overrepresented, while Sagittarius and Capricorn are underrepresented. In terms of genre, Sagittarius prefers Thrillers, Aquarius gravitates toward Action/Adventure, and Scorpio leans toward Animation and Family Films. However, the modest effect sizes suggest these patterns are indicative rather than definitive.
+
+## 1. Zodiac Sign Distribution Among Actors  
+
+### Key Statistics
+- **Initial Dataset Size**: 450,668 records  
+- **Post-Cleaning Dataset Size**: 242,096 records  
+
+### Distribution Plot  
+Generally, the zodiac sign Cancer has the highest representation, while Sagittarius has the lowest representation.
+
+### Significance Test
+The zodiac sign distribution was statistically analyzed using a chi-square test:  
+- **Chi-Square Statistic**: 50.58  
+- **P-Value**: 4.92e-07  
+
+The null hypothesis of a uniform distribution is rejected, indicating that the zodiac distribution is significantly non-uniform.  
+
+#### Significant Observations
+**Overrepresented signs**:  
+- Cancer (8.71%): Z-Score = 2.97, P-Value = 0.00295  
+- Pisces (8.69%): Z-Score = 2.82, P-Value = 0.00476  
+- Leo (8.66%): Z-Score = 2.54, P-Value = 0.01109  
+
+**Underrepresented signs**:  
+- Capricorn (7.89%): Z-Score = -3.47, P-Value = 0.00053  
+- Sagittarius (7.92%): Z-Score = -3.28, P-Value = 0.00103  
+
+**Signs with no significant differences**: Virgo, Gemini, Libra, and others showed distributions close to the expected uniform proportions (P > 0.05).  
+
+These findings suggest that certain zodiac signs, particularly Cancer and Pisces, are disproportionately represented among actors, while others like Capricorn and Sagittarius are underrepresented. Notably, 5 out of 12 signs deviate significantly from the expected uniform proportions, providing evidence of non-random patterns.  
+
+While Cancer has the highest representation, other signs like Gemini and Virgo appear evenly distributed, suggesting these signs may not exhibit strong astrological influences on representation. A preliminary hypothesis can thus be drawn: individuals born under Cancer, Pisces, and Leo may be more likely to become actors.
+
+### ⭐ Astrological Context
+To provide context, a brief explanation of zodiac basics and elemental dynamics is useful. The zodiac signs are categorized into four elemental groups:
+- **Water** (Cancer, Pisces, Scorpio)  
+- **Earth** (Taurus, Virgo, Capricorn)  
+- **Fire** (Aries, Leo, Sagittarius)  
+- **Air** (Gemini, Libra, Aquarius)  
+
+Cancer and Pisces belong to the Water element, often associated with emotional depth and intuition, while Leo is a Fire sign, symbolizing passion and creativity. In zodiac interpretations, these signs are frequently described as emotionally expressive, traits that may align with the demands of acting.
+
+Interestingly, an online search for “zodiac signs best suited to acting” frequently lists Leo first, followed by Pisces, with Cancer mentioned less often. This aligns with our findings: Leo and Pisces show strong representation among actors, with Cancer unexpectedly emerging as the most overrepresented sign. This discrepancy between popular perceptions and statistical results invites further exploration.
+
+Further research is needed to explore potential cultural or psychological factors contributing to these trends.  
+
+## 2. Genre Preferences by Zodiac Sign  
+
+### Key Statistics
+There are 81,740 films in the film dataset. The top 11 genres with the highest percentages are:  
+- **Drama**: 41.6%  
+- **Comedy**: 25.34%  
+- **Action/Adventure**: 22.41%  
+- **Romance Film**: 16.65%  
+- **Thriller**: 10.7%  
+- **Documentary**: 6.89%  
+- **Animation**: 4.32%  
+
+### Findings
+The distribution of movie genres shows a dominance of Drama, Comedy, and Action/Adventure. Genres like Animation and Musical, while less common, offer insights into niche preferences.  
+
+### Analysis Techniques
+- **Normality Tests**: Most genres showed normal distribution, except Comedy (p = 0.041).  
+- **ANOVA and Kruskal-Wallis**: Significant variations in genre preferences across zodiac signs were identified (ANOVA F = 8068.49, P < 0.001; Kruskal-Wallis H = 129.10, P < 0.001).  
+- **Normalization**: Genre preferences were normalized against base rates to highlight deviations from expected trends.  
+
+### Normalized Preference
+For example, Aquarius's +0.74 in Action/Adventure means 74% higher preference than expected given the genre's base rate of 22.4%.
+
+#### Specificity Test
+Specificity measures how unique a zodiac sign's preference is compared to other signs:
+- **Positive values**: preference stronger than other signs  
+- **Negative values**: preference weaker than other signs  
+- **Magnitude**: degree of preference uniqueness  
+
+### Key Insights
+- **Sagittarius**: Strong preference for Thrillers (+0.125 specificity).  
+- **Aquarius**: Notable affinity for Action/Adventure (+0.097 specificity).  
+- **Scorpio**: Unique preferences for Animation (+0.175) and Family Films (+0.167).  
+- **Capricorn**: Preference for Musicals (+0.170) contrasts with aversion to Family Films (-0.154).  
+
+### Pattern Analysis
+- **Fire signs** (Aries, Leo, Sagittarius): Varied preferences across genres.  
+- **Earth signs** (Taurus, Virgo, Capricorn): Strong contrasts.  
+- **Air signs** (Gemini, Libra, Aquarius): Moderate specificity patterns.  
+- **Water signs** (Cancer, Scorpio, Pisces): Tend toward creative/emotional genres.  
+
+### Variability Analysis
+The coefficient of variation (CV) quantifies the relative dispersion of genre preferences among zodiac signs:  
+- Highest variability: Taurus, Gemini, and Aries (~0.85).  
+- Lowest variability: Scorpio (~0.82).  
+
+### Statistical Significance
+Three statistically significant preferences emerged:  
+1. **Sagittarius → Thriller** (Z=2.369)  
+2. **Aquarius → Action/Adventure** (Z=1.972)  
+3. **Taurus → Drama** (Z=2.242)  
+
+While zodiac signs display distinct genre preferences, the effect sizes remain moderate. The patterns observed suggest subtle influences rather than deterministic relationships.
+
 
 ## Distribution Analysis
 1.⁠ ⁠(1) *Distribution Analysis*: After group the actors into different zodiac signs, we will calculate the distribution. Then we will utilise chi-square to determine if the differences between the zodiac signs are significant or not.
