@@ -209,8 +209,8 @@ This analysis suggests that actors born under Taurus, Virgo, and Scorpio deviate
 ## Genre-Wide Insights
 
 Expanding the analysis to the top 20 most popular genres yielded intriguing results:
-	•	Genres independent of zodiac signs: (Adventure, Romantic drama, Fantasy, Science Fiction, Crime Thriller).
-	•	Genres showing dependency: (Drama, Comedy, Romance Film, Thriller, Action, Crime Fiction, Action/Adventure, World Cinema, Black-and-White, Indie, Family Film, Horror, Musical, Romantic Comedy, Mystery).
+- Genres independent of zodiac signs: (Adventure, Romantic drama, Fantasy, Science Fiction, Crime Thriller).
+- Genres showing dependency: (Drama, Comedy, Romance Film, Thriller, Action, Crime Fiction, Action/Adventure, World Cinema, Black-and-White, Indie, Family Film, Horror, Musical, Romantic Comedy, Mystery).
 
 The findings suggest a complex relationship between zodiac traits and genre preferences, with some genres showing a strong alignment with specific zodiac patterns while others remain unaffected.
 
