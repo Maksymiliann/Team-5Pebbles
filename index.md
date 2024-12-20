@@ -98,7 +98,7 @@ The careers of different actors vary greatly. Some have very long careers, while
 ![insert image of actor's career](/assets/img/RetireAge.png)
 ![insert image of actor's career](/assets/img/CareerSpan.png)
 
-Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the differences is significant.
+Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that **none of the differences is significant**.
 
 |                  | F-Statistic | P-Value |
 |------------------|-------------|---------|
