@@ -201,15 +201,18 @@ Chi-squared test procedures, take the Action films as the example
 2. Define the alternative hypothesis (H1): There is a significant difference between the two distributions.
 
 3. Create a contingency table that includes the observed counts of zodiac signs for the overall distribution and the selected movie genre.
-|    | Aquarius | Aries  | Cancer | Capricorn | Gemini | Leo   |
-|----|----------|--------|--------|-----------|--------|-------|
-| **Total** | 80,131   | 81,596 | 82,128 | 74,011    | 85,994 | 84,755 |
-| **Action** | 3,411    | 3,270  | 3,479  | 3,002     | 3,610  | 3,549  |
 
-|    | Libra | Pisces | Sagittarius | Scorpio | Taurus | Virgo  |
-|----|-------|--------|-------------|---------|--------|--------|
-| **Total** | 83,247 | 79,976 | 76,220      | 78,519  | 77,232 | 81,731 |
-| **Action** | 3,389  | 3,189  | 3,183       | 3,067   | 2,950  | 3,544  |
+| Zodiac Sign   | Aquarius  | Aries    | Cancer   | Capricorn | Gemini   | Leo      |
+|---------------|-----------|----------|----------|-----------|----------|----------|
+| **Total**     | 80,247.22 | 81,519.0 | 82,230.78| 73,975.72 | 86,070.14| 84,821.41|
+| **Action**    | 3,294.78  | 3,347.0  | 3,376.22 | 3,037.28  | 3,533.86 | 3,482.59 |
+
+
+| Zodiac Sign   | Libra     | Pisces   | Sagittarius | Scorpio   | Taurus   | Virgo    |
+|---------------|-----------|----------|-------------|-----------|----------|----------|
+| **Total**     | 83,219.20 | 79,885.09| 76,271.46   | 78,368.36 | 77,019.73| 81,911.87|
+| **Action**    | 3,416.80  | 3,279.91 | 3,131.54    | 3,217.64  | 3,162.27 | 3,363.13 |
+
 
 4. Calculate the expected counts for each zodiac sign under the null hypothesis. These can be calculated as: $\text{Expected Count} = \frac{\text{Total count in category} \times \text{Total count in group}}{\text{Grand Total}}$
 
@@ -218,6 +221,7 @@ Chi-squared test procedures, take the Action films as the example
 |---------------|-----------|----------|----------|-----------|----------|----------|
 | **Total**     | 80,247.22 | 81,519.0 | 82,230.78| 73,975.72 | 86,070.14| 84,821.41|
 | **Action**    | 3,294.78  | 3,347.0  | 3,376.22 | 3,037.28  | 3,533.86 | 3,482.59 |
+
 
 | Zodiac Sign   | Libra    | Pisces   | Sagittarius | Scorpio   | Taurus   | Virgo    |
 |---------------|----------|----------|-------------|-----------|----------|----------|
@@ -234,6 +238,7 @@ Chi-squared test procedures, take the Action films as the example
 |---------------|----------|-------|--------|-----------|--------|-------|
 | **Total**     | 0.17     | 0.07  | 0.13   | 0.02      | 0.07   | 0.05  |
 | **Action**    | 4.10     | 1.77  | 3.13   | 0.41      | 1.64   | 1.27  |
+
 
 | Zodiac Sign   | Libra | Pisces | Sagittarius | Scorpio | Taurus | Virgo  |
 |---------------|-------|--------|-------------|---------|--------|--------|
