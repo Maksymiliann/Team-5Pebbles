@@ -127,11 +127,7 @@ Do certain zodiac signs naturally gravitate toward specific genres? For example,
 
 <!-- ### How We Read the Stars: Our Methodology -->
 
-Imagine your daily food: if meat takes up 40% of most people's diet, and you eat 80% meat in your food, it’s clear you have a sweet spot for meat. Similarly, we want to see the genre distribution in different zodiac signs. We defined several concept here:
-
-- **Base Rate** = total_movies_in_genre / total_movies, to see how common each genre is
-- **Zodiac-Specific Genre Rate** = movies_of_genre_by_zodiac / total_movies_by_zodiac, to see the the popularity of the genre in a specific zodiac sign
-- **Preference Index** = Base Rate / Zodiac-Specific Rate, where scores above 1 reveal stronger preferences in the zodiac towards the genre and scores below 1 show weaker preference
+Imagine your daily food: if meat takes up 40% of most people's diet, and you eat 80% meat in your food, it’s clear you have a sweet spot for meat. Similarly, we want to see the genre distribution in different zodiac signs. We defined several concept here: **Base Rate**  for how common each genre is, **Zodiac-Specific Genre Rate** for the the popularity of the genre in a specific zodiac sign. Dividing these gave us a **Preference Index** , where scores above 1 reveal stronger preferences in the zodiac towards the genre and scores below 1 show weaker preference
 
 Finally, we normalize the Preference Index to z-scores, and plot the following heatmap:
 
