@@ -131,7 +131,7 @@ Imagine a party with snacks: if most people eat 40% chocolate and you eat 80%, i
 
 ![Gender Analysis](/assets/img/genre_movie.png)  
 
-#### :sagittarius: Sagittarius: The Thrill Seekers  
+#### :sagittarius: The Thrill Seekers  
 Sagittarius shines in Thrillers, favoring suspenseful storytelling with a +12.5% preference. Their adventurous, daring nature makes them natural fits for edge-of-your-seat tales.  
 
 #### ♒ Aquarius: Action Heroes  
