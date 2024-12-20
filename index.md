@@ -88,7 +88,7 @@ The statistic of ANOVA analysis is as follows (rounded to 3 digits):
 F-statistic: 1.800
 P-value: 0.048
 ```
-With confidence level $\alpha=0.05$, we can say that actors with different zodiac signs DO have a a significant difference in the number of movies they participate.
+At a 95% confidence level, we can say that actors with different zodiac signs DO have a a significant difference in the number of movies they participate.
 
 # 5. Career Longevity
 3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?  
