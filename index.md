@@ -35,15 +35,11 @@ The analysis highlights interesting patterns in zodiac representation and genre 
 
 <!-- Is the distribution of actors across zodiac signs uniform, or are certain signs more represented than others? Which zodiac sign has the highest representation among actors? What is the distribution of some domographic factors like gender? Our project calculates the distribution and uses the Chi-Square test and Z-Score to determine whether the differences are statistically significant. -->
 
-An intuitive question would be: **Are actors uniformly distributed across zodiac signs?**
-
-Here is the the zodiac sign distribution of actors in our CMU dataset.
+An intuitive question would be: **Are actors uniformly distributed across zodiac signs?** Here is the the zodiac sign distribution of actors in our CMU dataset.
 
 ![zodiac distribution](/assets/img/DistributionZodiacSigns.png)
-Among all zodiac signs, Cancer takes the crown with 8.71% of actors, significantly higher than expected.
 
-
-Now, back to the data. Among all zodiac signs, **Cancerians** take the crown with 8.71% of actors, significantly higher than expected. Known for their emotional depth and intuition, Cancerians might have a natural flair for embodying complex characters on screen. Following closely are **Pisces** (8.69%) and **Leo** (8.66%). Pisces, another Water sign, are often described as dreamy and empathetic—traits that align well with acting. Meanwhile, fiery Leo, the "performer" of the zodiac, lives up to its reputation, bringing creativity and charisma to the industry.
+Among all zodiac signs, **Cancerians** take the crown with 8.71% of actors, significantly higher than expected. Known for their emotional depth and intuition, Cancerians might have a gift for embodying complex characters on screen. Following closely are **Pisces** (8.69%) and **Leo** (8.66%). Pisces are often described as dreamy and empathetic—traits that align well with acting. Meanwhile, fiery Leo, the "performer" of the zodiac, lives up to its reputation, bringing creativity and charisma to the industry.
 
 On the other end, **Sagittarius** and **Capricorn** find themselves underrepresented, comprising only 7.92% and 7.89% of actors, respectively. Sagittarians, known for their adventurous spirit, might be more drawn to pursuits outside the arts. Capricorns, with their practical and disciplined nature, could lean toward structured careers rather than the unpredictable world of acting.
 
