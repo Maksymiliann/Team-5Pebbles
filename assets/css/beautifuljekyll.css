@@ -479,13 +479,13 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 0.625rem;
+  margin-bottom: 0.8rem;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
