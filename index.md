@@ -6,6 +6,9 @@ thumbnail-img: /assets/img/Finally_a_good_dimension_image.png
 share-img: /assets/img/Finally_a_good_dimension_image.png
 ---
 
+$$
+a^2+b^2=c^2
+$$
 # Introduction
 Astrology has fascinated humanity for centuries, weaving stories of destiny, personality, and cosmic influence. At its heart lies the zodiac, a circle of twelve signs, each tied to celestial alignments and thought to shape our traits and behaviors. From fiery Aries to dreamy Pisces, these signs are often seen as a map to better understand ourselves and the world around us. But astrology isn't just an ancient curiosity—it’s alive and thriving, sparking interest in everything from relationships to careers.
 
