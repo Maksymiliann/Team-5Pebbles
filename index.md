@@ -201,17 +201,13 @@ Chi-squared test procedures, take the Action films as the example
 
 3. Create a contingency table that includes the observed counts of zodiac signs for the overall distribution and the selected movie genre.
 
-| Zodiac Sign   | Aquarius  | Aries    | Cancer   | Capricorn | Gemini   | Leo      |
-|---------------|-----------|----------|----------|-----------|----------|----------|
-| **Total**     | 80,247.22 | 81,519.0 | 82,230.78| 73,975.72 | 86,070.14| 84,821.41|
-| **Action**    | 3,294.78  | 3,347.0  | 3,376.22 | 3,037.28  | 3,533.86 | 3,482.59 |
-
-
-| Zodiac Sign   | Libra     | Pisces   | Sagittarius | Scorpio   | Taurus   | Virgo    |
-|---------------|-----------|----------|-------------|-----------|----------|----------|
-| **Total**     | 83,219.20 | 79,885.09| 76,271.46   | 78,368.36 | 77,019.73| 81,911.87|
-| **Action**    | 3,416.80  | 3,279.91 | 3,131.54    | 3,217.64  | 3,162.27 | 3,363.13 |
-
+| Zodiac Signs         | Aquarius  | Aries    | Cancer   | Capricorn | Gemini   | Leo      |
+|----------------------|-----------|----------|----------|-----------|----------|----------|
+| **Total**            | 80,247.22 | 81,519.0 | 82,230.78| 73,975.72 | 86,070.14| 84,821.41|
+| **Action**           | 3,294.78  | 3,347.0  | 3,376.22 | 3,037.28  | 3,533.86 | 3,482.59 |
+| **Zodiac Signs**     | Libra     | Pisces   | Sagittarius | Scorpio   | Taurus   | Virgo    |
+| **Total**            | 83,219.20 | 79,885.09| 76,271.46   | 78,368.36 | 77,019.73| 81,911.87|
+| **Action**           | 3,416.80  | 3,279.91 | 3,131.54    | 3,217.64  | 3,162.27 | 3,363.13 |
 
 4. Calculate the expected counts for each zodiac sign under the null hypothesis. These can be calculated as: $\text{Expected Count} = \frac{\text{Total count in category} \times \text{Total count in group}}{\text{Grand Total}}$
 
