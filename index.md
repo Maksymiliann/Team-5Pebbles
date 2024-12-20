@@ -34,7 +34,8 @@ Summary
 
 The analysis highlights interesting patterns in zodiac representation and genre preferences among actors. Cancer and Pisces are notably overrepresented, while Sagittarius and Capricorn are underrepresented. In terms of genre, Sagittarius prefers Thrillers, Aquarius gravitates toward Action/Adventure, and Scorpio leans toward Animation and Family Films. However, the modest effect sizes suggest these patterns are indicative rather than definitive.
 
-# 3. Dancing with the data -- Data Analysis
+# 3. Research Questions
+## 3.1 Dancing with the data -- Data Analysis
 
 <!-- Is the distribution of actors across zodiac signs uniform, or are certain signs more represented than others? Which zodiac sign has the highest representation among actors? What is the distribution of some domographic factors like gender? Our project calculates the distribution and uses the Chi-Square test and Z-Score to determine whether the differences are statistically significant. -->
 
@@ -59,7 +60,7 @@ The graph below shows the zodiac sign distribution of actors by gender. In this 
 
 ![Gender Analysis](/assets/img/GenderAnalysis.png)
 
-# 4. Do Zodiac Signs Influence the Number of Movies Actors Star In?
+## 3.2 Do Zodiac Signs Influence the Number of Movies Actors Star In?
 
 In the glitzy world of cinema, where stars of the celestial and celebrity kind align, a curious question emerged: Could an actor’s zodiac sign influence their career’s trajectory? To unravel this cosmic mystery, we embarked on an exploration of data and statistics, asking: Do actors with different zodiac signs significantly differ in the number of movies they participate in?
 
@@ -92,7 +93,7 @@ At a 95% confidence level, these results are illuminating. With a p-value below 
 
 While this analysis does not imply causation—astrological signs may not directly influence an actor’s success—it opens the door to fascinating discussions about underlying factors, whether cultural, psychological, or simply coincidental, that could align with zodiac sign traits. The stars, it seems, may have more sway over Hollywood than we once thought.
 
-# 5. Are there any differences in the careers of actors with different zodiac signs
+## 3.3 Are there any differences in the careers of actors with different zodiac signs
 
 The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
 
@@ -110,7 +111,7 @@ Actors of all zodiac signs generally have their first film role around the age o
 
 
 
-# 6. Genre Preferences by Zodiac Sign  
+## 3.4 Genre Preferences by Zodiac Sign  
 
 ### Key Statistics
 There are 81,740 films in the film dataset. The top 11 genres with the highest percentages are:  
@@ -173,7 +174,7 @@ While zodiac signs display distinct genre preferences, the effect sizes remain m
 ## Genre Analysis
 4.⁠ ⁠(2) *Genre Analysis* Preferences for movie genres among actors of different zodiac signs: ① Calculate the distribution of different genre ② Calculate the genre distribution of each sign ③ Divide the two proportion ④ use statstical method to test if the trends are significant.
 
-# 7.  Do Zodiac Signs Shape Their Starring Roles in Movie Genres?
+## 3.5  Do Zodiac Signs Shape Their Starring Roles in Movie Genres?
 
 Amid the endless reels of cinematic storytelling, a fascinating question beckons: Are certain zodiac signs more likely to shine in specific movie genres? By delving into the intersection of astrology and cinema, we sought to uncover whether the distribution of zodiac signs within a given genre deviates significantly from the overall zodiac distribution across all films.
 
@@ -208,7 +209,7 @@ The findings suggest a complex relationship between zodiac traits and genre pref
 While the results are compelling, they invite both curiosity and caution. The data reveals significant zodiac-genre dependencies in many cases, but the reasons behind these patterns remain open to interpretation. Could cultural stereotypes, casting tendencies, or even intrinsic zodiac traits play a role? The cinematic zodiac story is one of intrigue, leaving room for both statistical and creative exploration.
 
 
-# 8. Dancing Through Genres - The Art of Versatility
+## 3.6. Dancing Through Genres - The Art of Versatility
 
 In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But does the cosmic alignment at one's birth influence this artistic flexibility? Our Genre Diversity Index (GDI) study set out to explore this intriguing question.
 
@@ -233,7 +234,7 @@ Even the statistical analysis (Kruskal-Wallis test, p-value: 0.213) confirms tha
 
 Perhaps the most compelling conclusion is that versatility in acting transcends astrological boundaries. Whether born under the adventurous stars of Sagittarius or the grounded sign of Taurus, successful actors find ways to expand their dramatic range and explore diverse theatrical territories.
 
-# 9. Dancing with Destiny: How Zodiac Signs Light Up Leading Roles
+## 3.7 Dancing with Destiny: How Zodiac Signs Light Up Leading Roles
 
 In the dazzling constellation of Hollywood, we discovered an intriguing pattern: the stars under which actors were born might just influence their journey to center stage. Our analysis revealed some fascinating cosmic connections that would make even skeptics raise an eyebrow.
 
@@ -273,7 +274,7 @@ Our findings aren't just astrological musings - they're backed by robust statist
 
 While we're not suggesting casting directors should start consulting astrology charts, our analysis reveals intriguing patterns in how different zodiac signs tend to shine in various roles. It's a reminder that in the magical world of cinema, sometimes the stars above align with the stars on screen in unexpected ways.
 
-# 10. Are actors of different zodiac signs equally likely to win an Oscar?
+## 3.8 Are actors of different zodiac signs equally likely to win an Oscar?
 
 The Academy Awards, commonly known as the Oscars, are annual awards presented by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding achievements in the film industry. First held in 1929, the Oscars have become one of the most prestigious and widely recognized accolades in cinema. In this analysis, we gathered the data of the winner of best actor and best actress from 1929-2023 and calculated the awarding rate of different zodaic signs. Then we use z-score and Chi-square Test to test if the differences of awarding rate among different zodiac signs are significant.
 
@@ -289,7 +290,7 @@ As shown in the graph above, Capricorn, Aries, and Taurus rank as the top three 
 | Aquarius    | 0.76‰         | -2.949  | 0.003   | True         |  
  
 
-# 11. Conclusion
+# 4. Conclusion
 The analysis of zodiac signs in the context of cinema reveals a real interest in the influence of these astrological archetypes on characters, storylines, and even casting choices. The zodiac signs often present a reference point for shaping the personality and the traits of characters, allowing to add depth and integrity to their portrayal. This subtle connection between astrological signs and characters’ personalities encourages the audience to engage with the story on a deeper level.
 
 For the actors themselves, some traits, associated with their astrological signs, sometimes seem to align with the roles they play. Even though this alignment might be somewhat coincidental or open to subjective interpretation, it still reinforce the idea of a hidden link between an actor’s personality and the energy they project on screen. In a world where storytelling relies heavily on archetypes, the zodiac signs bring an intuitive and universal framework that can captivate the audience's imagination and enhances the overall cinematic experience.
