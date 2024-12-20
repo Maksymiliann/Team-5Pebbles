@@ -111,15 +111,17 @@ Actors of all zodiac signs generally have their first film role around the age o
 
 ## 3.4 Do Genre Distributions Differ Across Zodiac Signs?
 
-After exploring how zodiac signs might influence actors' careers in Section 3.3, a new question arises: could the stars also play a role in the types of movies actors are drawn to—or perhaps excel in? To answer this, we turn our gaze toward the genres of over 81,740 films, analyzing how celestial patterns align with Hollywood's diverse storytelling landscape.  
+Do certain zodiac signs naturally gravitate toward specific genres? For example, is it possible that Sagittarius has a huge preference for thrillers, while Scorpio prefers Animations?  In this section, we dive deep into genre distribution of different zodiac signs.  
 
-From heart-pounding Action to tear-jerking Dramas, every genre holds its own allure. But do certain zodiac signs naturally gravitate toward specific genres? And if so, how might their astrological traits shape their preferences? In this section, we dive deep into the cosmic currents to uncover these stellar connections.  
-
-Let’s find out which signs thrive in Thrillers, who rules Romance, and why Fire signs might dominate Action while Water signs find their home in emotional storytelling.
+<!-- Let’s find out which signs thrive in Thrillers, who rules Romance, and why Fire signs might dominate Action while Water signs find their home in emotional storytelling. -->
 
 > ### Hollywood's Genre Landscape  
 > Before diving into the zodiac-specific insights, let’s take a step back and look at the bigger picture. Hollywood's genre distribution is as diverse as it is fascinating: 
-> Drama reigns supreme, claiming 41.6% of all films, followed by Comedy (25.3%) and Action/Adventure (22.4%). Romance captures hearts with 16.7%, and Thrillers keep us on the edge at 10.7%.  
+
+> Drama reigns supreme, claiming 41.6% of all films, followed by Comedy (25.3%) and Action/Adventure (22.4%).
+
+> Romance captures hearts with 16.7%, and Thrillers keep us on the edge at 10.7%.  
+
 > But raw numbers alone don’t paint the full picture. It’s not just about which genres dominate; it’s about how specific zodiac signs connect to these genres in unexpected ways.
 
 <!-- ### How We Read the Stars: Our Methodology -->
