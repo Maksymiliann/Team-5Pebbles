@@ -23,7 +23,7 @@ The analysis highlights interesting patterns in zodiac representation and genre 
 
 # 3. Zodiac Sign Distribution Among Actors  
 Is the distribution of actors across zodiac signs uniform, or are certain signs more represented than others? Which zodiac sign has the highest representation among actors? What is the distribution of some domographic factors like gender? Our project calculates the distribution and uses the Chi-Square test and Z-Score to determine whether the differences are statistically significant.
-![zodiac-#movie](/assets/img/DistributionZodiacSigns.png)
+![zodiac distribution](/assets/img/DistributionZodiacSigns.png)
 Among all zodiac signs, Cancer takes the crown with 8.71% of actors, significantly higher than expected.
 
 > Hey, before we get into the specifics, how well do you know the **twelve zodiac signs**? It’s helpful to provide a bit of context on the zodiac itself.  
@@ -38,20 +38,21 @@ Among all zodiac signs, Cancer takes the crown with 8.71% of actors, significant
 
 Now, back to the data. Among all zodiac signs, Cancerians take the crown with 8.71% of actors, significantly higher than expected. Known for their emotional depth and intuition, Cancerians might have a natural flair for embodying complex characters on screen.
 
-Following closely are **Pisces** (8.69%) and **Leo** (8.66%). Pisces, another Water sign, are often described as dreamy and empathetic—traits that align well with acting. Meanwhile, fiery Leo, the "performer" of the zodiac, lives up to its reputation, bringing creativity and charisma to the industry.
+Following closely are **Pisces** (8.69%) and **Leo** (8.66%). Pisces, another Water sign, are often described as dreamy and empathetic—traits that align well with acting. Meanwhile, fiery Leo, the "performer" of the zodiac, lives up to its reputation, bringing creativity and charisma to the industry. On the other end, **Sagittarius** and **Capricorn** find themselves underrepresented, comprising only 7.92% and 7.89% of actors, respectively. Sagittarians, known for their adventurous spirit, might be more drawn to pursuits outside the arts. Capricorns, with their practical and disciplined nature, could lean toward structured careers rather than the unpredictable world of acting.
 
-#### **The Underdogs: Sagittarius and Capricorn**  
-On the other end, **Sagittarius** and **Capricorn** find themselves underrepresented, comprising only 7.92% and 7.89% of actors, respectively. Sagittarians, known for their adventurous spirit, might be more drawn to pursuits outside the arts. Capricorns, with their practical and disciplined nature, could lean toward structured careers rather than the unpredictable world of acting.
-
-#### **Is It All a Coincidence?**  
+**Is It All a Coincidence?**  
 A statistical chi-square test confirms that the distribution isn’t random. The significant p-value (< 0.0001) strongly rejects the idea of a uniform zodiac distribution among actors. This finding suggests that some astrological factors might subtly influence who ends up on the silver screen—or perhaps it reflects societal perceptions of certain traits linked to zodiac signs.
 
 Astrology enthusiasts might point out that Water signs (Cancer and Pisces) excel in emotional expression, a key skill for actors. Leo, a Fire sign, thrives in the spotlight. However, Air and Earth signs, often associated with intellectual and practical traits, seem more evenly distributed.
 
 Curiously, while online stereotypes highlight Leo and Pisces as "ideal actor signs," our findings elevate Cancer to the top—a result that might surprise even the most ardent astrology believers.
 <br><br>
-### **Next Stop: Deeper Connections**  
+
 As we move forward, we’ll explore whether these zodiac differences translate to specific genre preferences or casting decisions. For now, it’s clear that the stars don’t just light up the night sky—they may also shine a subtle light on the silver screen.
+
+**"Will the gender of the actor affect this distribution?**
+The graph below shows the zodiac sign distribution of actors by gender. In this dataset, the number of male actors is higher than the number of female actors. Among male actors, Cancer is the most common zodiac sign, while Capricorn is the least common. Among female actors, Leo is the most common zodiac sign, and Sagittarius is the least common. The zodiac signs Virgo, Pisces, and Cancer are relatively common across both genders, while Sagittarius and Aries are less common. However, despite slight differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
+![Gender Analysis](/assets/img/GenderAnalysis.png)
 
 # 4. Do Zodiac Signs Influence the Number of Movies Actors Star In?
 
