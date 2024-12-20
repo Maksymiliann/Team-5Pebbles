@@ -8,7 +8,7 @@ share-img: /assets/img/Finally_a_good_dimension_image.png
 
 
 # 1. Introduction
-Astrology has fascinated humanity for centuries, weaving stories of destiny, personality, and cosmic influence. In its core lies in the zodiac, twelve signs, each tied to celestial alignments and thought to shape our traits and behaviors. From Aries to Pisces, these signs are often seen as a way to better understand ourselves and the world around us. But astrology isn't just an ancient curiosity, it’s alive and thriving, stirring interest in everything from relationships to careers.
+Astrology has fascinated humanity for centuries, weaving stories of destiny, personality, and cosmic influence. In its core lies the zodiac, twelve signs, each tied to celestial alignments and thought to shape our traits and behaviors. From Aries to Pisces, these signs are often seen as a way to better understand ourselves and the world around us. But astrology isn't just an ancient curiosity, it’s alive and thriving, stirring interest in everything from relationships to careers.
 
 In the scope of film and celebrity culture, astrology has carved out its own position. Fans eagerly connect their favorite actors to zodiac traits, wondering if a Leo’s natural flair contributes to their screen presence or if a Scorpio’s intensity brings depth to their characters. Even filmmakers have drawn inspiration from astrology, creating characters whose personalities align with the stars. Could the cosmos play a role in what makes a star shine on and off the screen? Whether you’re a skeptic or a believer, the intersection of astrology and creativity is hard to ignore.
 
