@@ -274,16 +274,18 @@ In this analysis, we gathered the data of the winner of best actor and best actr
 
 ![insert oscar picture](/assets/img/OscarAwardingRate.png)  
 
-As shown in the graph above, Capricorn, Aries, and Taurus rank as the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three with the lowest winning rates. Furthermore, our statistical analysis reveals that actors born under Capricorn have a significantly higher awarding rate than the average (z-score = 2.985, p-value < 0.05), whereas those born under Aquarius exhibit a significantly lower awarding rate than the average (z-score = -2.949, p-value < 0.01). For the remaining zodiac signs, the differences in awarding rates compared to the average are not statistically significant. 
+> **🌟 Spotlight on Capricorn**
+> - Oscar Awarding Rate: The highest awarding rate (6.42‰)
+> - Z-score results: Z-score = 2.985, p-value < 0.05
+
+
+> **✨ Did You Know?**
+> While Capricorn has the lowest overall lead role ratio, they actually have the highest Oscar-winning rate.
+
+As shown in the graph above, Capricorn, Aries, and Taurus rank as the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three with the lowest winning rates. Furthermore, our statistical analysis reveals that actors born under Capricorn (6.43‰) have a significantly higher awarding rate than the average (z-score = 2.985, p-value < 0.05), whereas those born under Aquarius exhibit a significantly lower awarding rate (0.76‰ ) than the average (z-score = -2.949, p-value < 0.05). For the remaining zodiac signs, the differences in awarding rates compared to the average are not statistically significant. 
 
 Additionally, we performed a Chi-Square test to assess whether awarding rates are significantly associated with zodiac signs. The results (chi-square statistic = 14.177, p-value = 0.223) indicate that, while some individual zodiac signs show significant deviations from the average awarding rate, there is no overall significant correlation between zodiac signs and awarding rates.
 
-**result of z-score**
-
-| Zodiac Sign | Awarding Rate | Z-Score | P-Value | Significant? |  
-|-------------|---------------|---------|---------|--------------|   
-| Capricorn   | 6.43‰         | 2.985   | 0.003   | True         |    
-| Aquarius    | 0.76‰         | -2.949  | 0.003   | True         |  
  
 
 ## 4. Conclusion
