@@ -198,7 +198,7 @@ The chi-squared test for Action films revealed a chi-square statistic of 48.84, 
 
 We then drilled down to identify the zodiac signs contributing most to this divergence. Here are the top contributors:
 
-   | Zodiac Sign | Action |
+   | Zodiac Sign | Contribution to chi-square value |
    |-------------|--------|
    | Taurus      | 14.25  |
    | Virgo       | 9.73   |
