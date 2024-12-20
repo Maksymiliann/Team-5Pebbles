@@ -191,7 +191,7 @@ These numbers tell a story of subtle cosmic influence. Consider how Sagittarius,
 
 The clustering of scores within such a tight range (0.722-0.733) tells us something remarkable about professional acting - regardless of zodiac sign, successful actors tend to develop significant versatility. It's as if the demands of the craft itself shape performers more than their astrological predispositions.
 
-![Insert Violin Plot: GDI Distribution Density](img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign(Violin Plot).png)
+![Insert Violin Plot: GDI Distribution Density](img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign_Violin_Plot.png)
 *The violin plot shows the full distribution shape of GDI scores across zodiac signs.*
 
 ### Statistical Insights
