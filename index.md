@@ -52,9 +52,11 @@ As we move forward, we’ll explore whether these zodiac differences translate t
 **Wait a minute, is there other confounders in this distribution analysis?** For example, maybe all the the zodiac distribution of female actors are not uniform, but for male actors, the distribution is uniform? This leads to our coming question: **Are the zodiac distributions of male and female actors different from each other?**
 
 
-The graph below shows the zodiac sign distribution of actors by gender. In this dataset, the number of male actors is higher than the number of female actors. Among male actors, Cancer is the most common zodiac sign, while Capricorn is the least common. Among female actors, Leo is the most common zodiac sign, and Sagittarius is the least common. However, despite the differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
+The graph below shows the zodiac sign distribution of actors by gender. In this dataset, the number of male actors is higher than the number of female actors. Among male actors, Cancer is the most common zodiac sign, while Capricorn is the least common. Among female actors, Leo is the most common zodiac sign, and Sagittarius is the least common. 
 
 ![Gender Analysis](/assets/img/GenderAnalysis.png)
+
+However, despite the differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
 
 # 4. Do Zodiac Signs Influence the Number of Movies Actors Star In?
 
