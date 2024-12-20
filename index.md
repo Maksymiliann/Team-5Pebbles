@@ -72,7 +72,6 @@ In the glitzy world of cinema, where stars of the celestial and celebrity kind a
 
 > code at: https://github.com/epfl-ada/ada-2024-project-5pebbles/blob/Zhichen/results.ipynb
 
-## Unveiling the Approach
 
 To investigate, we turned to hypothesis test methods:
 
@@ -81,14 +80,14 @@ To investigate, we turned to hypothesis test methods:
 2.	Analysis of Variance (ANOVA): Then, we conducted an ANOVA test to compare the distribution of movie counts across these zodiac groups. This statistical test measures whether differences between groups are significant or merely a result of chance.
 
 
-## A Rough Look at the data: The Starry Distribution
 Before diving into the results, we visualized the data. The chart above illustrates how the number of movies varies across actors belonging to each zodiac sign. Patterns began to emerge, hinting at potential differences, but could they be statistically confirmed?
 
 Here's the distribution of movie counts across actors with different zodiac signs:
 ![zodiac-#movie](/assets/img/role_number-zodiac.png)
 
 
-## The Verdict: ANOVA Analysis
+Here the verdict, ANOVA Analysis, comes to rescue!
+
 The ANOVA test provided these key statistics (rounded to three decimal places):
 ```bash
 	F-statistic: 1.800
