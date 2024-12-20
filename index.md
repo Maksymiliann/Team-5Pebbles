@@ -290,7 +290,4 @@ At the same time, it is crucial to recognize that the impact of astrology in fil
 
 In conclusion, Although the zodiac signs do not dictate the fate of actors nor determine the success of films, they offer an fascinating perspective for exploring the connection between human traits and fictional characters. They introduce a mythological and universal dimension to cinema, broadening our understanding of the art and offering new ways to engage with the stories. Thank you for joining us in this exploration of the cosmic influences on the cinematic world. May the stars continue to inspire and illuminate both our films and our collective imagination.
 
-### Miscellaneous
-
-![insert a picture](/assets/img/template.jpg)
 
