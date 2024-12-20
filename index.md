@@ -196,7 +196,7 @@ The findings suggest a complex relationship between zodiac traits and genre pref
 While the results are compelling, they invite both curiosity and caution. The data reveals significant zodiac-genre dependencies in many cases, but the reasons behind these patterns remain open to interpretation. Could cultural stereotypes, casting tendencies, or even intrinsic zodiac traits play a role? The cinematic zodiac story is one of intrigue, leaving room for both statistical and creative exploration.
 
 
-### 3.6. Dancing Through Genres - The Art of Versatility
+### 3.6. Do Versatility (i.e. diversity) Differ Across Zodiac Signs?
 
 In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But **does zodiac sign influence this artistic flexibility**? Our versatility study set out to explore this intriguing question.
 
