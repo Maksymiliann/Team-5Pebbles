@@ -131,28 +131,36 @@ Finally, we normalize the Preference Index to z-scores, and plot the following h
 
 ![Gender Analysis](/assets/img/genre_movie.png)  
 
-<!-- #### :sagittarius: The Thrill Seekers -->
-We can see that Sagittarius shines in Thrillers, that Aquarius dominate Action/Adventure films, and Scorpios prefer Animation and Family Films. And the patterns become even clearer when we grouped signs by their elements:  
+Here we have some significant star-genre alignments:
 
-🔥 **Fire Signs** (Aries, Leo, Sagittarius) excel in high-energy genres like Action (+15%) and Thrillers (+12%), thriving on passion and intensity.  
+**♑ Capricorn: The Musical Virtuoso**: 
+Our data reveals Capricorns as the surprising champions of musicals, showing a remarkable +17.0% specificity for the genre. Yet in a fascinating twist, these same stage-loving Capricorns strongly shy away from family films (-15.4%), painting a picture of a sign that prefers Broadway sophistication to Disney animation.
 
-💨 **Air Signs** (Gemini, Libra, Aquarius) gravitate toward experimental and intellectual genres, showing strong preferences for Science Fiction and boundary-pushing stories (+14%). 
+**🦂 Scorpio: Masters of Imagination**: While some might expect Scorpios to gravitate toward darker themes, our analysis reveals an unexpected truth: they show the strongest affinity for animation (+17.5%) and family films (+16.7%) among all signs. Perhaps these mysterious water signs channel their legendary intensity into appreciating the boundless creativity of animated storytelling.
 
-🌊 **Water Signs** (Cancer, Scorpio, Pisces) bring unmatched emotional depth to Drama (+8%), Animation (+17.5%), and Family Films (+16.7%).
+**♐ Sagittarius: Thriller Enthusiast**: True to their adventurous nature, Sagittarians show a distinct preference for keeping audiences on the edge of their seats, with a +12.5% specificity for thrillers and +8.3% for crime fiction. These celestial archers seem to aim their arrows straight at the heart of suspenseful storytelling.
 
-🌍 **Earth Signs** (Taurus, Virgo, Capricorn) ground themselves in structured genres, excelling in Drama (+22.4%) and Musicals (+17%), showcasing realism and discipline.
+Other zodiac signs also reveal some positive tendencies: 
+- Virgos bring their analytical nature to family films (+11.8%)
+- Libras balance their way into musicals (+11.0%)
+- Aquarians channel their revolutionary spirit into action/adventure (+9.7%)
+- Cancer's emotional depth finds expression in crime fiction (+8.6%).
 
-<!-- ### What It All Means? -->
+However, there're some negative associations between zodiac signs and genre:
+- Geminis and Capricorns both seem to flee from family films (-15.5% and -15.4% respectively)
+-  Sagittarius stay away from animation (-14.7%)
+-  Taurus lacks interest in musicals (-14.9%)
 
-Backed by solid statistics, these patterns reveal how zodiac traits align with cinematic storytelling:  
 
-- **Sagittarius** thrives in **Thrillers**, favoring suspenseful storytelling with a +12.5% preference. Their adventurous, daring nature makes them natural fits for edge-of-your-seat tales (+12.5%, Z=2.369).  
-- **Aquarius** dominates **Action/Adventure** films, with a staggering +74% preference index. Their rebellious and innovative streak fits perfectly in high-energy, adrenaline-packed stories. (+74%, Z=1.972).  
-- **Taurus** excels in **Drama**, with a notable +22.4% preference index. Their grounded, emotional depth makes them drawn to powerful, character-driven stories (+22.4%, Z=2.242).
+If we group the zodiac signs by their type, we could have further perspectives:
 
-Each sign brings unique strengths to the silver screen:  
-**Fire signs** energize action, **Air signs** innovate, **Water signs** channel emotion, and **Earth signs** anchor realism. While not absolute, these patterns offer a fresh lens on the cosmic influence in art.  
+**🔥 Fire Signs (Aries, Leo, Sagittarius)**: Like their ruling element, fire signs burn bright across varied genres, refusing to be boxed into any single category. Sagittarius leads the pack with their passion for thrillers (+12.5%), while their fellow fire signs show dynamic preferences across action and adventure genres. This diversity perfectly reflects their naturally energetic and multifaceted personalities.
 
+**💨 Air Signs (Gemini, Libra, Aquarius)**: True to their intellectual nature, air signs float through genres that challenge the mind. Aquarius particularly flourishes in action/adventure (+9.7%), perhaps drawn to the strategic complexity these films offer. Meanwhile, Libra's preference for harmony finds its expression in musicals (+11.0%), where story and song create perfect balance.
+
+**🌊 Water Signs (Cancer, Scorpio, Pisces)**: In a delightful surprise, these emotionally deep signs don't just swim in dramatic waters. Scorpio leads with an unexpected love for animation (+17.5%) and family content (+16.7%), while Cancer navigates toward crime fiction (+8.6%). These preferences suggest water signs might use different genres as channels for their characteristic emotional depth.
+
+**🌍 Earth Signs (Taurus, Virgo, Capricorn)**: Earth signs display perhaps the most fascinating contrasts in our analysis. Capricorn scales the heights of musical theater (+17.0%), Virgo nurtures a connection with family films (+11.8%), while Taurus shows their steadfast nature by maintaining consistent, if moderate, preferences across most genres. Their grounded nature apparently doesn't prevent them from reaching for the stars.
 
 As we delve deeper into how zodiac signs influence casting choices and genre alignment, the question lingers:  
 **Could the stars also shape the roles actors play in these genres?**  
