@@ -170,10 +170,7 @@ While zodiac signs display distinct genre preferences, the effect sizes remain m
 ## Genre Analysis
 4.⁠ ⁠(2) *Genre Analysis* Preferences for movie genres among actors of different zodiac signs: ① Calculate the distribution of different genre ② Calculate the genre distribution of each sign ③ Divide the two proportion ④ use statstical method to test if the trends are significant.
 
-# 7. Casting Preferences
-5.⁠ ⁠(3) *Casting preferences* :① Calculate the distribution of different genre ② Calculate the genre distribution of each sign③ Divide the two proportion ④ use statstical method to test if the trends are significant. (Ren Yi, need normalization, could refer to maskymiliann)
-
-Research Question: Is the zodiac distribution of a certain movie genre significantly different from the overall zodiac distribution?
+# 7.  Is the zodiac distribution within a specific movie genre significantly different from the overall zodiac distribution?
 
 Methodology:
 1. Calculate the overall zodiac distribution across all movies.
