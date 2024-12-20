@@ -219,26 +219,20 @@ Even the statistical analysis (Kruskal-Wallis test, p-value: 0.213) confirms tha
 
 Perhaps the most compelling conclusion is that versatility in acting transcends zodiac signs boundaries. Whether born under the adventurous stars of Sagittarius or the grounded sign of Taurus, successful actors find ways to expand their dramatic range and explore diverse theatrical territories.
 
-### 3.7 Dancing with Destiny: How Zodiac Signs Light Up Leading Roles
+### 3.7 Do Leading Role Ratios Differ Across Zodiac Signs?
 
-In the dazzling constellation of Hollywood, we discovered an intriguing pattern: the stars under which actors were born might just influence their journey to center stage. Our analysis revealed some fascinating cosmic connections that would make even skeptics raise an eyebrow.
-
-<!-- ## Fire Signs Burn Brightest -->
+In the dazzling constellation of Hollywood, we discovered an intriguing pattern: the stars under which actors were born might just influence their appearance as a leading role. Here we have the chart for leading role ratio across the zodiac signs.
 
 ![Insert Lead Role Ratio Bar Chart visualization](/assets/img/Lead_Role_Ratio_by_Zodiac_Sign.png)
-*Lead Role Ratio Across the Zodiac*
 
 Like their elemental nature, Fire signs dominate the spotlight. Aries leads the charge, claiming lead roles in 33.34% of their appearances - significantly higher than any other sign. Following closely are their fellow fire sign Leo (32.57%) and the adaptable air sign Gemini (32.75%). This isn't just celestial coincidence; our statistical analysis confirms these differences are significant (p < 0.001).
 
-> **🌟 Spotlight on Aries**
-> - Lead Role Rate: 33.34%
-> - Notable Genre: 35.46% more likely to lead romantic films
+More specifically, we have the heatmap of leading role ratios on the dimensions of zodiac signs and genres.
 
 <!-- ## When Stars Align with Genre -->
 ![Insert Zodiac-Genre Interaction Heatmap](/assets/img/Zodiac-Genre_Interaction_Effect_on_Lead_Roles.png)
-*Heat Map of Zodiac-Genre Interaction Effects in Lead Roles*
 
-The plot thickens when we look at specific genres. Our analysis uncovered some remarkable correlations:
+Our analysis uncovered some remarkable correlations:
 
 - 🎭 **The Romantic Warriors**: Aries actors shine brightest in romance films, with a stunning 35.46% higher likelihood of landing leading roles. With over 1,400 cases studied, this is no mere coincidence.
   
