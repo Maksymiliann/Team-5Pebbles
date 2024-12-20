@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Actors & Astrology \n Zodiac Trends in Movie Field"
+title: "Actors & Astrology: Zodiac Trends in Movie Field"
 cover-img: /assets/img/Finally_a_good_dimension_image.png
 thumbnail-img: /assets/img/Finally_a_good_dimension_image.png
 share-img: /assets/img/Finally_a_good_dimension_image.png
