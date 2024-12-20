@@ -23,10 +23,7 @@ In the scope of film and celebrity culture, astrology has carved out its own pos
 > Each element is associated with specific characteristics: Water signs like Cancer and Pisces are often seen as emotional and intuitive, Earth signs are practical and grounded, Fire signs are passionate and dynamic, and Air signs are intellectual and communicative. These elemental qualities often serve as the foundation for astrological interpretations.  
 
 # 2. Dataset
-Our dataset is an extensive collection comprising the CMU Movies Summary Corpus, an Oscar dataset, and an additional dataset created with ChatGPT about PLEASE WRITE HERE. The features from the CMU Movies Summary Corpus are segregated into two important parts: the movie metadata and the character metadata. The movie metadata encompasses a total of 81,741 different movies from 1892 to 2013 across more than 100 different genres. It also provides data such as the movie's name, release date, box office revenue, runtime, language, and genres. For each of these films, characters from the character metadata appearing in the film are listed. After processing the data, a total of 242,096 individual actors were documented with features including their real name, character's name, age at the movie's release, gender, ethnicity, height, and date of birth. Additionally, a plot summary is sometimes included to complete the data.
-The Oscar dataset features ...
-And the last one ...
-
+Our dataset is an extensive collection comprising the CMU Movies Summary Corpus, an Oscar dataset, and an additional dataset created with ChatGPT about PLEASE WRITE HERE. The features from the CMU Movies Summary Corpus are segregated into two important parts: the movie metadata and the character metadata. The movie metadata encompasses a total of 81,741 different movies from 1892 to 2013 across more than 100 different genres. It also provides data such as the movie's name, release date, box office revenue, runtime, language, and genres. For each of these films, characters from the character metadata appearing in the film are listed. After processing the data, a total of 242,096 individual actors were documented with features including their real name, character's name, age at the movie's release, gender, ethnicity, height, and date of birth. Additionally, a plot summary is sometimes included to complete the data. Finally, we collected Oscar data from Data World, which includes the birthdates of all the winners of the Best Actor and Best Actress awards from 1928 to 2023.
 
 ## don't know what it is
 5pebbles Project Analysis
@@ -125,23 +122,23 @@ Let’s find out which signs thrive in Thrillers, who rules Romance, and why Fir
 > Drama reigns supreme, claiming 41.6% of all films, followed by Comedy (25.3%) and Action/Adventure (22.4%). Romance captures hearts with 16.7%, and Thrillers keep us on the edge at 10.7%.  
 > But raw numbers alone don’t paint the full picture. It’s not just about which genres dominate; it’s about how specific zodiac signs connect to these genres in unexpected ways.
 
-### How We Read the Stars: Our Methodology  
+<!-- ### How We Read the Stars: Our Methodology -->
 
 Imagine a party with snacks: if most people eat 40% chocolate and you eat 80%, it’s clear you have a sweet spot for it. Similarly, we calculated a **Base Rate** for how common each genre is, and a **Zodiac-Specific Rate** for how often actors of each sign appear in them. Dividing these gave us a **Preference Index**, where scores above 1 reveal stronger preferences and below 1, less interest—highlighting the cosmic link between zodiac traits and Hollywood genres.  
 
 ![Gender Analysis](/assets/img/genre_movie.png)  
 
-#### :sagittarius: The Thrill Seekers  
+<!-- #### :sagittarius: The Thrill Seekers -->
 Sagittarius shines in Thrillers, favoring suspenseful storytelling with a +12.5% preference. Their adventurous, daring nature makes them natural fits for edge-of-your-seat tales.  
 
-#### ♒ Aquarius: Action Heroes  
+ <!-- #### ♒ Aquarius: Action Heroes -->
 Aquarians dominate Action/Adventure films, with a staggering +74% preference index. Their rebellious and innovative streak fits perfectly in high-energy, adrenaline-packed stories.  
 
-#### ♏ Scorpio: The Genre Chameleon  
+<!-- #### ♏ Scorpio: The Genre Chameleon -->
 Scorpios’ versatility shows in Animation (+17.5%) and Family Films (+16.7%), where their emotional depth brings characters to life.  
 <br>
 
-### The Elements at Play  
+<!-- ### The Elements at Play -->
 
 The patterns became even clearer when we grouped signs by their elements:  
 
@@ -153,7 +150,7 @@ The patterns became even clearer when we grouped signs by their elements:
 
 🌍 **Earth Signs** (Taurus, Virgo, Capricorn) ground themselves in structured genres, excelling in Drama (+22.4%) and Musicals (+17%), showcasing realism and discipline.
 
-### What It All Means?  
+<!-- ### What It All Means? -->
 
 Backed by solid statistics, these patterns reveal how zodiac traits align with cinematic storytelling:  
 
