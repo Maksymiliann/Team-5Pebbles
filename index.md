@@ -181,22 +181,23 @@ While zodiac signs display distinct genre preferences, the effect sizes remain m
 ## Genre Analysis
 4.⁠ ⁠(2) *Genre Analysis* Preferences for movie genres among actors of different zodiac signs: ① Calculate the distribution of different genre ② Calculate the genre distribution of each sign ③ Divide the two proportion ④ use statstical method to test if the trends are significant.
 
-# 7.  Is the zodiac distribution within a specific movie genre significantly different from the overall zodiac distribution?
+# 7.  Do Zodiac Signs Shape Their Starring Roles in Movie Genres?
 
-Methodology:
-1. Calculate the overall zodiac distribution across all movies.
-2. Calculate the zodia distribution of a certain movie genre (for example, Action movies)
-3. Use chi-squared test to see if these two distributions are significantly different, and to see what contributes to this difference.
+Amid the endless reels of cinematic storytelling, a fascinating question beckons: Are certain zodiac signs more likely to shine in specific movie genres? By delving into the intersection of astrology and cinema, we sought to uncover whether the distribution of zodiac signs within a given genre deviates significantly from the overall zodiac distribution across all films.
 
-Chi-squared test procedures, take the Action films as the example,
+## The Methodology: Mapping the Stars by Genre
 
-we have the chi-square value of 48.84, which is sufficiently large to say that at the 95% confidence level, the zodiac distribution within action films significantly different from the overall zodiac distribution.
+To tackle this question, we employed a structured approach:
 
-Then we looked into  which zodiac signs contribute most to the observed differences by examining the chi-squared statistic for each genre-zodiac cell, as is shown in step 5.
+1.	Overall Zodiac Distribution: First, we calculated the distribution of zodiac signs across all movies in the dataset, creating a benchmark.
+2.	Genre-Specific Zodiac Distribution: Next, we focused on individual genres—beginning with Action films as an example—to determine their unique zodiac makeup.
+3.	Chi-Squared Test: Finally, we used a chi-squared test to compare these distributions, assessing whether the genre-specific zodiac spread significantly deviates from the overall benchmark.
 
-   Larger results indicate greater contributions to the chi-squared statistic.
+## Action Films: A Case Study
 
-   Here are the top 3 Chi-Square Statistics,
+The chi-squared test for Action films revealed a chi-square statistic of 48.84, which is large enough to conclude—at a 95% confidence level—that the zodiac distribution within Action films significantly differs from the overall distribution.
+
+We then drilled down to identify the zodiac signs contributing most to this divergence. Here are the top contributors:
 
    | Zodiac Sign | Action |
    |-------------|--------|
@@ -204,14 +205,19 @@ Then we looked into  which zodiac signs contribute most to the observed differen
    | Virgo       | 9.73   |
    | Scorpio     | 7.05   |
 
-   which indicates that the distributions of Taurus, Virgo, and Scorpio are the most significantly different between all films and Action films.
+This analysis suggests that actors born under Taurus, Virgo, and Scorpio deviate most from the expected proportions in Action films.
 
-Chi-square tests for top 20 popular movie genres are conducted. You could find the result in [genre-zodaic-chi-square.md](./assets/genre-zodiac-chi-square.md).
+## Genre-Wide Insights
 
-In these 20 genres 
-- 5 genres (Adventure, Romantic drama, Fantasy, Science Fiction, Crime Thriller) are **independent** with zodiac signs.
-- 15 genres (Drama, Comedy, Romance Film, Thriller, Action, Crime Fiction, Action/Adventure, World cinema, Black-and-white, Indie, Family Film, Horror, Musical, Romantic comedy, Mystery) illustrate **dependency** with zodiac signs.
+Expanding the analysis to the top 20 most popular genres yielded intriguing results:
+	•	Genres independent of zodiac signs: (Adventure, Romantic drama, Fantasy, Science Fiction, Crime Thriller).
+	•	Genres showing dependency: (Drama, Comedy, Romance Film, Thriller, Action, Crime Fiction, Action/Adventure, World Cinema, Black-and-White, Indie, Family Film, Horror, Musical, Romantic Comedy, Mystery).
 
+The findings suggest a complex relationship between zodiac traits and genre preferences, with some genres showing a strong alignment with specific zodiac patterns while others remain unaffected.
+
+## Conclusion
+
+While the results are compelling, they invite both curiosity and caution. The data reveals significant zodiac-genre dependencies in many cases, but the reasons behind these patterns remain open to interpretation. Could cultural stereotypes, casting tendencies, or even intrinsic zodiac traits play a role? The cinematic zodiac story is one of intrigue, leaving room for both statistical and creative exploration.
 
 
 # 8. Dancing Through Genres - The Art of Versatility
