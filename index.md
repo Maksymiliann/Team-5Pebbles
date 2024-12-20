@@ -24,6 +24,8 @@ In the scope of film and celebrity culture, astrology has carved out its own pos
 
 # 2. Dataset
 Our dataset is an extensive collection comprising the CMU Movies Summary Corpus, an Oscar dataset, and an additional dataset created with ChatGPT about PLEASE WRITE HERE. The features from the CMU Movies Summary Corpus are segregated into two important parts: the movie metadata and the character metadata. The movie metadata encompasses a total of 81,741 different movies from 1892 to 2013 across more than 50 different genres. It also provides data such as the movie's name, release date, box office revenue, runtime, language, and genres. For each of these films, characters from the character metadata appearing in the film are listed. After processing the data, a total of 242,096 individual actors were documented with features including their real name, character's name, age at the movie's release, gender, ethnicity, height, and date of birth. Additionally, a plot summary is sometimes included to complete the data.
+The Oscar dataset features ...
+And the last one ...
 
 
 ## don't know what it is
