@@ -50,7 +50,8 @@ Curiously, while online stereotypes highlight Leo and Pisces as "ideal actor sig
 
 As we move forward, we’ll explore whether these zodiac differences translate to specific genre preferences or casting decisions. For now, it’s clear that the stars don’t just light up the night sky—they may also shine a subtle light on the silver screen.
 
-**"Will the gender of the actor affect this distribution?**
+**"Will the gender of the actor affect this distribution?**  
+
 The graph below shows the zodiac sign distribution of actors by gender. In this dataset, the number of male actors is higher than the number of female actors. Among male actors, Cancer is the most common zodiac sign, while Capricorn is the least common. Among female actors, Leo is the most common zodiac sign, and Sagittarius is the least common. The zodiac signs Virgo, Pisces, and Cancer are relatively common across both genders, while Sagittarius and Aries are less common. However, despite slight differences in the distributions, the results of the Chi-Squared Test (p-value > 0.1) indicate that there is no significant difference between the zodiac sign distributions of male and female actors.
 ![Gender Analysis](/assets/img/GenderAnalysis.png)
 
