@@ -101,8 +101,7 @@ At a 95% confidence level, these results are illuminating. With a p-value below 
 
 While this analysis does not imply causation—astrological signs may not directly influence an actor’s success—it opens the door to fascinating discussions about underlying factors, whether cultural, psychological, or simply coincidental, that could align with zodiac sign traits. The stars, it seems, may have more sway over Hollywood than we once thought.
 
-# 5. Career Longevity
-3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?  
+# 5. Are there any differences in the careers of actors with different zodiac signs
 
 The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
 
@@ -350,21 +349,13 @@ What does this celestial map mean for the film industry? While we're not suggest
 
 Our analysis continues as part of a larger exploration of zodiac influences in cinema, but this chapter reveals that perhaps, in some small way, the stars of our birth might indeed influence our path to the stars of Hollywood.
 
-# 10. Oscar Analysis
-8.⁠ ⁠(8) *Oscar Analysis*: Are actors of different zodiac signs equally likely to win an Oscar? Which zodiac sign has the highest probability of winning an Oscar?
+# 10. Are actors of different zodiac signs equally likely to win an Oscar?
 
-The Academy Awards, commonly known as the Oscars, are annual awards presented by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding achievements in the film industry. First held in 1929, the Oscars have become one of the most prestigious and widely recognized accolades in cinema. In this analysis, we gathered the data of the winner of best actor and best actress from 1929-2023 and analyzed the awarding rate of different zodaic signs.  
-
-Methology:  
-1. Calculate the zodiac distribution of Oscar winners
-2. Calculate the awarding rate of different zodiac signs
-3. Use z-score and Chi-square Test to test if the differences of awarding rate among different zodiac signs are significant
+The Academy Awards, commonly known as the Oscars, are annual awards presented by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding achievements in the film industry. First held in 1929, the Oscars have become one of the most prestigious and widely recognized accolades in cinema. In this analysis, we gathered the data of the winner of best actor and best actress from 1929-2023 and calculated the awarding rate of different zodaic signs. Then we use z-score and Chi-square Test to test if the differences of awarding rate among different zodiac signs are significant.
 
 ![insert oscar picture](/assets/img/OscarAwardingRate.png)  
 
-Capricorn, Aries, and Taurus are the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three zodiac signs with the lowest winning rates.  
-
-We applied a z-score test to assess the statistical significance of these differences. Among the 12 zodiac signs, actors born under Capricorn have a significantly higher awarding rate than the average (z-score = 2.985, p-value < 0.05), while those born under Aquarius have a significantly lower awarding rate than the average (z-score = -2.949, p-value < 0.01). For other zodiac signs, the differences in awarding rates compared to the average are not statistically significant. Additionally, we conducted a Chi-Square test to examine whether awarding rates are significantly correlated with zodiac signs. The results (chi-square statistic = 14.177, p-value=0.223) indicates that although the awarding rates of some zodiac sign are significant different from the avarage, Overall, there is no significant correlation between zodiac signs and awarding rates.
+As shown in the graph above, Capricorn, Aries, and Taurus rank as the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three with the lowest winning rates. Furthermore, our statistical analysis reveals that actors born under Capricorn have a significantly higher awarding rate than the average (z-score = 2.985, p-value < 0.05), whereas those born under Aquarius exhibit a significantly lower awarding rate than the average (z-score = -2.949, p-value < 0.01). For the remaining zodiac signs, the differences in awarding rates compared to the average are not statistically significant. Additionally, we performed a Chi-Square test to assess whether awarding rates are significantly associated with zodiac signs. The results (chi-square statistic = 14.177, p-value = 0.223) indicate that, while some individual zodiac signs show significant deviations from the average awarding rate, there is no overall significant correlation between zodiac signs and awarding rates.
 
 **result of z-score**
 
@@ -372,6 +363,7 @@ We applied a z-score test to assess the statistical significance of these differ
 |-------------|---------------|---------|---------|--------------|   
 | Capricorn   | 6.43‰         | 2.985   | 0.003   | True         |    
 | Aquarius    | 0.76‰         | -2.949  | 0.003   | True         |  
+ 
 
 # 11. Conclusion
 
