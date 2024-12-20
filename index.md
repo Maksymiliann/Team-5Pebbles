@@ -30,11 +30,6 @@ The second data is the Oscar data from Data World, which includes the birthdates
 
 Finally, our last dataset is an AI-generated dataset used to complete the CMU Movies Summary Corpus by adding the feature from the leading role for every character, allowing us to have a better understanding of the role played by the actors
 
-### don't know what it is
-5pebbles Project Analysis
-Summary
-
-The analysis highlights interesting patterns in zodiac representation and genre preferences among actors. Cancer and Pisces are notably overrepresented, while Sagittarius and Capricorn are underrepresented. In terms of genre, Sagittarius prefers Thrillers, Aquarius gravitates toward Action/Adventure, and Scorpio leans toward Animation and Family Films. However, the modest effect sizes suggest these patterns are indicative rather than definitive.
 
 ## 3. Research Questions
 ### 3.1 Are actors uniformly distributed across zodiac signs
