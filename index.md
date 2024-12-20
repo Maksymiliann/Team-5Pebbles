@@ -314,6 +314,7 @@ To capture this artistic versatility in numerical terms, we crafted the Genre Di
    - Like assessing if an artist favors certain colors too heavily
 
 ![Insert Box Plot: GDI Distribution Across Zodiac Signs](/assets/img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign.png)
+
 *Our box plot reveals the distribution of Genre Diversity Index across zodiac signs, showing median values and outliers.*
 
 ### What the Numbers Tell Us
@@ -335,6 +336,7 @@ These numbers tell a story of subtle cosmic influence. Consider how Sagittarius,
 The clustering of scores within such a tight range (0.722-0.733) tells us something remarkable about professional acting - regardless of zodiac sign, successful actors tend to develop significant versatility. It's as if the demands of the craft itself shape performers more than their astrological predispositions.
 
 ![Insert Violin Plot: GDI Distribution Density](/assets/img/Genre_Diversity_Index_Distribution_by_Zodiac_Sign_Violin_Plot.png)
+
 *The violin plot shows the full distribution shape of GDI scores across zodiac signs.*
 
 ### Statistical Insights
@@ -347,6 +349,7 @@ Our statistical analysis using the Kruskal-Wallis test revealed:
 These results suggest that while we observe small differences in genre diversity across zodiac signs, these differences aren't statistically significant. In other words, while the stars might whisper suggestions about an actor's path, they don't shout commands. The small differences we observe are like subtle brushstrokes in a larger masterpiece - interesting to note but not defining the overall picture.
 
 ![Insert Bar Chart](/assets/img/Mean_Genre_Diversity_Index_by_Zodiac_Sign.png)
+
 *The bar chart displays mean GDI values with standard deviation for each zodiac sign.*
 
 ### Key Findings
