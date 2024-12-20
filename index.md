@@ -242,7 +242,6 @@ Like their elemental nature, Fire signs dominate the spotlight. Aries leads the 
 > **🌟 Spotlight on Aries**
 > - Lead Role Rate: 33.34%
 > - Notable Genre: 35.46% more likely to lead romantic films
-> - Sample Size: Over 1,400 romantic leads!
 
 ## When Stars Align with Genre
 ![Insert Zodiac-Genre Interaction Heatmap](/assets/img/Zodiac-Genre_Interaction_Effect_on_Lead_Roles.png)
