@@ -7,18 +7,21 @@ share-img: /assets/img/Finally_a_good_dimension_image.png
 ---
 
 
-# Introduction
+# 1. Introduction
 Astrology has fascinated humanity for centuries, weaving stories of destiny, personality, and cosmic influence. Its heart lies in the zodiac, twelve signs, each tied to celestial alignments and thought to shape our traits and behaviors. From Aries to Pisces, these signs are often seen as a way to better understand ourselves and the world around us. But astrology isn't just an ancient curiosity, it’s alive and thriving, sparking interest in everything from relationships to careers.
 
 In the scope of film and celebrity culture, astrology has carved out its own position. Fans eagerly connect their favorite actors to zodiac traits, wondering if a Leo’s natural flair contributes to their screen presence or if a Scorpio’s intensity brings depth to their characters. Even filmmakers have drawn inspiration from astrology, creating characters whose personalities align with the stars. Could the cosmos play a role in what makes a star shine on and off the screen? Whether you’re a skeptic or a believer, the intersection of astrology and creativity is hard to ignore.
 
-# 5pebbles Project Analysis
+# 2. Dataset
 
-# Summary
+
+## don't know what it is
+5pebbles Project Analysis
+Summary
 
 The analysis highlights interesting patterns in zodiac representation and genre preferences among actors. Cancer and Pisces are notably overrepresented, while Sagittarius and Capricorn are underrepresented. In terms of genre, Sagittarius prefers Thrillers, Aquarius gravitates toward Action/Adventure, and Scorpio leans toward Animation and Family Films. However, the modest effect sizes suggest these patterns are indicative rather than definitive.
 
-## 1. Zodiac Sign Distribution Among Actors  
+# 3. Zodiac Sign Distribution Among Actors  
 
 ### Key Statistics
 - **Initial Dataset Size**: 450,668 records  
@@ -63,7 +66,66 @@ Interestingly, an online search for “zodiac signs best suited to acting” fre
 
 Further research is needed to explore potential cultural or psychological factors contributing to these trends.  
 
-## 2. Genre Preferences by Zodiac Sign  
+# 4. Movie Count
+
+> code at: https://github.com/epfl-ada/ada-2024-project-5pebbles/blob/Zhichen/results.ipynb
+
+
+Research question: Do actors with different zodiac signs have a a significant difference in the number of movies they participate.
+
+
+
+Methodology: 
+1. Group the actors by their zodiac signs.
+2. Conduct an ANOVA analysis to determine whether the distribution of movie counts varies significantly across different zodiac signs.
+
+
+Here's the distribution of movie counts across actors with different zodiac signs:
+![zodiac-#movie](/assets/img/role_number-zodiac.png)
+
+
+We use ANOVA Analysis to check if actors with different zodiac signs have a significant difference in the number of movies they participate. Here are the procedures of the ANOVA analysis:
+
+1. **Define the variables**: Let $$\mu_i$$ represent the mean number of movies for actors with the $$i$$-th zodiac sign, where $$i = 1, 2, \dots, 12$$.
+
+2. **Null Hypothesis (\(H_0\)):**  
+   The mean number of movies for actors with different zodiac signs is the same.  
+   
+   $$H_0: \mu_1 = \mu_2 = \mu_3 = \cdots = \mu_{12}$$
+   
+
+3. **Alternative Hypothesis (\(H_A\)):**  
+   At least one zodiac sign has a significantly different mean number of movies.  
+   $$H_A: \text{At least one } \mu_i \text{ is different.}$$
+
+4. **Hypothesis Testing**:
+    
+    The statistic of ANOVA analysis is as follows (rounded to 3 digits):
+
+    ```bash
+    F-statistic: 1.800
+    P-value: 0.048
+    ```
+    With confidence level $\alpha=0.05$, we can reject the null hypothesis, indicating actors with different zodiac signs DO have a a significant difference in the number of movies they participate.
+
+# 5. Career Longevity
+3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?  
+
+The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
+
+![insert image of actor's career](/assets/img/Career_Longivity.png)
+
+Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the difference is significant.
+
+|                  | F-Statistic | P-Value |
+|------------------|-------------|---------|
+| Entry AGE        | 0.634       | 0.800   |
+| Retire Age       | 0.366       | 0.969   |
+| Career Longevity | 0.815       | 0.625   |
+
+
+
+# 6. Genre Preferences by Zodiac Sign  
 
 ### Key Statistics
 There are 81,740 films in the film dataset. The top 11 genres with the highest percentages are:  
@@ -121,69 +183,12 @@ While zodiac signs display distinct genre preferences, the effect sizes remain m
 ## Distribution Analysis
 1.⁠ ⁠(1) *Distribution Analysis*: After group the actors into different zodiac signs, we will calculate the distribution. Then we will utilise chi-square to determine if the differences between the zodiac signs are significant or not.
 
-## Movie Count
 
-> code at: https://github.com/epfl-ada/ada-2024-project-5pebbles/blob/Zhichen/results.ipynb
-
-
-Research question: Do actors with different zodiac signs have a a significant difference in the number of movies they participate.
-
-
-
-Methodology: 
-1. Group the actors by their zodiac signs.
-2. Conduct an ANOVA analysis to determine whether the distribution of movie counts varies significantly across different zodiac signs.
-
-
-Here's the distribution of movie counts across actors with different zodiac signs:
-![zodiac-#movie](/assets/img/role_number-zodiac.png)
-
-
-We use ANOVA Analysis to check if actors with different zodiac signs have a significant difference in the number of movies they participate. Here are the procedures of the ANOVA analysis:
-
-1. **Define the variables**: Let $$\mu_i$$ represent the mean number of movies for actors with the $$i$$-th zodiac sign, where $$i = 1, 2, \dots, 12$$.
-
-2. **Null Hypothesis (\(H_0\)):**  
-   The mean number of movies for actors with different zodiac signs is the same.  
-   
-   $$H_0: \mu_1 = \mu_2 = \mu_3 = \cdots = \mu_{12}$$
-   
-
-3. **Alternative Hypothesis (\(H_A\)):**  
-   At least one zodiac sign has a significantly different mean number of movies.  
-   $$H_A: \text{At least one } \mu_i \text{ is different.}$$
-
-4. **Hypothesis Testing**:
-    
-    The statistic of ANOVA analysis is as follows (rounded to 3 digits):
-
-    ```bash
-    F-statistic: 1.800
-    P-value: 0.048
-    ```
-    With confidence level $\alpha=0.05$, we can reject the null hypothesis, indicating actors with different zodiac signs DO have a a significant difference in the number of movies they participate.
-
-
-
-## Career Logevity
-3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?  
-
-The careers of different actors vary greatly. Some have very long careers, while others are much shorter. Some start acting in films at a very young age, while others continue acting well into old age. We aim to analyze the length of actors' careers, as well as whether their entry age and retirement age are related to their zodiac signs. The results are showned in the following picture.  
-
-![insert image of actor's career](/assets/img/Career_Longivity.png)
-
-Actors of all zodiac signs generally have their first film role around the age of 30 and their last film role around the age of 40, with an average career span of about 10 years. Although there are slight differences between different zodiac signs, the results of ANOVA analysis show that none of the difference is significant.
-
-|                  | F-Statistic | P-Value |
-|------------------|-------------|---------|
-| Entry AGE        | 0.634       | 0.800   |
-| Retire Age       | 0.366       | 0.969   |
-| Career Longevity | 0.815       | 0.625   |
 
 ## Genre Analysis
 4.⁠ ⁠(2) *Genre Analysis* Preferences for movie genres among actors of different zodiac signs: ① Calculate the distribution of different genre ② Calculate the genre distribution of each sign ③ Divide the two proportion ④ use statstical method to test if the trends are significant.
 
-## Casting Preferences
+# 7. Casting Preferences
 5.⁠ ⁠(3) *Casting preferences* :① Calculate the distribution of different genre ② Calculate the genre distribution of each sign③ Divide the two proportion ④ use statstical method to test if the trends are significant. (Ren Yi, need normalization, could refer to maskymiliann)
 
 Research Question: Is the zodiac distribution of a certain movie genre significantly different from the overall zodiac distribution?
@@ -282,7 +287,8 @@ In these 20 genres
 - 15 genres (Drama, Comedy, Romance Film, Thriller, Action, Crime Fiction, Action/Adventure, World cinema, Black-and-white, Indie, Family Film, Horror, Musical, Romantic comedy, Mystery) illustrate **dependency** with zodiac signs.
 
 
-## Dancing Through Genres - The Art of Versatility
+
+# 8. Dancing Through Genres - The Art of Versatility
 6.⁠ ⁠(7) *Type Diversity Index*: Which zodiac signs demonstrate greater versatility in genre-switching, and how successful are they in different genres throughout their careers?
 
 ### The Question of Versatility
@@ -365,7 +371,7 @@ Our Genre Diversity Index analysis reveals that while subtle patterns exist in h
 
 This analysis provides a quantitative foundation for understanding how actors navigate different genres throughout their careers, while maintaining scientific rigor in our examination of potential zodiac influences.
 
-## The Stars Align: A Deep Dive into Zodiac Signs and Lead Roles in Cinema
+# 9. The Stars Align: A Deep Dive into Zodiac Signs and Lead Roles in Cinema
 7.⁠ ⁠(5) *Power Role Analysis*: ① Map each actor’s zodiac sign to their respective role ② Use statistical methods (e.g., chi-square tests, logistic regression) to determine if there is a significant association between zodiac signs and the likelihood of being cast in specific roles. Analyze trends and compare how often actors of certain signs are cast as heroes versus villains or sidekicks.
 
 
@@ -415,7 +421,7 @@ What does this celestial map mean for the film industry? While we're not suggest
 
 Our analysis continues as part of a larger exploration of zodiac influences in cinema, but this chapter reveals that perhaps, in some small way, the stars of our birth might indeed influence our path to the stars of Hollywood.
 
-## Oscar Analysis
+# 10. Oscar Analysis
 8.⁠ ⁠(8) *Oscar Analysis*: Are actors of different zodiac signs equally likely to win an Oscar? Which zodiac sign has the highest probability of winning an Oscar?
 
 The Academy Awards, commonly known as the Oscars, are annual awards presented by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding achievements in the film industry. First held in 1929, the Oscars have become one of the most prestigious and widely recognized accolades in cinema. In this analysis, we gathered the data of the winner of best actor and best actress from 1929-2023 and analyzed the awarding rate of different zodaic signs.  
@@ -438,7 +444,7 @@ We applied a z-score test to assess the statistical significance of these differ
 | Capricorn   | 6.43‰         | 2.985   | 0.003   | True         |    
 | Aquarius    | 0.76‰         | -2.949  | 0.003   | True         |  
 
-
+# 11. Conclusion
 
 ## Miscellaneous
 
