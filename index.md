@@ -31,8 +31,14 @@ Summary
 
 The analysis highlights interesting patterns in zodiac representation and genre preferences among actors. Cancer and Pisces are notably overrepresented, while Sagittarius and Capricorn are underrepresented. In terms of genre, Sagittarius prefers Thrillers, Aquarius gravitates toward Action/Adventure, and Scorpio leans toward Animation and Family Films. However, the modest effect sizes suggest these patterns are indicative rather than definitive.
 
-# 3. Zodiac Sign Distribution Among Actors  
+# 3. Dancing with the data -- Data Analysis
+
 <!-- Is the distribution of actors across zodiac signs uniform, or are certain signs more represented than others? Which zodiac sign has the highest representation among actors? What is the distribution of some domographic factors like gender? Our project calculates the distribution and uses the Chi-Square test and Z-Score to determine whether the differences are statistically significant. -->
+
+An intuitive question would be: **Are actors uniformly distributed across zodiac signs?**
+
+Here is the the zodiac sign distribution of actors in our CMU dataset.
+
 ![zodiac distribution](/assets/img/DistributionZodiacSigns.png)
 Among all zodiac signs, Cancer takes the crown with 8.71% of actors, significantly higher than expected.
 
