@@ -109,7 +109,7 @@ Actors of all zodiac signs generally have their first film role around the age o
 
 
 
-## 3.4 A Journey Through Cinema's Genre Galaxy: Genre Preferences by Zodiac Sign  
+## 3.4 Do Genre Distributions Differ Across Zodiac Signs?
 
 After exploring how zodiac signs might influence actors' careers in Section 3.3, a new question arises: could the stars also play a role in the types of movies actors are drawn to—or perhaps excel in? To answer this, we turn our gaze toward the genres of over 81,740 films, analyzing how celestial patterns align with Hollywood's diverse storytelling landscape.  
 
