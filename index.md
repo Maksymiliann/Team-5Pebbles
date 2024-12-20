@@ -173,7 +173,7 @@ Let’s explore this in the next section.
 
 
 
-## 3.5  Do Zodiac Signs Shape Their Starring Roles in Movie Genres?
+## 3.5  Do Zodiac Sign Distributions Differ Across Movie Genres?
 
 Are certain zodiac signs more likely to shine in specific movie genres? By delving into the intersection of astrology and cinema, we sought to uncover **whether the distribution of zodiac signs within a given genre deviates significantly from the overall zodiac distribution across all films**.
 
