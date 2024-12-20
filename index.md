@@ -24,7 +24,10 @@ In the scope of film and celebrity culture, astrology has carved out its own pos
 
 ## 2. Dataset
 Our dataset is an extensive collection comprising the CMU Movies Summary Corpus, an Oscar dataset, and an additional dataset generated with ChatGPT and Claude about the leading role in movies. The features from the CMU Movies Summary Corpus are segregated into two important parts: the movie metadata and the character metadata. The movie metadata encompasses a total of 81,741 different movies across more than 100 different genres. It also provides data such as the movie's name, release date, box office revenue, runtime, language, and genres. For each of these films, characters from the character metadata appearing in the film are listed. After processing the data, a total of 242,096 individual actors were documented with features including their real name, character's name, age at the movie's release, gender, ethnicity, height, and date of birth. Additionally, a plot summary is sometimes included to complete the data.
+
 The second data is the Oscar data from Data World, which includes the birthdates of all the winners of the Best Actor and Best Actress awards from 1928 to 2023.
+
+
 Finally, our last dataset is an AI-generated dataset used to complete the CMU Movies Summary Corpus by adding the feature from the leading role for every character, allowing us to have a better understanding of the role played by the actors
 
 ### don't know what it is
@@ -271,16 +274,18 @@ In this analysis, we gathered the data of the winner of best actor and best actr
 
 ![insert oscar picture](/assets/img/OscarAwardingRate.png)  
 
-As shown in the graph above, Capricorn, Aries, and Taurus rank as the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three with the lowest winning rates. Furthermore, our statistical analysis reveals that actors born under Capricorn have a significantly higher awarding rate than the average (z-score = 2.985, p-value < 0.05), whereas those born under Aquarius exhibit a significantly lower awarding rate than the average (z-score = -2.949, p-value < 0.01). For the remaining zodiac signs, the differences in awarding rates compared to the average are not statistically significant. 
+> **🌟 Spotlight on Capricorn**
+> - Oscar Awarding Rate: The highest awarding rate (6.42‰)
+> - Z-score results: Z-score = 2.985, p-value < 0.05
+
+
+> **✨ Did You Know?**
+> While Capricorn has the lowest overall lead role ratio, they actually have the highest Oscar-winning rate.
+
+As shown in the graph above, Capricorn, Aries, and Taurus rank as the top three zodiac signs with the highest winning rates, while Aquarius, Gemini, and Sagittarius are the three with the lowest winning rates. Furthermore, our statistical analysis reveals that actors born under Capricorn (6.43‰) have a significantly higher awarding rate than the average (z-score = 2.985, p-value < 0.05), whereas those born under Aquarius exhibit a significantly lower awarding rate (0.76‰ ) than the average (z-score = -2.949, p-value < 0.05). For the remaining zodiac signs, the differences in awarding rates compared to the average are not statistically significant. 
 
 Additionally, we performed a Chi-Square test to assess whether awarding rates are significantly associated with zodiac signs. The results (chi-square statistic = 14.177, p-value = 0.223) indicate that, while some individual zodiac signs show significant deviations from the average awarding rate, there is no overall significant correlation between zodiac signs and awarding rates.
 
-**result of z-score**
-
-| Zodiac Sign | Awarding Rate | Z-Score | P-Value | Significant? |  
-|-------------|---------------|---------|---------|--------------|   
-| Capricorn   | 6.43‰         | 2.985   | 0.003   | True         |    
-| Aquarius    | 0.76‰         | -2.949  | 0.003   | True         |  
  
 
 ## 4. Conclusion
