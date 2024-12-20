@@ -200,49 +200,63 @@ Chi-squared test procedures, take the Action films as the example
 2. Define the alternative hypothesis (H1): There is a significant difference between the two distributions.
 
 3. Create a contingency table that includes the observed counts of zodiac signs for the overall distribution and the selected movie genre.
+|    | Aquarius | Aries  | Cancer | Capricorn | Gemini | Leo   |
+|----|----------|--------|--------|-----------|--------|-------|
+| **Total** | 80,131   | 81,596 | 82,128 | 74,011    | 85,994 | 84,755 |
+| **Action** | 3,411    | 3,270  | 3,479  | 3,002     | 3,610  | 3,549  |
 
-      |    | Aquarius | Aries  | Cancer | Capricorn | Gemini | Leo   | Libra | Pisces | Sagittarius | Scorpio | Taurus | Virgo  |
-      |---------------|----------|--------|--------|-----------|--------|-------|-------|--------|-------------|---------|--------|--------|
-      | **Total**     | 80,131   | 81,596 | 82,128 | 74,011    | 85,994 | 84,755 | 83,247 | 79,976 | 76,220      | 78,519  | 77,232 | 81,731 |
-      | **Action**    | 3,411    | 3,270  | 3,479  | 3,002     | 3,610  | 3,549  | 3,389  | 3,189  | 3,183       | 3,067   | 2,950  | 3,544  |
+|    | Libra | Pisces | Sagittarius | Scorpio | Taurus | Virgo  |
+|----|-------|--------|-------------|---------|--------|--------|
+| **Total** | 83,247 | 79,976 | 76,220      | 78,519  | 77,232 | 81,731 |
+| **Action** | 3,389  | 3,189  | 3,183       | 3,067   | 2,950  | 3,544  |
 
-
-1. Calculate the expected counts for each zodiac sign under the null hypothesis. These can be calculated as: $\text{Expected Count} = \frac{\text{Total count in category} \times \text{Total count in group}}{\text{Grand Total}}$
-
-
-   | Zodiac Sign   | Aquarius  | Aries    | Cancer   | Capricorn | Gemini   | Leo      | Libra    | Pisces   | Sagittarius | Scorpio   | Taurus   | Virgo    |
-   |---------------|-----------|----------|----------|-----------|----------|----------|----------|----------|-------------|-----------|----------|----------|
-   | **Total**     | 80,247.22 | 81,519.0 | 82,230.78| 73,975.72 | 86,070.14| 84,821.41| 83,219.20| 79,885.09| 76,271.46   | 78,368.36 | 77,019.73| 81,911.87|
-   | **Action**    | 3,294.78  | 3,347.0  | 3,376.22 | 3,037.28  | 3,533.86 | 3,482.59 | 3,416.80 | 3,279.91 | 3,131.54    | 3,217.64  | 3,162.27 | 3,363.13 |
+4. Calculate the expected counts for each zodiac sign under the null hypothesis. These can be calculated as: $\text{Expected Count} = \frac{\text{Total count in category} \times \text{Total count in group}}{\text{Grand Total}}$
 
 
+| Zodiac Sign   | Aquarius  | Aries    | Cancer   | Capricorn | Gemini   | Leo      |
+|---------------|-----------|----------|----------|-----------|----------|----------|
+| **Total**     | 80,247.22 | 81,519.0 | 82,230.78| 73,975.72 | 86,070.14| 84,821.41|
+| **Action**    | 3,294.78  | 3,347.0  | 3,376.22 | 3,037.28  | 3,533.86 | 3,482.59 |
 
-1. Compute the chi-squared statistic using the formula:
+| Zodiac Sign   | Libra    | Pisces   | Sagittarius | Scorpio   | Taurus   | Virgo    |
+|---------------|----------|----------|-------------|-----------|----------|----------|
+| **Total**     | 83,219.20| 79,885.09| 76,271.46   | 78,368.36 | 77,019.73| 81,911.87|
+| **Action**    | 3,416.80 | 3,279.91 | 3,131.54    | 3,217.64  | 3,162.27 | 3,363.13 |
+
+
+
+5. Compute the chi-squared statistic using the formula:
    $\chi_{i,j}^2 = \frac{(O_{i,j} - E_{i,j})^2}{E_{i,j}}, \chi^2 = \sum_i \sum_j \chi_{i,j}^2$
    Where $O$ represents the observed counts, and $E$ represents the expected counts, $i$ represents the distribution (overall distribution or the selected genre distribution), $j$ represents the zodiac sign.
 
-   | Zodiac Sign   | Aquarius | Aries | Cancer | Capricorn | Gemini | Leo   | Libra | Pisces | Sagittarius | Scorpio | Taurus | Virgo  |
-   |---------------|----------|-------|--------|-----------|--------|-------|-------|--------|-------------|---------|--------|--------|
-   | **Total**     | 0.17     | 0.07  | 0.13   | 0.02      | 0.07   | 0.05  | 0.01  | 0.10   | 0.03        | 0.29    | 0.58   | 0.40   |
-   | **Action**    | 4.10     | 1.77  | 3.13   | 0.41      | 1.64   | 1.27  | 0.23  | 2.52   | 0.85        | 7.05    | 14.25  | 9.73   |
+| Zodiac Sign   | Aquarius | Aries | Cancer | Capricorn | Gemini | Leo   |
+|---------------|----------|-------|--------|-----------|--------|-------|
+| **Total**     | 0.17     | 0.07  | 0.13   | 0.02      | 0.07   | 0.05  |
+| **Action**    | 4.10     | 1.77  | 3.13   | 0.41      | 1.64   | 1.27  |
+
+| Zodiac Sign   | Libra | Pisces | Sagittarius | Scorpio | Taurus | Virgo  |
+|---------------|-------|--------|-------------|---------|--------|--------|
+| **Total**     | 0.01  | 0.10   | 0.03        | 0.29    | 0.58   | 0.40   |
+| **Action**    | 0.23  | 2.52   | 0.85        | 7.05    | 14.25  | 9.73   |
+
 
    $\chi^2_{action}=48.84$
 
-2. Determine the degrees of freedom (df), which is given by:
+6. Determine the degrees of freedom (df), which is given by:
    $\text{df} = (\text{Number of rows} - 1) \times (\text{Number of columns} - 1) = 11$
 
 
-3. Compare the chi-squared statistic to the critical value from the chi-squared distribution table at a chosen significance level (e.g., $\alpha = 0.05$) or compute the p-value.
+7. Compare the chi-squared statistic to the critical value from the chi-squared distribution table at a chosen significance level (e.g., $\alpha = 0.05$) or compute the p-value.
    
    According to the [Chi-Square Distribution Table](https://math.arizona.edu/~jwatkins/chi-square-table.pdf), $\chi^2_{0.050}=19.675$ when the degree of freedom is 11.
 
-4. Interpret the results:
+8. Interpret the results:
    - If the chi-squared statistic exceeds the critical value or the p-value is less than the significance level, reject the null hypothesis.
      - In the Action films, $\chi^2_{action}=48.84 > \chi^2_{0.050}=19.675$.
      - Therefore, at the 95% confidence level, we reject the null hypothesis.
    - Otherwise, fail to reject the null hypothesis.
 
-5. Identify which zodiac signs contribute most to the observed differences by examining the chi-squared statistic for each genre-zodiac cell, as is shown in step 5.
+9. Identify which zodiac signs contribute most to the observed differences by examining the chi-squared statistic for each genre-zodiac cell, as is shown in step 5.
 
    Larger results indicate greater contributions to the chi-squared statistic.
 
