@@ -22,7 +22,7 @@ author: Team 5Pebbles
 navbar-links:
   Resources:
     - CMU Movie Summary Corpus: "https://www.cs.cmu.edu/~ark/personas/"
-    - Our Oscar Dataset: "https://data.world/crowdflower/academy-awards-demographics/workspace/file?filename=Oscars-demographics-DFE.csv"
+    - Our Oscar Dataset: "https://data.world/mlongoria/oscarwinsbyceremony/workspace/file?filename=OscarAwardsDemographicsEnriched.xlsx"
 
 ################
 # --- Logo --- #
