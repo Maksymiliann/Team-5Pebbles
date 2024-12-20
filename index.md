@@ -129,18 +129,7 @@ Imagine a party with snacks: if most people eat 40% chocolate and you eat 80%, i
 ![Gender Analysis](/assets/img/genre_movie.png)  
 
 <!-- #### :sagittarius: The Thrill Seekers -->
-Sagittarius shines in Thrillers, favoring suspenseful storytelling with a +12.5% preference. Their adventurous, daring nature makes them natural fits for edge-of-your-seat tales.  
-
- <!-- #### ♒ Aquarius: Action Heroes -->
-Aquarians dominate Action/Adventure films, with a staggering +74% preference index. Their rebellious and innovative streak fits perfectly in high-energy, adrenaline-packed stories.  
-
-<!-- #### ♏ Scorpio: The Genre Chameleon -->
-Scorpios’ versatility shows in Animation (+17.5%) and Family Films (+16.7%), where their emotional depth brings characters to life.  
-<br>
-
-<!-- ### The Elements at Play -->
-
-The patterns became even clearer when we grouped signs by their elements:  
+We can see that Sagittarius shines in Thrillers, that Aquarius dominate Action/Adventure films, or even that Scorpios’ versatility shows in Animation and Family Films. But the patterns become even clearer when we grouped signs by their elements:  
 
 🔥 **Fire Signs** (Aries, Leo, Sagittarius) excel in high-energy genres like Action (+15%) and Thrillers (+12%), thriving on passion and intensity.  
 
@@ -154,9 +143,9 @@ The patterns became even clearer when we grouped signs by their elements:
 
 Backed by solid statistics, these patterns reveal how zodiac traits align with cinematic storytelling:  
 
-- **Sagittarius** thrives in **Thrillers** (+12.5%, Z=2.369).  
-- **Aquarius** dominates **Action/Adventure** (+74%, Z=1.972).  
-- **Taurus** excels in **Drama** (+22.4%, Z=2.242).  
+- **Sagittarius** thrives in **Thrillers**, favoring suspenseful storytelling with a +12.5% preference. Their adventurous, daring nature makes them natural fits for edge-of-your-seat tales (+12.5%, Z=2.369).  
+- **Aquarius** dominates **Action/Adventure** films, with a staggering +74% preference index. Their rebellious and innovative streak fits perfectly in high-energy, adrenaline-packed stories. (+74%, Z=1.972).  
+- **Taurus** excels in **Drama**, with a notable +22.4% preference index. Their grounded, emotional depth makes them drawn to powerful, character-driven stories (+22.4%, Z=2.242).
 
 Each sign brings unique strengths to the silver screen:  
 **Fire signs** energize action, **Air signs** innovate, **Water signs** channel emotion, and **Earth signs** anchor realism. While not absolute, these patterns offer a fresh lens on the cosmic influence in art.  
