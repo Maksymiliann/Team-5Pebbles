@@ -212,7 +212,7 @@ While the results are compelling, they invite both curiosity and caution. The da
 
 In the grand theater of cinema, some actors are like chameleons, effortlessly shifting between comedic and dramatic roles, while others perfect their craft within a specific genre. But does the cosmic alignment at one's birth influence this artistic flexibility? Our Genre Diversity Index (GDI) study set out to explore this intriguing question.
 
-### The Celestial Dance of Versatility
+<!-- ### The Celestial Dance of Versatility -->
 
 Imagine measuring an actor's versatility like evaluating a master chef's repertoire - it's not just about how many dishes they can cook, but how well they balance their menu and execute each cuisine. Our GDI combines three essential elements in a carefully weighted formula:
 
@@ -225,7 +225,7 @@ Where:
 
 After analyzing over 12,000 actors' careers, we discovered a fascinating pattern. Sagittarius, the adventurous explorer of the zodiac, leads with the highest versatility score (0.733), closely followed by the adaptable Gemini (0.733) and the balanced Libra (0.732). This cosmic alignment seems to mirror these signs' traditional characteristics - Sagittarius's love for exploration, Gemini's natural duality, and Libra's inherent balance.
 
-### Beyond the Stars
+<!-- ### Beyond the Stars -->
 
 However, the most revealing insight wasn't in the differences between signs, but in their similarities. All zodiac signs maintained remarkably high versatility scores (above 0.72), with minimal variation between them. This suggests that successful actors, regardless of their zodiac sign, tend to develop significant versatility throughout their careers.
 
@@ -237,7 +237,7 @@ Perhaps the most compelling conclusion is that versatility in acting transcends 
 
 In the dazzling constellation of Hollywood, we discovered an intriguing pattern: the stars under which actors were born might just influence their journey to center stage. Our analysis revealed some fascinating cosmic connections that would make even skeptics raise an eyebrow.
 
-## Fire Signs Burn Brightest
+<!-- ## Fire Signs Burn Brightest -->
 
 ![Insert Lead Role Ratio Bar Chart visualization](/assets/img/Lead_Role_Ratio_by_Zodiac_Sign.png)
 *Lead Role Ratio Across the Zodiac*
@@ -248,7 +248,7 @@ Like their elemental nature, Fire signs dominate the spotlight. Aries leads the 
 > - Lead Role Rate: 33.34%
 > - Notable Genre: 35.46% more likely to lead romantic films
 
-## When Stars Align with Genre
+<!-- ## When Stars Align with Genre -->
 ![Insert Zodiac-Genre Interaction Heatmap](/assets/img/Zodiac-Genre_Interaction_Effect_on_Lead_Roles.png)
 *Heat Map of Zodiac-Genre Interaction Effects in Lead Roles*
 
@@ -260,7 +260,7 @@ The plot thickens when we look at specific genres. Our analysis uncovered some r
 
 - 🎬 **Documentary Stars**: In an unexpected twist, Sagittarius shows a remarkable 70.49% higher likelihood of leading documentaries (though we should note the smaller sample size here).
 
-## The Scientific Sparkle
+<!-- ## The Scientific Sparkle -->
 
 Our findings aren't just astrological musings - they're backed by robust statistics:
 - ANOVA Results: F = 92.514 (p < 4.50e-192)
@@ -269,7 +269,7 @@ Our findings aren't just astrological musings - they're backed by robust statist
 > **✨ Did You Know?**
 > While Capricorn shows the lowest overall lead role ratio (28.36%), they tend to excel in specific genres, demonstrating that success in Hollywood isn't one-size-fits-all!
 
-## The Bottom Line
+<!-- ## The Bottom Line -->
 
 While we're not suggesting casting directors should start consulting astrology charts, our analysis reveals intriguing patterns in how different zodiac signs tend to shine in various roles. It's a reminder that in the magical world of cinema, sometimes the stars above align with the stars on screen in unexpected ways.
 
