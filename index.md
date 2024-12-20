@@ -141,17 +141,17 @@ Here's the distribution of movie counts across actors with different zodiac sign
 
 We use ANOVA Analysis to check if actors with different zodiac signs have a significant difference in the number of movies they participate. Here are the procedures of the ANOVA analysis:
 
-1. **Define the variables**: Let $\mu_i$ represent the mean number of movies for actors with the $i$-th zodiac sign, where $i = 1, 2, \dots, 12$.
+1. **Define the variables**: Let $$\mu_i$$ represent the mean number of movies for actors with the $$i$$-th zodiac sign, where $$i = 1, 2, \dots, 12$$.
 
 2. **Null Hypothesis (\(H_0\)):**  
    The mean number of movies for actors with different zodiac signs is the same.  
    
-   $H_0: \mu_1 = \mu_2 = \mu_3 = \cdots = \mu_{12}$
+   $$H_0: \mu_1 = \mu_2 = \mu_3 = \cdots = \mu_{12}$$
    
 
 3. **Alternative Hypothesis (\(H_A\)):**  
    At least one zodiac sign has a significantly different mean number of movies.  
-   $H_A: \text{At least one } \mu_i \text{ is different.}$
+   $$H_A: \text{At least one } \mu_i \text{ is different.}$$
 
 4. **Hypothesis Testing**:
     
