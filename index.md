@@ -186,7 +186,6 @@ While zodiac signs display distinct genre preferences, the effect sizes remain m
 
 Amid the endless reels of cinematic storytelling, a fascinating question beckons: Are certain zodiac signs more likely to shine in specific movie genres? By delving into the intersection of astrology and cinema, we sought to uncover whether the distribution of zodiac signs within a given genre deviates significantly from the overall zodiac distribution across all films.
 
-## The Methodology: Mapping the Stars by Genre
 
 To tackle this question, we employed a structured approach:
 
@@ -194,7 +193,6 @@ To tackle this question, we employed a structured approach:
 2.	Genre-Specific Zodiac Distribution: Next, we focused on individual genres—beginning with Action films as an example—to determine their unique zodiac makeup.
 3.	Chi-Squared Test: Finally, we used a chi-squared test to compare these distributions, assessing whether the genre-specific zodiac spread significantly deviates from the overall benchmark.
 
-## Action Films: A Case Study
 
 The chi-squared test for Action films revealed a chi-square statistic of 48.84, which is large enough to conclude—at a 95% confidence level—that the zodiac distribution within Action films significantly differs from the overall distribution.
 
@@ -208,7 +206,6 @@ We then drilled down to identify the zodiac signs contributing most to this dive
 
 This analysis suggests that actors born under Taurus, Virgo, and Scorpio deviate most from the expected proportions in Action films.
 
-## Genre-Wide Insights
 
 Expanding the analysis to the top 20 most popular genres yielded intriguing results:
 - Genres independent of zodiac signs: (Adventure, Romantic drama, Fantasy, Science Fiction, Crime Thriller).
@@ -216,7 +213,6 @@ Expanding the analysis to the top 20 most popular genres yielded intriguing resu
 
 The findings suggest a complex relationship between zodiac traits and genre preferences, with some genres showing a strong alignment with specific zodiac patterns while others remain unaffected.
 
-## Conclusion
 
 While the results are compelling, they invite both curiosity and caution. The data reveals significant zodiac-genre dependencies in many cases, but the reasons behind these patterns remain open to interpretation. Could cultural stereotypes, casting tendencies, or even intrinsic zodiac traits play a role? The cinematic zodiac story is one of intrigue, leaving room for both statistical and creative exploration.
 
