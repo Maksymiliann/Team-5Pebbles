@@ -116,14 +116,12 @@ Do certain zodiac signs naturally gravitate toward specific genres? For example,
 
 <!-- Let’s find out which signs thrive in Thrillers, who rules Romance, and why Fire signs might dominate Action while Water signs find their home in emotional storytelling. -->
 
-> #### Hollywood's Genre Landscape  
-> Before diving into the zodiac-specific insights, let’s take a step back and look at the bigger picture. Hollywood's genre distribution is as diverse as it is fascinating: 
-
-> Drama reigns supreme, claiming 41.6% of all films, followed by Comedy (25.3%) and Action/Adventure (22.4%).
-
-> Romance captures hearts with 16.7%, and Thrillers keep us on the edge at 10.7%.  
-
-> But raw numbers alone don’t paint the full picture. It’s not just about which genres dominate; it’s about how specific zodiac signs connect to these genres in unexpected ways.
+> **🎬 The Big Picture**
+> - Drama dominates with 41.6% of all films
+> - Comedy brings joy to 25.3%
+> - Action/Adventure thrills in 22.4%
+> - Romance captures 16.7%
+> - Thrillers keep us on edge at 10.7%
 
 <!-- ### How We Read the Stars: Our Methodology -->
 
