@@ -242,16 +242,19 @@ Our analysis uncovered some remarkable correlations:
 
 <!-- ## The Scientific Sparkle -->
 
-Our findings aren't just astrological musings - they're backed by robust statistics:
+We conducted ANOVA analysis on the leading role distribution on genres across different zodiac signs.
+
 - ANOVA Results: F = 92.514 (p < 4.50e-192)
 - Effect Size: While subtle (Cramer's V = 0.033), the pattern is consistent and significant
 
-> **✨ Did You Know?**
-> While Capricorn shows the lowest overall lead role ratio (28.36%), they tend to excel in specific genres, demonstrating that success in Hollywood isn't one-size-fits-all!
+As a result, the tiny p-value indicates that the leading role distribution on genres are not consistent across different zodiac signs.
+
+<!-- > **✨ Did You Know?**
+> While Capricorn shows the lowest overall lead role ratio (28.36%), they tend to excel in specific genres, demonstrating that success in Hollywood isn't one-size-fits-all! -->
 
 <!-- ## The Bottom Line -->
 
-While we're not suggesting casting directors should start consulting astrology charts, our analysis reveals intriguing patterns in how different zodiac signs tend to shine in various roles. It's a reminder that in the magical world of cinema, sometimes the stars above align with the stars on screen in unexpected ways.
+While we're not suggesting casting directors should start consulting zodiac signs for casting, our analysis reveals intriguing patterns in how different zodiac signs tend to shine in various roles. It's a reminder that in the magical world of cinema, sometimes the stars above align with the stars on screen in unexpected ways.
 
 ### 3.8 Are actors of different zodiac signs equally likely to win an Oscar?
 
