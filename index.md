@@ -44,7 +44,7 @@ Among all zodiac signs, **Cancerians** take the crown with 8.71% of actors, sign
 On the other end, **Sagittarius** and **Capricorn** find themselves underrepresented, comprising only 7.92% and 7.89% of actors, respectively. Sagittarians, known for their adventurous spirit, might be more drawn to pursuits outside the arts. Capricorns, with their practical and disciplined nature, could lean toward structured careers rather than the unpredictable world of acting.
 
 **Is It All a Coincidence?**  
-A statistical chi-square test confirms that the distribution **isn’t random**. The significant **p-value (< 0.0001)** strongly rejects the idea of a uniform zodiac distribution among actors. This finding suggests that some astrological factors might subtly influence who ends up on the silver screen—or perhaps it reflects societal perceptions of certain traits linked to zodiac signs.
+Our chi-square test confirms that the distribution **isn’t random**. With **p-value (< 0.0001)**, it's evident that **actors are not uniformly distributed across zodiac signs**. This finding suggests that some astrological factors might subtly influence who ends up on the silver screen—or perhaps it reflects societal perceptions of certain traits linked to zodiac signs.
 
 Astrology enthusiasts might point out that Water signs (Cancer and Pisces) excel in emotional expression, a key skill for actors. Leo, a Fire sign, thrives in the spotlight. However, Air and Earth signs, often associated with intellectual and practical traits, seem more evenly distributed.
 
