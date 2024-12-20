@@ -66,29 +66,40 @@ Interestingly, an online search for “zodiac signs best suited to acting” fre
 
 Further research is needed to explore potential cultural or psychological factors contributing to these trends.  
 
-# 4. Do actors with different zodiac signs significantly differ in the number of movies they participate in?
+# 4. Do Zodiac Signs Influence the Number of Movies Actors Star In?
+
+In the glitzy world of cinema, where stars of the celestial and celebrity kind align, a curious question emerged: Could an actor’s zodiac sign influence their career’s trajectory? To unravel this cosmic mystery, we embarked on an exploration of data and statistics, asking: Do actors with different zodiac signs significantly differ in the number of movies they participate in?
 
 > code at: https://github.com/epfl-ada/ada-2024-project-5pebbles/blob/Zhichen/results.ipynb
 
+## Unveiling the Approach
 
-Methodology: 
-1. Group the actors by their zodiac signs.
-2. Conduct an ANOVA analysis to determine whether the distribution of movie counts varies significantly across different zodiac signs.
+To investigate, we turned to hypothesis test methods:
 
+1.	Grouping by Zodiac Signs: First, actors were categorized according to their zodiac signs, creating twelve distinct groups—one for each sign.
+
+2.	Analysis of Variance (ANOVA): Then, we conducted an ANOVA test to compare the distribution of movie counts across these zodiac groups. This statistical test measures whether differences between groups are significant or merely a result of chance.
+
+
+## A Rough Look at the data: The Starry Distribution
+Before diving into the results, we visualized the data. The chart above illustrates how the number of movies varies across actors belonging to each zodiac sign. Patterns began to emerge, hinting at potential differences, but could they be statistically confirmed?
 
 Here's the distribution of movie counts across actors with different zodiac signs:
 ![zodiac-#movie](/assets/img/role_number-zodiac.png)
 
 
-We use ANOVA Analysis to check if actors with different zodiac signs have a significant difference in the number of movies they participate. Here are the procedures of the ANOVA analysis:
-
-The statistic of ANOVA analysis is as follows (rounded to 3 digits):
-
+## The Verdict: ANOVA Analysis
+The ANOVA test provided these key statistics (rounded to three decimal places):
 ```bash
-F-statistic: 1.800
-P-value: 0.048
+	F-statistic: 1.800
+	p-value: 0.048
 ```
-At a 95% confidence level, we can say that actors with different zodiac signs DO have a a significant difference in the number of movies they participate.
+
+At a 95% confidence level, these results are illuminating. With a p-value below the threshold of 0.05, we found that the differences in movie counts across zodiac signs are indeed significant. In other words, the data supports the hypothesis that zodiac signs are associated with variation in the number of movies actors participate in.
+
+## Conclusion
+
+While this analysis does not imply causation—astrological signs may not directly influence an actor’s success—it opens the door to fascinating discussions about underlying factors, whether cultural, psychological, or simply coincidental, that could align with zodiac sign traits. The stars, it seems, may have more sway over Hollywood than we once thought.
 
 # 5. Career Longevity
 3.⁠ ⁠(6) *Career longevity*: How do zodiac signs correlate with actors' career longevity, examining the timespan from their first to last movie appearances?  
