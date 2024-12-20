@@ -125,23 +125,23 @@ Let’s find out which signs thrive in Thrillers, who rules Romance, and why Fir
 > Drama reigns supreme, claiming 41.6% of all films, followed by Comedy (25.3%) and Action/Adventure (22.4%). Romance captures hearts with 16.7%, and Thrillers keep us on the edge at 10.7%.  
 > But raw numbers alone don’t paint the full picture. It’s not just about which genres dominate; it’s about how specific zodiac signs connect to these genres in unexpected ways.
 
-### How We Read the Stars: Our Methodology  
+<!-- ### How We Read the Stars: Our Methodology -->
 
 Imagine a party with snacks: if most people eat 40% chocolate and you eat 80%, it’s clear you have a sweet spot for it. Similarly, we calculated a **Base Rate** for how common each genre is, and a **Zodiac-Specific Rate** for how often actors of each sign appear in them. Dividing these gave us a **Preference Index**, where scores above 1 reveal stronger preferences and below 1, less interest—highlighting the cosmic link between zodiac traits and Hollywood genres.  
 
 ![Gender Analysis](/assets/img/genre_movie.png)  
 
-#### :sagittarius: The Thrill Seekers  
+<!-- #### :sagittarius: The Thrill Seekers -->
 Sagittarius shines in Thrillers, favoring suspenseful storytelling with a +12.5% preference. Their adventurous, daring nature makes them natural fits for edge-of-your-seat tales.  
 
-#### ♒ Aquarius: Action Heroes  
+ <!-- #### ♒ Aquarius: Action Heroes -->
 Aquarians dominate Action/Adventure films, with a staggering +74% preference index. Their rebellious and innovative streak fits perfectly in high-energy, adrenaline-packed stories.  
 
-#### ♏ Scorpio: The Genre Chameleon  
+<!-- #### ♏ Scorpio: The Genre Chameleon -->
 Scorpios’ versatility shows in Animation (+17.5%) and Family Films (+16.7%), where their emotional depth brings characters to life.  
 <br>
 
-### The Elements at Play  
+<!-- ### The Elements at Play -->
 
 The patterns became even clearer when we grouped signs by their elements:  
 
@@ -153,7 +153,7 @@ The patterns became even clearer when we grouped signs by their elements:
 
 🌍 **Earth Signs** (Taurus, Virgo, Capricorn) ground themselves in structured genres, excelling in Drama (+22.4%) and Musicals (+17%), showcasing realism and discipline.
 
-### What It All Means?  
+<!-- ### What It All Means? -->
 
 Backed by solid statistics, these patterns reveal how zodiac traits align with cinematic storytelling:  
 
